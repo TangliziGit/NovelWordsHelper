@@ -1,0 +1,13614 @@
+##221551		
+@(Theme-music)		zzc
+@!PURE-MILK-#		zzq
+Protesters	protester	nn2
+:	:	y
+(	(	y
+In	in	ii
+Unison	unison	nn1_jj
+)		np1
+Hey	hey	uh
+,	,	y
+hey	hey	uh
+,	,	y
+ho	ho	uh
+,	,	y
+ho	ho	uh
+,	,	y
+BGH	bgh	np1
+has	have	vhz
+got	get	vvn
+to	to	to
+go	go	vvi
+.	.	y
+Hey	hey	uh
+,	,	y
+hey	hey	uh
+,	,	y
+ho	ho	uh
+,	,	y
+ho	ho	uh
+,	,	y
+BGH	bgh	np1
+has	have	vhz
+got	get	vvn
+to	to	to
+go	go	vvi
+.	.	y
+Unidentified	unidentified	jj
+Man	man	nn1
+1	1	mc1
+:	:	y
+Find	find	vv0
+out	out	rp
+what	what	ddq
+they	they	pphs2
+'re	be	vbr
+putting	put	vvg
+in	in	ii_rp@
+your	your	appge
+milk	milk	nn1
+.	.	y
+It	it	pph1
+'s	be	vbz
+not	not	xx
+natural	natural	jj_rr@
+.	.	y
+@(Footage-of-protest)		zzc
+@!ERIN-MORIARTY-repo		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+When	when	cs_rrq
+it	it	pph1
+'s	be	vbz
+the	the	at
+purity	purity	nn1
+of	of	io
+milk	milk	nn1
+in	in	ii
+question	question	nn1
+,	,	y
+you	you	ppy
+'ve	have	vh0
+got	get	vvn
+a	a	at1
+bitter	bitter	jj
+food	food	nn1
+fight	fight	nn1_vv0
+on	on	ii
+your	your	appge
+hands	hand	nn2
+.	.	y
+Unidentified	unidentified	jj
+Man	man	nn1
+2	2	mc
+:	:	y
+All	all	rr21
+right	right	rr22
+!	!	y
+Protesters	protester	nn2
+:	:	y
+(	(	y
+In	in	ii
+Unison	unison	nn1_jj
+)		np1
+...	...	...
+BGH	bgh	np1
+has	have	vhz
+got	get	vvn
+to	to	to
+go	go	vvi
+!	!	y
+@(Footage-of-protest)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+The	the	at
+battle	battle	nn1
+in	in	ii
+cities	city	nn2
+like	like	ii
+Denver	denver	np1
+is	be	vbz
+over	over	ii_rp
+a	a	at1
+genetically	genetically	rr
+engineered	engineered	jj_vvn
+hormone	hormone	nn1
+that	that	cst_dd1
+increases	increase	vvz
+a	a	at1
+cow	cow	nn1
+'s	's	ge
+milk	milk	nn1
+production	production	nn1
+.	.	y
+Monsanto	monsanto	nn1_np1@
+has	have	vhz
+been	be	vbn
+selling	sell	vvg
+it	it	pph1
+since	since	cs_rr@
+early	early	jj_rr
+February	february	npm1
+under	under	ii
+the	the	at
+trade	trade	nn1
+name	name	nn1
+Posilac	posilac	np1_nn1@
+,	,	y
+but	but	ccb
+it	it	pph1
+'s	be	vbz
+also	also	rr
+known	know	vvn
+as	as	ii
+BGH	bgh	np1
+or	or	cc
+BST	bst	ra
+.	.	y
+Confusing	confusing	jj_vvg@
+?	?	y
+That	that	dd1
+'s	be	vbz
+the	the	at
+least	least	dat_rrt
+of	of	io
+it	it	pph1
+.	.	y
+Unidentified	unidentified	jj
+Man	man	nn1
+3	3	mc
+:	:	y
+We	we	ppis2
+do	do	vd0
+n't	n't	xx
+have	have	vhi
+any	any	dd
+long-term	long-term	jj
+studies	study	nn2
+on	on	ii
+BGH	bgh	np1
+.	.	y
+It	it	pph1
+'s	be	vbz
+a	a	at1
+hormone	hormone	nn1
+.	.	y
+Think	think	vv0
+about	about	ii
+it	it	pph1
+.	.	y
+@!Mr-JOE-GORE-@1Dair		zzq
+:	:	y
+This	this	dd1
+is	be	vbz
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Joe	joe	np1
+Gore	gore	np1
+never	never	rr
+expected	expect	vvn_vvd
+to	to	to
+find	find	vvi
+himself	himself	ppx1
+right	right	rr
+in	in	ii
+the	the	at
+middle	middle	nn1
+of	of	io
+the	the	at
+fray	fray	nn1
+.	.	y
+@!Mr-GORE		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+We	we	ppis2
+bought	buy	vvd
+this	this	dd1
+place	place	nn1
+here	here	rl
+together	together	rl
+with	with	iw
+Dad	dad	nn1
+.	.	y
+He	he	pphs1
+was	be	vbdz
+milking	milk	vvg@_nn1_jj@
+60	60	mc
+cows	cow	nn2
+at	at	ii
+the	the	at
+time	time	nnt1
+.	.	y
+@(Footage-of-Gore-an)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+He	he	pphs1
+'s	be	vbz
+a	a	at1
+dairy	dairy	nn1
+farmer	farmer	nn1
+who	who	pnqs
+'s	be	vbz_vhz@
+lived	live	vvn
+his	his	appge
+entire	entire	jj
+life	life	nn1
+in	in	ii
+Comanche	comanche	np1_nn1
+,	,	y
+Texas	texas	np1
+...	...	...
+@!Mr-GORE		zzq
+:	:	y
+I	i	ppis1_mc1%
+--		zz
+I	i	ppis1
+did	do	vdd
+n't	n't	xx
+have	have	vhi
+anything	anything	pn1
+when	when	cs_rrq
+we	we	ppis2
+started	start	vvd
+and	and	cc
+...	...	...
+@(Footage-of-Gore-an)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+running	run	vvg
+the	the	at
+Gore	gore	np1
+Brothers	brother	nn2
+'	'	ge
+Dairy	dairy	nn1
+.	.	y
+The	the	at
+family	family	nn1
+decided	decide	vvd_vvn
+not	not	xx
+to	to	to
+use	use	vvi
+the	the	at
+synthetic	synthetic	jj
+growth	growth	nn1
+hormone	hormone	nn1
+and	and	cc
+to	to	to
+tell	tell	vvi
+their	their	appge
+customers	customer	nn2
+.	.	y
+@!Mr-GORE		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+We	we	ppis2
+do	do	vd0
+n't	n't	xx
+intend	intend	vvi
+to	to	to
+use	use	vvi
+it	it	pph1
+.	.	y
+We	we	ppis2
+felt	feel	vvd
+like	like	cs%_rr%
+we	we	ppis2
+were	be	vbdr
+responsible	responsible	jj
+to	to	to
+inform	inform	vvi
+them	them	ppho2
+as	as	rg
+--		zz
+as	as	csa
+much	much	rr_da1
+.	.	y
+@(Footage-of-boxes-o)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+So	so	cs@_rr
+they	they	pphs2
+put	put	vv0_vvd
+labels	label	nn2
+on	on	ii
+their	their	appge
+milk	milk	nn1
+saying	say	vvg
+it	it	pph1
+was	be	vbdz
+from	from	ii
+untreated	untreated	jj
+cows	cow	nn2
+.	.	y
+@!Mr-GORE		zzq
+:	:	y
+This	this	dd1
+was	be	vbdz
+the	the	at
+original	original	jj
+tag	tag	nn1
+that	that	cst
+we	we	ppis2
+put	put	vv0_vvd
+on	on	ii_rp@
+our	our	appge
+jugs	jug	nn2
+.	.	y
+@(Footage-of-tag)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+That	that	dd1
+'s	be	vbz
+when	when	rrq
+the	the	at
+trouble	trouble	nn1
+started	start	vvd
+.	.	y
+And	and	cc
+what	what	ddq
+did	do	vdd
+Monsanto	monsanto	np1
+do	do	vdi
+?	?	y
+@!Mr-GORE		zzq
+:	:	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+do	do	vd0
+n't	n't	xx
+want	want	vvi
+us	us	ppio2
+to	to	to
+tell	tell	vvi
+the	the	at
+consumer	consumer	nn1
+that	that	cst
+we	we	ppis2
+are	be	vbr
+not	not	xx
+using	use	vvg
+their	their	appge
+product	product	nn1
+in	in	ii
+our	our	appge
+cows	cow	nn2
+.	.	y
+You	you	ppy
+judge	judge	vv0
+for	for	if
+yourself	yourself	ppx1
+.	.	y
+I	i	ppis1
+think	think	vv0
+it	it	pph1
+'s	be	vbz
+ridiculous	ridiculous	jj
+.	.	y
+@(Footage-of-Monsant)		zzc
+@!Ms-LISA-WATSON-@1M		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+The	the	at
+lawsuit	lawsuit	nn1
+was	be	vbdz
+based	base	vvn
+on	on	ii
+advertising	advertising	nn1
+and	and	cc
+promotional	promotional	jj
+activities	activity	nn2
+that	that	cst
+we	we	ppis2
+believe	believe	vv0
+misled	misled	jj@
+consumers	consumer	nn2
+.	.	y
+@(Footage-of-Watson)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Lisa	lisa	np1
+Watson	watson	np1
+is	be	vbz
+with	with	iw
+Monsanto	monsanto	np1_nn1
+.	.	y
+What	what	ddq
+is	be	vbz
+wrong	wrong	jj_rr@
+with	with	iw
+the	the	at
+label	label	nn1
+that	that	cst
+just	just	rr
+tells	tell	vvz
+the	the	at
+consumer	consumer	nn1
+that	that	cst
+this	this	dd1
+milk	milk	nn1
+came	come	vvd
+from	from	ii
+untreated	untreated	jj
+cows	cow	nn2
+?	?	y
+@!Ms-WATSON		zzq
+:	:	y
+Market	market	vv0_nn1
+research	research	nn1
+data	data	nn
+shows	show	vvz_nn2
+very	very	rg
+clearly	clearly	rr
+that	that	dd1_cst_rg%
+60-plus	60-plus	jj
+percent	percent	nnu
+of	of	io
+consumers	consumer	nn2
+who	who	pnqs
+see	see	vv0
+just	just	rr
+that	that	dd1
+statement	statement	nn1
+on	on	ii
+a	a	at1
+label	label	nn1
+think	think	vv0
+that	that	cst
+that	that	dd1
+milk	milk	nn1
+is	be	vbz
+of	of	io
+a	a	at1
+different	different	jj
+quality	quality	nn1
+,	,	y
+a	a	at1
+different	different	jj
+safety	safety	nn1
+level	level	nn1
+.	.	y
+Those	those	dd2
+are	be	vbr
+false	false	jj
+and	and	cc
+misleading	misleading	jj
+claims	claim	nn2
+.	.	y
+@(Footage-of-doormat)		zzc
+@!MORIARTY		zzq
+:	:	y
+Monsanto	monsanto	np1_nn1
+thinks	think	vvz
+that	that	cst
+by	by	ii
+putting	put	vvg
+a	a	at1
+label	label	nn1
+on	on	ii
+your	your	appge
+milk	milk	nn1
+saying	say	vvg_nn1@
+,	,	y
+'	'	"@_ge
+We	we	ppis2
+'re	be	vbr
+not	not	xx
+using	use	vvg
+this	this	dd1
+growth	growth	nn1
+hormone	hormone	nn1
+,	,	y
+'	'	"@_ge
+I	i	ppis1
+mean	mean	vv0
+,	,	y
+are	be	vbr
+n't	n't	xx
+you	you	ppy
+,	,	y
+in	in	ii
+--		nn1_jj
+in	in	ii
+essence	essence	nn1
+,	,	y
+saying	say	vvg
+there	there	ex_rl
+'s	be	vbz
+something	something	pn1
+wrong	wrong	jj_rr@
+with	with	iw
+milk	milk	nn1
+produced	produce	vvn_vvd
+with	with	iw
+that	that	dd1
+?	?	y
+@!Mr-GORE		zzq
+:	:	y
+All	all	db
+I	i	ppis1
+'m	be	vbm
+doing	do	vdg
+is	be	vbz
+answering	answer	vvg
+our	our	appge
+customers	customer	nn2
+'	'	ge
+questions	question	nn2
+.	.	y
+If	if	cs
+they	they	pphs2
+have	have	vh0
+a	a	at1
+reason	reason	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+business	business	nn1
+.	.	y
+@(Footage-of-milk-ca)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+And	and	cc
+Joe	joe	np1
+Gore	gore	np1
+'s	's	ge
+business	business	nn1
+is	be	vbz
+living	live	vvg_jj
+up	up	ii21
+to	to	ii22
+the	the	at
+name	name	nn1
+on	on	ii
+his	his	appge
+product	product	nn1
+:	:	y
+Pure	pure	jj
+Milk	milk	nn1
+.	.	y
+@!Mr-GORE		zzq
+:	:	y
+Well	well	rr
+,	,	y
+we	we	ppis2
+'ve	have	vh0
+kind	kind	rr21%
+of	of	rr22
+been	be	vbn
+a	a	at1
+forerunner	forerunner	nn1
+in	in	ii
+quality	quality	nn1
+ever	ever	rr
+since	since	cs
+we	we	ppis2
+'ve	have	vh0
+been	be	vbn
+connected	connect	vvn
+with	with	iw
+the	the	at
+business	business	nn1
+.	.	y
+@(Footage-of-cow-sta)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Unlike	unlike	ii@
+most	most	dat
+dairies	dairy	nn2
+,	,	y
+the	the	at
+Gores	gores	np2
+control	control	vv0
+everything	everything	pn1
+from	from	ii
+the	the	at
+feed	feed	nn1
+mill	mill	nn1
+to	to	ii
+the	the	at
+processing	processing	nn1
+plant	plant	nn1
+.	.	y
+They	they	pphs2
+also	also	rr
+take	take	vv0
+extra	extra	jj
+precautions	precaution	nn2
+along	along	ii
+the	the	at
+way	way	nn1
+,	,	y
+including	including	ii_vvg@
+tests	test	nn2
+in	in	ii
+their	their	appge
+own	own	da
+lab	lab	nn1
+to	to	to
+make	make	vvi
+sure	sure	jj
+that	that	cst
+their	their	appge
+milk	milk	nn1
+is	be	vbz
+what	what	ddq
+they	they	pphs2
+say	say	vv0
+it	it	pph1
+is	be	vbz
+:	:	y
+pure	pure	jj
+.	.	y
+@!Mr-KEN-HARVICK-@1D		zzq
+:	:	y
+The	the	at
+tighter	tight	jjr
+controls	control	nn2
+you	you	ppy
+have	have	vh0
+,	,	y
+the	the	at
+better	better	jjr
+quality	quality	nn1
+milk	milk	nn1
+you	you	ppy
+'re	be	vbr
+going	go	vvgk
+to	to	to
+have	have	vhi
+.	.	y
+@(Footage-of-Harvick)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Joe	joe	np1
+'s	's	ge
+son-in-law	son-in-law	nn1
+Ken	ken	np1
+Harvick	harvick	np1_nn1
+is	be	vbz
+manager	manager	nn1
+of	of	io
+the	the	at
+dairy	dairy	nn1
+operation	operation	nn1
+.	.	y
+@!Mr-HARVICK		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+We	we	ppis2
+feel	feel	vv0
+like	like	cs%_vv0@_rr%
+we	we	ppis2
+take	take	vv0
+pride	pride	nn1
+in	in	ii
+making	make	vvg
+sure	sure	jj
+that	that	cst
+we	we	ppis2
+can	can	vm
+assure	assure	vvi
+the	the	at
+customer	customer	nn1
+that	that	cst
+there	there	ex
+are	be	vbr
+some	some	dd
+things	thing	nn2
+they	they	pphs2
+'re	be	vbr
+not	not	xx
+going	go	vvgk
+to	to	to
+have	have	vhi
+to	to	to
+worry	worry	vvi
+about	about	rp@
+in	in	ii
+our	our	appge
+milk	milk	nn1
+.	.	y
+@!Mr-GORE		zzq
+:	:	y
+When	when	rrq_cs
+this	this	dd1
+BST	bst	ra
+thing	thing	nn1
+come	come	vv0_vvn@
+along	along	rp
+,	,	y
+we	we	ppis2
+looked	look	vvd
+at	at	ii
+it	it	pph1
+,	,	y
+we	we	ppis2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+our	our	appge
+best	best	jjt
+interest	interest	nn1
+to	to	ii
+subject	subject	nn1
+our	our	appge
+cows	cow	nn2
+to	to	ii
+it	it	pph1
+.	.	y
+@!Mr-HARVICK		zzq
+:	:	y
+We	we	ppis2
+'ve	have	vh0
+been	be	vbn
+in	in	ii
+the	the	at
+dairy	dairy	nn1
+business	business	nn1
+long	long	rr
+enough	enough	rr_dd
+to	to	to
+know	know	vvi
+you	you	ppy
+do	do	vd0
+n't	n't	xx
+get	get	vvi
+something	something	pn1
+for	for	if
+nothing	nothing	pn1
+.	.	y
+@(Footage-of-dairy-p)		zzc
+@!Mr-HARVICK		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+To	to	to
+ask	ask	vvi
+the	the	at
+cow	cow	nn1
+to	to	to
+give	give	vvi
+10	10	mc
+to	to	ii
+15	15	mc
+percent	percent	nnu
+more	more	dar
+milk	milk	nn1
+,	,	y
+which	which	ddq
+is	be	vbz
+what	what	ddq
+they	they	pphs2
+say	say	vv0
+sh	sh	uh
+--		nn1
+she	she	pphs1
+'ll	will	vm
+do	do	vdi
+,	,	y
+she	she	pphs1
+ca	can	vm
+n't	n't	xx
+do	do	vdi
+that	that	dd1
+without	without	iw
+giving	give	vvg
+something	something	pn1
+up	up	rp
+in	in	ii
+return	return	nn1
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Footage-of-cows		np1
+;		np1
+-d	-d	zz1_mc%
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+What	what	ddq
+they	they	pphs2
+fear	fear	vv0
+the	the	at
+cow	cow	nn1
+gives	give	vvz
+up	up	rp
+is	be	vbz
+her	her	appge
+health	health	nn1
+.	.	y
+Higher	high	jjr
+milk	milk	nn1
+production	production	nn1
+may	may	vm
+mean	mean	vvi
+more	more	dar
+stress	stress	nn1
+on	on	ii
+the	the	at
+cow	cow	nn1
+,	,	y
+which	which	ddq
+could	could	vm
+lead	lead	vvi
+to	to	ii
+more	more	dar
+illness	illness	nn1
+.	.	y
+In	in	ii
+your	your	appge
+opinion	opinion	nn1
+,	,	y
+should	should	vm
+the	the	at
+synthetic	synthetic	jj
+growth	growth	nn1
+hormone	hormone	nn1
+have	have	vh0
+ever	ever	rr
+been	be	vbn
+approved	approve	vvn
+for	for	if
+use	use	nn1
+on	on	ii
+dairy	dairy	nn1
+cattle	cattle	nn2
+?	?	y
+@!Dr-RICHARD-BURROWS		zzq
+:	:	y
+No	no	uh
+,	,	y
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+believe	believe	vvi
+it	it	pph1
+should	should	vm
+.	.	y
+@(Footage-of-Burrows)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Veterinarian	veterinarian	jj
+Dr.	dr	nnb
+Richard	richard	np1
+Burrows	burrows	np1
+spent	spend	vvd
+13	13	mc
+years	year	nnt2
+at	at	ii
+the	the	at
+Food	food	nn1
+and	and	cc
+Drug	drug	nn1
+Administration	administration	nn1
+;		np1
+almost	almost	rr
+half	half	db
+that	that	dd1
+time	time	nnt1
+reviewing	review	vvg
+the	the	at
+synthetic	synthetic	jj
+growth	growth	nn1
+hormone	hormone	nn1
+.	.	y
+@!Dr-BURROWS		zzq
+:	:	y
+The	the	at
+very	very	rg
+first	first	md
+data	data	nn
+that	that	cst
+I	i	ppis1
+saw	see	vvd
+come	come	vv0_vvn@
+in	in	rp@_ii
+showed	show	vvd
+that	that	cst
+it	it	pph1
+increased	increase	vvd_jj
+reproductive	reproductive	jj
+and	and	cc
+udder	udder	vv0_nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+biggest	big	jjt
+problems	problem	nn2
+that	that	cst
+farmers	farmer	nn2
+confront	confront	vv0
+on	on	ii_rp@
+a	a	at1
+daily	daily	jj
+basis	basis	nn1
+.	.	y
+@(Footage-of-documen)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+That	that	cst_dd1
+did	do	vdd
+n't	n't	xx
+stop	stop	vvi
+the	the	at
+FDA	fda	nn1_np1
+from	from	ii
+approving	approve	vvg
+the	the	at
+drug	drug	nn1
+.	.	y
+@!Ms-LINDA-SUYDAM-@1		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+It	it	pph1
+'s	be	vbz
+probably	probably	rr
+the	the	at
+most-studied	most-studied	jj_nn1
+animal	animal	nn1
+veterinarian	veterinarian	nn1_jj
+product	product	nn1
+that	that	cst
+the	the	at
+FDA	fda	nn1_np1
+has	have	vhz
+ever	ever	rr
+approved	approve	vvn
+.	.	y
+@(Footage-of-Suydam-)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Linda	linda	np1
+Suydam	suydam	np1_nn1@
+of	of	io
+the	the	at
+FDA.	fda	zz
+@!Ms-SUYDAM		zzq
+:	:	y
+Every	every	at1
+one	one	mc1
+of	of	io
+those	those	dd2
+reviews	review	nn2
+in	in	ii
+the	the	at
+Science	science	nn1
+says	say	vvz
+this	this	dd1
+product	product	nn1
+is	be	vbz
+safe	safe	jj
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+You	you	ppy
+read	read	vv0_vvd
+the	the	at
+label	label	nn1
+that	that	cst_dd1
+comes	come	vvz
+with	with	iw
+Posilac	posilac	np1
+.	.	y
+We	we	ppis2
+talk	talk	vv0
+about	about	ii
+,	,	y
+'	'	ge
+Use	use	nn1
+of	of	io
+Posilac	posilac	np1_nn1@
+may	may	vm
+result	result	vvi
+in	in	ii
+reduced	reduced	jj@
+pregnancy	pregnancy	nn1
+rates	rate	nn2
+.	.	y
+Cows	cow	nn2
+injected	inject	vvn_vvd
+with	with	iw
+Posilac	posilac	np1
+are	be	vbr
+at	at	ii
+increased	increased	jj
+risk	risk	nn1
+for	for	if
+clinical	clinical	jj
+mastitis.	mastitis	nnu
+'	'	ge
+@!Dr-BURROWS		zzq
+:	:	y
+Never	never	rr
+in	in	ii
+my	my	appge
+time	time	nnt1
+at	at	ii
+the	the	at
+Food	food	nn1
+and	and	cc
+Drug	drug	nn1
+Administration	administration	nn1
+has	have	vhz
+there	there	rl
+ever	ever	rr
+been	be	vbn
+a	a	at1
+label	label	nn1
+with	with	iw
+this	this	dd1
+kind	kind	nn1
+of	of	io
+information	information	nn1
+on	on	ii
+it	it	pph1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+You	you	ppy
+mean	mean	vv0
+that	that	cst
+many	many	da2
+warnings	warning	nn2
+?	?	y
+@!Dr-BURROWS		zzq
+:	:	y
+That	that	cst_dd1
+many	many	da2
+.	.	y
+The	the	at
+companies	company	nn2
+would	would	vm
+fight	fight	vvi
+tooth	tooth	nn1
+and	and	cc
+nail	nail	nn1_vv0@
+to	to	to
+keep	keep	vvi
+off	off	rp_ii
+a	a	at1
+simple	simple	jj
+statement	statement	nn1
+like	like	ii
+...	...	...
+@!MORIARTY		zzq
+:	:	y
+...	...	...
+'	'	"@_ge
+Cows	cow	nn2
+injected	inject	vvn_vvd
+with	with	iw
+Posilac	posilac	np1
+has	have	vhz
+increased	increase	vvn
+numbers	number	nn2
+of	of	io
+enlarged	enlarged	jj
+hocks	hock	nn2
+and	and	cc
+lesions	lesion	nn2
+.	.	y
+'	'	"@_ge
+And	and	cc
+--		nn1_jj
+I	i	ppis1
+mean	mean	vv0
+,	,	y
+I	i	ppis1
+could	could	vm
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+farmers	farmer	nn2
+to	to	to
+be	be	vbi
+surprised	surprised	jj_vvn%
+when	when	cs_rrq
+they	they	pphs2
+give	give	vv0
+their	their	appge
+cow	cow	nn1
+a	a	at1
+drug	drug	nn1
+.	.	y
+They	they	pphs2
+want	want	vv0
+--		nn1_jj
+we	we	ppis2
+want	want	vv0
+them	them	ppho2
+to	to	to
+have	have	vhi
+all	all	db
+the	the	at
+information	information	nn1
+.	.	y
+@!Dr-BURROWS		zzq
+:	:	y
+I	i	ppis1
+mean	mean	vv0
+,	,	y
+it	it	pph1
+'s	be	vbz
+safe	safe	jj
+and	and	cc
+effective	effective	jj
+or	or	cc
+it	it	pph1
+'s	be	vbz
+not	not	xx
+.	.	y
+That	that	dd1
+'s	be	vhz
+always	always	rr
+been	be	vbn
+the	the	at
+standard	standard	nn1_jj
+.	.	y
+And	and	cc
+...	...	...
+@!MORIARTY		zzq
+:	:	y
+What	what	ddq
+happened	happen	vvd
+in	in	ii_rp@
+this	this	dd1
+case	case	nn1
+then	then	rt
+?	?	y
+@!Dr-BURROWS		zzq
+:	:	y
+In	in	ii
+this	this	dd1
+case	case	nn1
+they	they	pphs2
+just	just	rr
+abandoned	abandon	vvd_vvn
+the	the	at
+--		nn1_jj
+you	you	ppy
+know	know	vv0
+,	,	y
+standard	standard	nn1_jj
+they	they	pphs2
+used	use	vvd
+all	all	db
+those	those	dd2
+--		zz
+all	all	db
+those	those	dd2
+years	year	nnt2
+.	.	y
+Obviously	obviously	rr
+,	,	y
+it	it	pph1
+'s	be	vbz
+not	not	xx
+safe	safe	jj
+to	to	ii
+the	the	at
+animal	animal	nn1
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Footage-of-cows		np1
+;		np1
+-a	 	at1
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+The	the	at
+most	most	rgt
+critical	critical	jj
+side	side	nn1
+effect	effect	nn1
+of	of	io
+using	use	vvg
+the	the	at
+synthetic	synthetic	jj
+hormone	hormone	nn1
+is	be	vbz
+an	a	at1
+increase	increase	nn1
+in	in	ii
+mastitis	mastitis	nn1
+,	,	y
+an	a	at1
+infection	infection	nn1
+of	of	io
+the	the	at
+udder	udder	nn1
+.	.	y
+The	the	at
+most	most	rgt
+common	common	jj
+way	way	nn1
+to	to	to
+treat	treat	vvi
+mastitis	mastitis	nn1
+is	be	vbz
+with	with	iw
+antibiotics	antibiotic	nn2
+.	.	y
+@!Mr-HARMAN		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+If	if	cs
+the	the	at
+drug	drug	nn1
+'s	be	vbz
+there	there	rl
+,	,	y
+it	it	pph1
+'s	be	vbz
+going	go	vvgk
+to	to	to
+end	end	vvi
+up	up	rp
+in	in	ii
+the	the	at
+milk	milk	nn1
+.	.	y
+@(Footage-of-Harman-)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+John	john	np1
+Harman	harman	np1
+is	be	vbz
+with	with	iw
+the	the	at
+General	general	jj_nn1
+Accounting	accounting	nn1_vvg_jj@
+Office	office	nn1
+,	,	y
+the	the	at
+investigative	investigative	jj
+arm	arm	nn1
+of	of	io
+Congress	congress	nn1
+.	.	y
+@!Mr-HARMAN		zzq
+:	:	y
+There	there	ex
+is	be	vbz
+widespread	widespread	jj
+use	use	nn1
+--		nn1
+and	and	cc
+I	i	ppis1
+think	think	vv0
+I	i	ppis1
+can	can	vm
+say	say	vvi
+this	this	dd1
+with	with	iw
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+cows	cow	nn2
+.	.	y
+And	and	cc
+it	it	pph1
+just	just	rr
+--		zz
+it	it	pph1
+--		zz
+it	it	pph1
+shows	show	vvz
+up	up	rp
+in	in	ii
+the	the	at
+milk	milk	nn1
+.	.	y
+Usually	usually	rr
+that	that	dd1
+'s	be	vbz
+where	where	rrq
+drugs	drug	nn2
+go	go	vv0
+:	:	y
+It	it	pph1
+shows	show	vvz
+up	up	rp
+in	in	ii
+the	the	at
+milk	milk	nn1
+.	.	y
+@!Ms-SUYDAM		zzq
+:	:	y
+We	we	ppis2
+are	be	vbr
+covering	cover	vvg
+a	a	at1
+major	major	jj
+--		nn1
+the	the	at
+major	major	jj
+amount	amount	nn1
+of	of	io
+drug	drug	nn1
+usage	usage	nn1
+in	in	ii
+milk	milk	nn1
+in	in	ii
+our	our	appge
+testing	testing	nn1
+at	at	ii
+this	this	dd1
+point	point	nn1
+in	in	ii
+time	time	nnt1
+.	.	y
+@(Footage-of-milk-ta)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+In	in	ii
+fact	fact	nn1
+,	,	y
+the	the	at
+FDA	fda	nn1_np1
+requires	require	vvz
+that	that	cst
+every	every	at1
+tanker	tanker	nn1
+of	of	io
+milk	milk	nn1
+be	be	vbi
+tested	test	vvn
+for	for	if
+antibiotics	antibiotic	nn2
+when	when	cs_rrq
+it	it	pph1
+arrives	arrive	vvz
+at	at	ii
+a	a	at1
+processing	processing	nn1
+plant	plant	nn1
+,	,	y
+but	but	ccb
+the	the	at
+test	test	nn1
+only	only	rr
+detects	detect	vvz
+four	four	mc
+kinds	kind	nn2
+of	of	io
+drugs	drug	nn2
+.	.	y
+@!Mr-HARMAN		zzq
+:	:	y
+This	this	dd1
+is	be	vbz
+all	all	db
+the	the	at
+list	list	nn1
+of	of	io
+the	the	at
+82	82	mc
+drugs	drug	nn2
+that	that	cst
+we	we	ppis2
+went	go	vvd
+out	out	rp
+and	and	cc
+determined	determine	vvn_jj_vvd@
+that	that	cst
+were	be	vbdr
+being	be	vbg
+used	use	vvn
+on	on	ii
+dairy	dairy	nn1
+cows	cow	nn2
+.	.	y
+@(Camera-pans-down-l)		zzc
+@!Mr-HARMAN		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Out	out	ii21
+of	of	ii22
+the	the	at
+82	82	mc
+drugs	drug	nn2
+,	,	y
+30	30	mc
+had	have	vhd
+been	be	vbn
+approved	approve	vvn
+and	and	cc
+52	52	mc
+had	have	vhd
+not	not	xx
+been	be	vbn
+approved	approve	vvn
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+If	if	cs
+the	the	at
+FDA	fda	nn1_np1
+ca	can	vm
+n't	n't	xx
+really	really	rr
+tell	tell	vvi
+you	you	ppy
+whether	whether	csw
+the	the	at
+milk	milk	nn1
+is	be	vbz
+free	free	jj
+of	of	io
+drug	drug	nn1
+residues	residue	nn2
+,	,	y
+what	what	ddq
+does	do	vdz
+the	the	at
+consumer	consumer	nn1
+do	do	vdi
+in	in	ii
+the	the	at
+meantime	meantime	nnt1
+?	?	y
+@!Mr-HARMAN		zzq
+:	:	y
+Based	base	vvn
+on	on	ii
+what	what	ddq
+I	i	ppis1
+'ve	have	vh0
+seen	see	vvn
+,	,	y
+I	i	ppis1
+would	would	vm
+say	say	vvi
+do	do	vd0
+n't	n't	xx
+quit	quit	vvi
+drinking	drinking	nn1_vvg
+milk	milk	nn1
+.	.	y
+You	you	ppy
+need	need	vv0
+--		zz
+you	you	ppy
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+major	major	jj
+question	question	nn1
+that	that	cst_dd1
+kind	kind	nn1
+of	of	io
+clouds	cloud	nn2
+over	over	ii
+it	it	pph1
+--		zz
+the	the	at
+top	top	nn1
+of	of	io
+it	it	pph1
+.	.	y
+And	and	cc
+you	you	ppy
+'ve	have	vh0
+got	get	vvn
+an	a	at1
+agency	agency	nn1
+that	that	cst_dd1
+'s	be	vbz
+saying	say	vvg
+,	,	y
+'	'	"@_ge
+It	it	pph1_nn1@
+'s	be	vbz
+safe	safe	jj_nn1@
+,	,	y
+it	it	pph1
+'s	be	vbz
+safe	safe	jj
+,	,	y
+it	it	pph1
+'s	be	vbz
+safe	safe	jj
+.	.	y
+'	'	"@_ge
+But	but	ccb
+they	they	pphs2
+ca	can	vm
+n't	n't	xx
+prove	prove	vvi
+it	it	pph1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+Ultimately	ultimately	rr
+there	there	ex
+'s	be	vbz
+only	only	rr
+one	one	mc1
+person	person	nn1
+who	who	pnqs
+can	can	vm
+decide	decide	vvi
+whether	whether	csw
+the	the	at
+milk	milk	nn1
+produced	produce	vvn_vvd
+with	with	iw
+the	the	at
+synthetic	synthetic	jj
+growth	growth	nn1
+hormone	hormone	nn1
+is	be	vbz
+safe	safe	jj
+enough	enough	rr
+to	to	to
+drink	drink	vvi
+,	,	y
+and	and	cc
+that	that	dd1_cst
+'s	be	vbz
+the	the	at
+person	person	nn1
+who	who	pnqs
+'s	be	vbz
+buying	buy	vvg
+the	the	at
+milk	milk	nn1
+.	.	y
+The	the	at
+question	question	nn1
+is	be	vbz
+:	:	y
+When	when	rrq_cs
+you	you	ppy
+come	come	vv0
+into	into	ii
+a	a	at1
+supermarket	supermarket	nn1
+,	,	y
+can	can	vm
+you	you	ppy
+tell	tell	vvi
+the	the	at
+difference	difference	nn1
+between	between	ii
+the	the	at
+milk	milk	nn1
+that	that	cst_dd1
+comes	come	vvz
+from	from	ii
+treated	treated	jj@
+cows	cow	nn2
+and	and	cc
+milk	milk	nn1_vv0%
+that	that	cst_dd1
+does	do	vdz
+n't	n't	xx
+?	?	y
+Do	do	vd0
+you	you	ppy
+read	read	vvi
+this	this	dd1
+label	label	nn1
+?	?	y
+Unidentified	unidentified	jj
+Woman	woman	nn1
+1	1	mc1
+:	:	y
+Sure	sure	jj
+do	do	vd0
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+Does	do	vdz
+it	it	pph1
+make	make	vvi
+a	a	at1
+difference	difference	nn1
+to	to	ii
+you	you	ppy
+?	?	y
+Woman	woman	nn1
+1	1	mc1
+:	:	y
+You	you	ppy
+bet	bet	vv0
+.	.	y
+@(Footage-of-grocery)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+But	but	ccb
+most	most	dat
+milk	milk	nn1
+processors	processor	nn2
+do	do	vd0
+n't	n't	xx
+label	label	vvi
+their	their	appge
+milk	milk	nn1
+.	.	y
+The	the	at
+Gore	gore	np1
+Brothers	brother	nn2
+'	'	ge
+Dairy	dairy	nn1
+is	be	vbz
+one	one	mc1
+of	of	io
+the	the	at
+few	few	da2
+that	that	cst
+does	do	vdz
+on	on	ii
+their	their	appge
+product	product	nn1
+Pure	pure	jj
+Milk	milk	nn1
+.	.	y
+@!Ms-WATSON		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+There	there	ex
+'s	be	vhz
+been	be	vbn
+a	a	at1
+great	great	jj
+deal	deal	nn1
+of	of	io
+misinformation	misinformation	nn1
+that	that	cst_dd1
+'s	be	vhz
+been	be	vbn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+in	in	ii
+dairy	dairy	nn1
+products	product	nn2
+are	be	vbr
+the	the	at
+same	same	da
+in	in	ii
+every	every	at1
+way	way	nn1
+.	.	y
+There	there	ex
+is	be	vbz
+no	no	at
+safety	safety	nn1
+issue	issue	nn1_vv0
+here	here	rl
+.	.	y
+There	there	ex
+is	be	vbz
+no	no	at
+compositional	compositional	jj
+difference	difference	nn1
+.	.	y
+@(Footage-of-calves-)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+The	the	at
+Gores	gores	np2
+say	say	vv0
+whether	whether	csw31
+or	or	csw32
+not	not	csw33
+it	it	pph1
+'s	be	vbz
+a	a	at1
+safety	safety	nn1
+issue	issue	nn1
+,	,	y
+it	it	pph1
+has	have	vhz
+become	become	vvn@
+an	a	at1
+issue	issue	nn1
+of	of	io
+your	your	appge
+right	right	nn1
+to	to	to
+know	know	vvi
+.	.	y
+And	and	cc
+they	they	pphs2
+'re	be	vbr
+willing	willing	jj
+to	to	to
+fight	fight	vvi
+for	for	if
+it	it	pph1
+in	in	ii
+court	court	nn1
+.	.	y
+Do	do	vd0
+you	you	ppy
+regret	regret	vvi
+ever	ever	rr
+putting	put	vvg
+these	these	dd2
+labels	label	nn2
+on	on	ii_rp@
+?	?	y
+@!Mr-GORE		zzq
+:	:	y
+I	i	ppis1
+regret	regret	vv0
+the	the	at
+stuff	stuff	nn1
+ever	ever	rr
+come	come	vv0_vvn@
+out	out	rp
+and	and	cc
+put	put	vv0_vvd
+us	us	ppio2
+in	in	ii
+this	this	dd1
+position	position	nn1
+.	.	y
+We	we	ppis2
+'re	be	vbr
+just	just	rr
+trying	try	vvg
+to	to	to
+make	make	vvi
+a	a	at1
+living	living	nn1_jj
+.	.	y
+And	and	cc
+I	i	ppis1_zz1%_mc1%
+--		zz
+you	you	ppy
+know	know	vv0
+,	,	y
+we	we	ppis2
+'re	be	vbr
+going	go	vvgk
+to	to	to
+stay	stay	vvi
+with	with	iw
+what	what	ddq
+we	we	ppis2
+'ve	have	vh0
+--		nn1_jj
+what	what	ddq
+we	we	ppis2
+'ve	have	vh0
+started	start	vvn
+...	...	...
+@(Footage-of-Pure-Mi)		zzc
+@!Mr-GORE		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+as	as	cs31
+long	long	cs32
+as	as	cs33
+we	we	ppis2
+can	can	vm_vv0%
+.	.	y
+@(Theme-music)		zzc
+##221552		
+IS	be	vbz
+YOUR	your	appge
+FOOD	food	nn1
+SAFE	safe	nn1@_jj
+?	?	y
+@!DAN-RATHER		zzq
+:	:	y
+Is	be	vbz
+your	your	appge
+food	food	nn1
+safe	safe	nn1@_jj
+?	?	y
+Tonight	tonight	rt
+:	:	y
+part	part	nn1_rr%
+two	two	mc
+of	of	io
+our	our	appge
+continuing	continuing	jj
+investigation	investigation	nn1
+.	.	y
+In	in	ii
+February	february	npm1
+we	we	ppis2
+told	tell	vvd
+you	you	ppy
+about	about	ii
+bacteria	bacteria	nn2
+in	in	ii
+meat	meat	nn1
+,	,	y
+fish	fish	nn
+and	and	cc
+poultry	poultry	nn
+.	.	y
+Your	your	appge
+response	response	nn1
+was	be	vbdz
+overwhelming	overwhelming	jj
+and	and	cc
+many	many	da2
+of	of	io
+you	you	ppy
+wanted	want	vvd
+to	to	to
+know	know	vvi
+more	more	rrr_dar
+.	.	y
+So	so	rr
+this	this	dd1
+time	time	nnt1
+we	we	ppis2
+look	look	vv0
+at	at	ii
+potential	potential	jj_nn1
+dangers	danger	nn2
+that	that	cst
+are	be	vbr
+man-made	man-made	jj
+.	.	y
+Over	over	ii
+the	the	at
+last	last	md
+50	50	mc
+years	year	nnt2
+,	,	y
+the	the	at
+use	use	nn1
+of	of	io
+pesticides	pesticide	nn2
+has	have	vhz
+increased	increase	vvn
+and	and	cc
+so	so	rr
+have	have	vh0
+cancer	cancer	nn1
+rates	rate	nn2
+.	.	y
+Is	be	vbz
+there	there	ex
+a	a	at1
+link	link	nn1
+?	?	y
+Since	since	cs
+the	the	at
+1940s	1940s	mc2
+more	more	dar
+than	than	csn
+600	600	mc
+pesticides	pesticide	nn2
+have	have	vh0
+been	be	vbn
+approved	approve	vvn
+,	,	y
+yet	yet	rr
+for	for	if
+most	most	dat
+of	of	io
+them	them	ppho2
+the	the	at
+long-term	long-term	jj
+health	health	nn1
+risk	risk	nn1
+is	be	vbz
+,	,	y
+at	at	rr21
+best	best	rr22
+,	,	y
+unknown	unknown	jj
+.	.	y
+And	and	cc
+now	now	rt
+some	some	dd
+experts	expert	nn2
+warn	warn	vv0
+that	that	dd1_cst
+risk	risk	nn1
+may	may	vm
+be	be	vbi
+greatest	greatest	jjt
+for	for	if
+those	those	dd2
+who	who	pnqs
+are	be	vbr
+most	most	rgt
+vulnerable	vulnerable	jj
+:	:	y
+our	our	appge
+children	child	nn2
+.	.	y
+@!CHILDREN'S-MENU-PA#		zzq
+Unidentified	unidentified	jj
+Teacher	teacher	nn1
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+If	if	cs
+your	your	appge
+name	name	nn1
+starts	start	vvz
+with	with	iw
+the	the	at
+letter	letter	nn1
+T	t	zz1
+...	...	...
+Children	child	nn2
+:	:	y
+(	(	y
+In	in	ii
+Unison	unison	nn1_jj
+)		np1
+Me	me	ppio1
+!	!	y
+Teacher	teacher	nn1
+:	:	y
+T	t	zz1_np1@
+:	:	y
+Timmy	timmy	np1
+and	and	cc
+Tyler	tyler	np1
+.	.	y
+Good	good	jj
+job	job	nn1
+.	.	y
+Go	go	vv0
+wash	wash	vv0
+your	your	appge
+hands	hand	nn2
+.	.	y
+@(Footage-of-woman-c)		zzc
+@!HAROLD-DOW-reporti		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+It	it	pph1
+'s	be	vbz
+snacktime	snacktime	nnt1
+at	at	ii
+the	the	at
+Overbrook	overbrook	np1
+preschool	preschool	jj_nn1@
+in	in	ii
+Columbus	columbus	np1
+,	,	y
+Ohio	ohio	np1
+.	.	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+In	in	ii
+Unison	unison	nn1_jj
+)		np1
+Me	me	ppio1
+!	!	y
+@!DOW		zzq
+:	:	y
+Raise	raise	vv0
+your	your	appge
+hands	hand	nn2
+.	.	y
+@(Footage-of-childre)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+The	the	at
+kids	kid	nn2
+sure	sure	jj
+love	love	nn1
+what	what	ddq
+'s	be	vbz
+on	on	ii
+the	the	at
+menu	menu	nn1
+...	...	...
+Unidentified	unidentified	jj
+Child	child	nn1
+1	1	mc1
+:	:	y
+They	they	pphs2
+taste	taste	vv0@
+good	good	jj
+.	.	y
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+which	which	ddq
+makes	make	vvz
+their	their	appge
+parents	parent	nn2
+happy	happy	jj
+.	.	y
+@!Mrs-MICHELLE-CUNNI		zzq
+:	:	y
+You	you	ppy
+think	think	vv0
+healthy	healthy	jj
+food	food	nn1
+,	,	y
+you	you	ppy
+think	think	vv0
+fruits	fruit	nn2
+and	and	cc
+vegetables	vegetable	nn2
+.	.	y
+@(Footage-of-washed-)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+But	but	ccb
+not	not	xx
+everyone	everyone	pn1
+is	be	vbz
+so	so	rg_rr
+pleased	pleased	jj
+.	.	y
+@!Mr-WILES		zzq
+:	:	y
+When	when	rrq_cs
+we	we	ppis2
+looked	look	vvd
+at	at	ii
+FDA	fda	np1
+'s	's	ge
+data	data	nn
+for	for	if
+three	three	mc
+years	year	nnt2
+,	,	y
+we	we	ppis2
+found	find	vvd
+that	that	cst_dd1
+one	one	mc1
+out	out	rp
+of	of	io
+four	four	mc
+apples	apple	nn2
+had	have	vhd
+three	three	mc
+or	or	cc
+more	more	dar
+pesticides	pesticide	nn2
+on	on	ii
+it	it	pph1
+.	.	y
+@(Footage-of-Wiles-a)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Richard	richard	np1
+Wiles	wiles	vvz_nn2
+is	be	vbz
+a	a	at1
+pesticide	pesticide	nn1
+expert	expert	nn1
+for	for	if
+the	the	at
+Washington-based	washington-based	jj_nn1
+Environmental	environmental	jj
+Working	working	jj
+Group	group	nn1
+.	.	y
+@!Mr-WILES		zzq
+:	:	y
+We	we	ppis2
+would	would	vm
+expect	expect	vvi
+the	the	at
+randomly	randomly	rr
+selected	selected	jj_vvn
+apple	apple	nn1
+would	would	vm
+have	have	vhi
+at	at	rr21
+least	least	rr22
+one	one	mc1
+or	or	cc
+two	two	mc
+pesticides	pesticide	nn2
+on	on	ii
+it	it	pph1
+,	,	y
+and	and	cc
+up	up	ii21
+to	to	ii22
+as	as	rg
+many	many	da2
+as	as	csa
+eight	eight	mc
+have	have	vh0
+been	be	vbn
+found	find	vvn
+on	on	ii
+a	a	at1
+single	single	jj
+apple	apple	nn1
+.	.	y
+@!DOW		zzq
+:	:	y
+Up	up	ii21
+to	to	ii22
+as	as	rg
+many	many	da2
+as	as	csa
+eight	eight	mc
+pesticides	pesticide	nn2
+...	...	...
+@!Mr-WILES		zzq
+:	:	y
+Eight	eight	mc
+pesticides	pesticide	nn2
+on	on	ii
+a	a	at1
+single	single	jj
+apple	apple	nn1
+...	...	...
+@!DOW		zzq
+:	:	y
+...	...	...
+all	all	db_rr@
+on	on	ii
+one	one	mc1
+apple	apple	nn1
+?	?	y
+@!Mr-WILES		zzq
+:	:	y
+...	...	...
+that	that	dd1
+'s	be	vbz
+right	right	jj
+.	.	y
+@(Footage-of-spray-p)		zzc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+three	three	mc
+quarters	quarter	nn2
+of	of	io
+a	a	at1
+billion	billion	m1
+pounds	pound	nn2
+of	of	io
+pesticide	pesticide	nn1
+on	on	ii
+fruits	fruit	nn2
+and	and	cc
+vegetables	vegetable	nn2
+.	.	y
+@!Mr-WILES		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+We	we	ppis2
+live	live	vv0
+in	in	ii_rp@
+sort	sort	nn1_rr21@
+of	of	io_rr22
+a	a	at1
+chemical	chemical	jj_nn1
+soup	soup	nn1
+.	.	y
+Pesticides	pesticide	nn2
+are	be	vbr
+a	a	at1
+good	good	jj
+chunk	chunk	nn1
+of	of	io
+that	that	dd1
+.	.	y
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+The	the	at
+Environmental	environmental	jj
+Protection	protection	nn1
+Agency	agency	nn1
+says	say	vvz
+about	about	rg
+70	70	mc
+of	of	io
+the	the	at
+pesticides	pesticide	nn2
+are	be	vbr
+suspected	suspect	vvn_jj
+of	of	io
+causing	cause	vvg
+cancer	cancer	nn1
+.	.	y
+Do	do	vd0
+you	you	ppy
+eat	eat	vvi
+a	a	at1
+lot	lot	nn1
+of	of	io
+fruits	fruit	nn2
+and	and	cc
+vegetables	vegetable	nn2
+.	.	y
+Unidentified	unidentified	jj
+Child	child	nn1
+2	2	mc
+:	:	y
+Yeah	yeah	uh
+.	.	y
+Unidentified	unidentified	jj
+Child	child	nn1
+3	3	mc
+:	:	y
+Yeah	yeah	uh
+,	,	y
+because	because	cs
+it	it	pph1
+'s	be	vbz
+good	good	jj
+and	and	cc
+healthy	healthy	jj
+.	.	y
+@(Footage-of-Dow-in-)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Activists	activist	nn2
+like	like	ii
+Wiles	wile	nn2
+say	say	vv0
+a	a	at1
+young	young	jj
+child	child	nn1
+'s	's	ge
+diet	diet	nn1
+contains	contain	vvz
+a	a	at1
+lot	lot	nn1
+of	of	io
+these	these	dd2
+chemicals	chemical	nn2
+...	...	...
+How	how	rrq_rgq@
+about	about	ii
+this	this	dd1
+one	one	pn1
+?	?	y
+Unidentified	unidentified	jj
+Child	child	nn1
+4	4	mc
+:	:	y
+My	my	appge
+favorite	favorite	nn1_jj
+.	.	y
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+so	so	rg
+much	much	da1_rr
+so	so	rr_cs@
+he	he	pphs1
+says	say	vvz
+kids	kid	nn2
+between	between	ii
+the	the	at
+ages	age	nn2
+of	of	io
+one	one	mc1
+and	and	cc
+five	five	mc
+routinely	routinely	rr
+exceed	exceed	vv0
+the	the	at
+EPA	epa	np1
+'s	's	ge
+level	level	nn1
+of	of	io
+acceptable	acceptable	jj
+cancer	cancer	nn1
+risk	risk	nn1
+.	.	y
+Well	well	rr
+,	,	y
+here	here	rl
+.	.	y
+What	what	ddq
+'s	be	vbz
+this	this	dd1
+?	?	y
+Child	child	nn1
+4	4	mc
+:	:	y
+Oh	oh	uh
+,	,	y
+that	that	dd1
+'s	be	vbz
+not	not	xx
+one	one	mc1
+of	of	io
+my	my	appge
+favorites.	favorite	nnu
+@!Mr-WILES		zzq
+:	:	y
+They	they	pphs2
+'re	be	vbr
+getting	get	vvg
+a	a	at1
+higher	high	jjr
+dose	dose	nn1
+per	per	ii
+unit	unit	nn1
+of	of	io
+body	body	nn1
+weight	weight	nn1
+and	and	cc
+they	they	pphs2
+would	would	vm
+generally	generally	rr
+be	be	vbi
+more	more	dar
+--		nn1
+be	be	vbi
+more	more	rgr
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+mean	mean	jj_nn1@_vv0
+that	that	cst
+children	child	nn2
+are	be	vbr
+going	go	vvgk
+to	to	to
+show	show	vvi
+visible	visible	jj
+signs	sign	nn2
+of	of	io
+poisoning	poisoning	nn1_vvg
+?	?	y
+Probably	probably	rr
+not	not	xx
+.	.	y
+Unidentified	unidentified	jj
+Child	child	nn1
+5	5	mc
+:	:	y
+What	what	ddq
+about	about	ii
+me	me	ppio1
+?	?	y
+@!Mr-WILES		zzq
+:	:	y
+But	but	ccb
+over	over	ii
+the	the	at
+long	long	jj
+haul	haul	nn1
+,	,	y
+across	across	ii
+the	the	at
+whole	whole	jj
+population	population	nn1
+,	,	y
+you	you	ppy
+'d	have	vm
+expect	expect	vvi
+to	to	to
+see	see	vvi
+some	some	dd
+effects	effect	nn2
+.	.	y
+@!Dr-AMES		zzq
+:	:	y
+Pesticide	pesticide	nn1
+residues	residue	nn2
+in	in	ii
+foods	food	nn2
+have	have	vh0
+never	never	rr
+caused	cause	vvn
+a	a	at1
+case	case	nn1
+of	of	io
+cancer	cancer	nn1
+.	.	y
+@(Footage-of-Ames-wo)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Dr.	dr	nnb
+Bruce	bruce	np1
+Ames	ames	np1
+is	be	vbz
+a	a	at1
+nationally	nationally	rr
+renowned	renowned	jj
+cancer	cancer	nn1
+researcher	researcher	nn1
+.	.	y
+@!Dr-AMES		zzq
+:	:	y
+We	we	ppis2
+have	have	vh0
+to	to	to
+be	be	vbi
+sure	sure	jj
+that	that	cst
+we	we	ppis2
+do	do	vd0
+n't	n't	xx
+scare	scare	vvi
+people	people	nn
+about	about	ii
+eating	eat	vvg_nn1
+fruits	fruit	nn2
+and	and	cc
+vegetables	vegetable	nn2
+with	with	iw
+all	all	db
+these	these	dd2
+hypothetical	hypothetical	jj
+,	,	y
+very	very	rg_jj@
+,	,	y
+very	very	rg
+minuscule	minuscule	jj
+risk	risk	nn1
+from	from	ii
+pesticides.	pesticides	nnu
+@(Footage-of-a-woman)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+And	and	cc
+he	he	pphs1
+sees	see	vvz
+no	no	at
+special	special	jj
+risk	risk	nn1
+for	for	if
+children	child	nn2
+.	.	y
+@!Dr-AMES		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Dose	dose	nn1
+is	be	vbz
+the	the	at
+whole	whole	jj
+thing	thing	nn1
+here	here	rl
+.	.	y
+The	the	at
+amounts	amount	nn2
+given	give	vvn
+to	to	ii
+rats	rat	nn2
+are	be	vbr
+hundreds	hundred	m
+of	of	io
+thousands	thousand	m
+of	of	io
+times	time	nnt2
+more	more	rrr
+than	than	csn
+the	the	at
+amounts	amount	nn2
+that	that	cst
+people	people	nn
+get	get	vv0
+into	into	ii
+.	.	y
+So	so	rr
+people	people	nn
+are	be	vbr
+getting	get	vvg
+a	a	at1
+few	few	da2
+parts	part	nn2
+per	per	ii
+billion	billion	m1
+.	.	y
+It	it	pph1
+'s	be	vbz
+a	a	at1
+very	very	rg
+tiny	tiny	jj
+amount	amount	nn1
+and	and	cc
+it	it	pph1
+just	just	rr
+is	be	vbz
+n't	n't	xx
+relevant	relevant	jj
+in	in	ii
+causing	cause	vvg
+cancer	cancer	nn1
+.	.	y
+@!Mr-WILES		zzq
+:	:	y
+There	there	ex
+'s	be	vbz
+certainly	certainly	rr
+no	no	at
+evidence	evidence	nn1
+that	that	cst
+these	these	dd2
+pesticides	pesticide	nn2
+are	be	vbr
+safe	safe	jj
+.	.	y
+@(Footage-of-spray-p)		zzc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+say	say	vvi
+is	be	vbz
+that	that	cst
+pesticides	pesticide	nn2
+should	should	vm
+be	be	vbi
+proven	prove	vvn_jj
+safe	safe	jj_nn1@
+before	before	cs
+they	they	pphs2
+'re	be	vbr
+put	put	vvn
+into	into	ii
+the	the	at
+food	food	nn1
+supply	supply	nn1
+.	.	y
+@(Footage-of-a-littl)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+But	but	ccb
+how	how	rgq@_rrq
+many	many	da2
+are	be	vbr
+actually	actually	rr
+in	in	ii
+the	the	at
+food	food	nn1
+supply	supply	nn1_vv0
+?	?	y
+48	48	mc
+HOURS	hour	nnt2
+decided	decide	vvd_vvn
+to	to	to
+find	find	vvi
+out	out	rp
+.	.	y
+We	we	ppis2
+chose	choose	vvd
+four	four	mc
+children	child	nn2
+from	from	ii
+this	this	dd1
+preschool	preschool	jj_nn1@
+and	and	cc
+tried	try	vvd
+to	to	to
+determine	determine	vvi
+how	how	rgq@
+many	many	da2
+pesticides	pesticide	nn2
+they	they	pphs2
+'re	be	vbr
+consuming	consume	vvg
+,	,	y
+at	at	ii
+what	what	ddq
+levels	level	nn2
+and	and	cc
+how	how	rrq
+that	that	dd1
+differs	differ	vvz
+from	from	ii
+their	their	appge
+parents	parent	nn2
+.	.	y
+@(Footage-of-inside-)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+We	we	ppis2
+went	go	vvd
+grocery	grocery	nn1
+shopping	shop	vvg_nn1
+with	with	iw
+each	each	dd1
+of	of	io
+the	the	at
+four	four	mc
+families	family	nn2
+.	.	y
+@!Mrs-CUNNINGHAM		zzq
+:	:	y
+These	these	dd2
+feel	feel	vv0
+pretty	pretty	rg
+nice	nice	jj
+.	.	y
+@(Footage-of-four-fa)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+the	the	at
+Cunninghams	cunningham	np2
+,	,	y
+the	the	at
+Davises	davises	nn2_np1
+...	...	...
+@!Mrs-DAVIS-@1Parent		zzq
+:	:	y
+Well	well	rr
+,	,	y
+I	i	ppis1
+'m	be	vbm
+trying	try	vvg
+to	to	to
+introduce	introduce	vvi
+foods	food	nn2
+that	that	cst
+are	be	vbr
+supposed	supposed	jj
+to	to	to
+be	be	vbi
+good	good	jj
+for	for	if
+them	them	ppho2
+.	.	y
+@!Mrs-CONLEY		zzq
+:	:	y
+It	it	pph1
+'s	be	vbz
+wet	wet	jj_vvn@
+.	.	y
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+the	the	at
+Conleys.	conleys	np1
+@!Mrs-CONLEY		zzq
+:	:	y
+Well	well	rr
+,	,	y
+we	we	ppis2
+try	try	vv0
+to	to	to
+eat	eat	vvi
+green	green	jj
+stuff	stuff	nn1
+and	and	cc
+promote	promote	vvi
+that	that	cst_dd1
+for	for	if
+the	the	at
+kids	kid	nn2
+because	because	cs
+you	you	ppy
+'ve	have	vh0
+got	get	vvn
+to	to	to
+teach	teach	vvi
+them	them	ppho2
+to	to	to
+eat	eat	vvi
+right	right	rr_jj_nn1
+also	also	rr
+.	.	y
+@!Mrs-CARSON-@1Paren		zzq
+:	:	y
+Here	here	rl
+'s	be	vbz
+the	the	at
+pears	pear	nn2
+.	.	y
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+and	and	cc
+the	the	at
+Carsons.	carsons	np1
+@!Mrs-CARSON		zzq
+:	:	y
+The	the	at
+red	red	jj_nn1
+--		nn1_jj
+that	that	dd1
+'s	be	vbz
+what	what	ddq
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+of	of	io
+Twinkies	twinkies	np1
+is	be	vbz
+a	a	rr21@
+lot	lot	rr22
+greater	great	jjr
+than	than	csn
+a	a	at1
+risk	risk	nn1
+from	from	ii
+a	a	at1
+diet	diet	nn1
+of	of	io
+fruits	fruit	nn2
+and	and	cc
+vegetables	vegetable	nn2
+,	,	y
+even	even	rr
+with	with	iw
+these	these	dd2
+pesticides	pesticide	nn2
+on	on	ii
+it	it	pph1
+.	.	y
+We	we	ppis2
+want	want	vv0
+to	to	to
+make	make	vvi
+that	that	rg
+clear	clear	jj
+.	.	y
+Unidentified	unidentified	jj
+Man	man	nn1
+1	1	mc1
+:	:	y
+Now	now	rt
+are	be	vbr
+those	those	dd2
+good	good	jj
+bananas	banana	nn2
+,	,	y
+Tyler	tyler	np1
+?	?	y
+@(Footage-of-Tyler)		zzc
+@!Mr-WILES		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+What	what	ddq
+we	we	ppis2
+'re	be	vbr
+saying	say	vvg
+is	be	vbz
+that	that	cst_dd1
+anybody	anybody	pn1
+anywhere	anywhere	rl
+in	in	ii
+this	this	dd1
+country	country	nn1
+ought	ought	vmk
+to	to	to
+be	be	vbi
+able	able	jk
+to	to	to
+go	go	vvi
+into	into	ii
+a	a	at1
+grocery	grocery	nn1
+store	store	nn1
+...	...	...
+@!Mrs-DAVIS		zzq
+:	:	y
+There	there	ex
+'s	be	vbz
+oranges	orange	nn2
+.	.	y
+@(Footage-of-Davis-f)		zzc
+@!Mr-WILES		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+buy	buy	vv0
+lots	lots	pn
+of	of	io
+fruits	fruit	nn2
+and	and	cc
+vegetables	vegetable	nn2
+,	,	y
+take	take	vv0
+them	them	ppho2
+home	home	rl
+,	,	y
+feed	feed	vv0
+their	their	appge
+kids	kid	nn2
+and	and	cc
+know	know	vv0
+that	that	cst
+their	their	appge
+kids	kid	nn2
+are	be	vbr
+protected	protect	vvn_jj
+.	.	y
+And	and	cc
+currently	currently	rr
+they	they	pphs2
+'re	be	vbr
+not	not	xx
+.	.	y
+@!Mrs-DAVIS		zzq
+:	:	y
+...	...	...
+four	four	mc
+,	,	y
+five	five	mc
+,	,	y
+six	six	mc
+.	.	y
+@(Footage-of-the-Dav)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Critics	critic	nn2
+like	like	ii
+Wiles	wile	nn2
+say	say	vv0
+the	the	at
+problem	problem	nn1
+is	be	vbz
+the	the	at
+EPA	epa	np1
+'s	's	ge
+pesticide	pesticide	nn1
+limits	limit	nn2
+do	do	vd0
+not	not	xx
+even	even	rr
+consider	consider	vvi
+the	the	at
+differences	difference	nn2
+between	between	ii
+kids	kid	nn2
+and	and	cc
+adults	adult	nn2
+.	.	y
+@!Ms-CAROL-BROWNER-@		zzq
+:	:	y
+I	i	ppis1
+'m	be	vbm
+a	a	at1
+mother	mother	nn1
+.	.	y
+I	i	ppis1
+have	have	vh0
+a	a	at1
+six-and-a-half-year-old	six-and-a-half-year-old	jj
+son	son	nn1
+.	.	y
+When	when	cs_rrq
+I	i	ppis1
+think	think	vv0
+about	about	ii
+what	what	ddq
+the	the	at
+law	law	nn1
+does	do	vdz
+right	right	rr
+now	now	rt
+in	in	ii
+protecting	protect	vvg
+my	my	appge
+son	son	nn1
+,	,	y
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+think	think	vvi
+it	it	pph1
+'s	be	vbz
+good	good	jj_rr%
+enough	enough	rr
+.	.	y
+@(Footage-of-Browner)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.	.	y
+She	she	pphs1
+says	say	vvz
+things	thing	nn2
+will	will	vm
+change	change	vvi
+.	.	y
+@!Ms-BROWNER		zzq
+:	:	y
+The	the	at
+National	national	jj
+Academy	academy	nn1
+of	of	io
+Sciences	science	nn2
+did	do	vdd
+a	a	at1
+report	report	nn1
+last	last	md
+year	year	nnt1
+.	.	y
+They	they	pphs2
+told	tell	vvd
+us	us	ppio2
+we	we	ppis2
+needed	need	vvd
+to	to	to
+look	look	vvi
+at	at	ii
+children	child	nn2
+;		np1
+we	we	ppis2
+needed	need	vvd
+to	to	to
+look	look	vvi
+at	at	ii
+the	the	at
+differences	difference	nn2
+between	between	ii
+children	child	nn2
+and	and	cc
+adults	adult	nn2
+;		np1
+we	we	ppis2
+needed	need	vvd
+to	to	to
+look	look	vvi
+at	at	ii
+the	the	at
+diets	diet	nn2
+of	of	io
+children	child	nn2
+,	,	y
+so	so	cs@_rr
+we	we	ppis2
+'re	be	vbr
+doing	do	vdg
+that	that	dd1
+.	.	y
+@(Footage-of-grocery)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+So	so	rr
+are	be	vbr
+we	we	ppis2
+.	.	y
+Whatever	whatever	ddqv
+fruits	fruit	nn2
+and	and	cc
+vegetables	vegetable	nn2
+our	our	appge
+four	four	mc
+families	family	nn2
+bought	buy	vvd_vvn
+,	,	y
+we	we	ppis2
+bought	buy	vvd
+.	.	y
+@(Footage-of-lab)		zzc
+@!Mr-WILL-SUMNER-@1C		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+And	and	cc
+the	the	at
+samples	sample	nn2
+are	be	vbr
+in	in	ii
+the	the	at
+ice	ice	nn1
+chest	chest	nn1
+right	right	nn1_rr
+here	here	rl
+.	.	y
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+And	and	cc
+we	we	ppis2
+took	take	vvd
+that	that	dd1
+produce	produce	nn1@_vv0
+to	to	ii
+a	a	at1
+lab.	lab	nn1
+@!Mr-SUMNER		zzq
+:	:	y
+What	what	ddq
+you	you	ppy
+'re	be	vbr
+getting	get	vvg
+in	in	ii
+Ohio	ohio	np1
+is	be	vbz
+pretty	pretty	rg
+much	much	rr_da1
+the	the	at
+same	same	da
+produce	produce	vv0_nn1@
+that	that	cst
+you	you	ppy
+'re	be	vbr
+going	go	vvgk
+to	to	to
+be	be	vbi
+getting	get	vvg
+anywhere	anywhere	rl
+else	else	rr
+in	in	ii
+the	the	at
+country	country	nn1
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Footage-of-Sumner		np1
+;		np1
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+We	we	ppis2
+hired	hire	vvd
+chemist	chemist	nn1
+Will	will	np1
+Sumner	sumner	np1
+...	...	...
+@!Mr-SUMNER		zzq
+:	:	y
+What	what	ddq
+this	this	dd1
+will	will	vm
+do	do	vdi
+--		zz
+basically	basically	rr
+,	,	y
+will	will	vm
+pull	pull	vvi
+out	out	rp
+all	all	db
+the	the	at
+pesticides	pesticide	nn2
+,	,	y
+insecticides	insecticide	nn2_vvz
+,	,	y
+fungicides	fungicide	nn2
+.	.	y
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+to	to	to
+tell	tell	vvi
+us	us	ppio2
+exactly	exactly	rr
+what	what	ddq
+pesticides	pesticide	nn2
+were	be	vbdr
+in	in	ii
+the	the	at
+produce	produce	nn1@
+...	...	...
+@!Mr-SUMNER		zzq
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+be	be	vbi
+running	run	vvg
+a	a	at1
+full	full	jj
+multiresidue	multiresidue	nn1
+analysis	analysis	nn1
+on	on	rp@_ii
+.	.	y
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+and	and	cc
+more	more	rgr
+importantly	importantly	rr
+,	,	y
+what	what	ddq
+levels	level	nn2_vvz%
+.	.	y
+What	what	ddq
+do	do	vd0
+you	you	ppy
+think	think	vvi
+the	the	at
+test	test	nn1
+results	result	nn2
+will	will	vm
+show	show	vvi
+for	for	if
+your	your	appge
+food	food	nn1
+that	that	cst
+you	you	ppy
+purchased	purchase	vvd_vvn
+?	?	y
+@!Mr-CONLEY-@1Parent		zzq
+:	:	y
+Oh	oh	uh
+,	,	y
+well	well	rr
+,	,	y
+I	i	ppis1
+do	do	vd0
+hope	hope	vvi
+everything	everything	pn1
+is	be	vbz
+going	go	vvgk
+to	to	to
+be	be	vbi
+OK	ok	jj
+,	,	y
+but	but	ccb
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+that	that	dd1_cst
+--		nn1_jj
+that	that	cst_dd1
+'s	be	vbz
+dreaming	dream	vvg
+there	there	rl
+.	.	y
+So	so	rr
+...	...	...
+@(Footage-of-the-Con)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+We	we	ppis2
+brought	bring	vvd
+our	our	appge
+families	family	nn2
+together	together	rl
+...	...	...
+@!Mrs-DAVIS		zzq
+:	:	y
+I	i	ppis1
+'m	be	vbm
+getting	get	vvg
+really	really	rr
+nervous	nervous	jj
+about	about	ii
+what	what	ddq
+you	you	ppy
+'re	be	vbr
+going	go	vvgk
+to	to	to
+find	find	vvi
+.	.	y
+@(Footage-of-Cunning)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+to	to	to
+hear	hear	vvi
+what	what	ddq
+was	be	vbdz
+really	really	rr
+in	in	ii
+their	their	appge
+food	food	nn1
+.	.	y
+That	that	dd1
+brings	bring	vvz
+us	us	ppio2
+to	to	ii
+the	the	at
+question	question	nn1
+of	of	io
+the	the	at
+hour	hour	nnt1
+:	:	y
+Are	be	vbr
+you	you	ppy
+ready	ready	jj
+for	for	if
+the	the	at
+results	result	nn2
+of	of	io
+the	the	at
+test	test	nn1
+?	?	y
+@!Mr-CUNNINGHAM		zzq
+:	:	y
+Absolutely	absolutely	rr
+.	.	y
+@!Mr-CONLEY		zzq
+:	:	y
+Yes	yes	uh
+,	,	y
+we	we	ppis2
+are	be	vbr
+.	.	y
+@!Mrs-CONLEY		zzq
+:	:	y
+Yes	yes	uh
+.	.	y
+Yeah	yeah	uh
+.	.	y
+@!DOW		zzq
+:	:	y
+Are	be	vbr
+you	you	ppy
+sure	sure	jj
+you	you	ppy
+'re	be	vbr
+ready	ready	jj
+to	to	to
+hear	hear	vvi
+the	the	at
+results	result	nn2
+of	of	io
+the	the	at
+test	test	nn1
+?	?	y
+@!Mrs-CUNNINGHAM		zzq
+:	:	y
+Ian	ian	np1
+,	,	y
+you	you	ppy
+want	want	vv0
+to	to	to
+have	have	vhi
+some	some	dd
+grapes	grape	nn2
+?	?	y
+@(Footage-of-Cunning)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+We	we	ppis2
+'ll	will	vm
+tell	tell	vvi
+you	you	ppy
+all	all	db
+that	that	cst
+they	they	pphs2
+'re	be	vbr
+feeding	feed	vvg
+their	their	appge
+kids	kid	nn2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+##221553		
+@(Theme-music)		zzc
+100	100	mc
+MILE	mile	nnu1
+STARE	stare	nn1@
+qwq		xx
+@		ii
+(	(	y
+Footage-of-helicop		np1
+Unidentified	unidentified	jj
+Reporter	reporter	nn1
+1	1	mc1
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+The	the	at
+gunman	gunman	nn1
+went	go	vvd
+berserk	berserk	nn1_vv0
+inside	inside	ii
+a	a	at1
+company	company	nn1
+known	know	vvn
+as	as	ii
+Elgar	elgar	np1
+.	.	y
+@!Mr-JESS-MARIN		zzq
+:	:	y
+I	i	ppis1
+'m	be	vbm
+the	the	at
+one	one	pn1
+that	that	cst
+has	have	vhz
+probably	probably	rr
+the	the	at
+most	most	rgt
+visual	visual	jj
+remembrances	remembrance	nn2
+.	.	y
+It	it	pph1
+seems	seem	vvz
+like	like	ii
+it	it	pph1
+was	be	vbdz
+just	just	rr
+yesterday	yesterday	rt
+.	.	y
+@(Excerpt-from-video)		zzc
+@!Mr-MARIN		zzq
+:	:	y
+He	he	pphs1
+shot	shoot	vvd
+him	him	ppho1
+right	right	rr
+within	within	ii
+this	this	dd1
+distance	distance	nn1
+.	.	y
+He	he	pphs1
+just	just	rr
+came	come	vvd
+up	up	rp
+and	and	cc
+shot	shoot	vvd
+him	him	ppho1
+.	.	y
+@(End-of-excerpt)		zzc
+@!Mr-MARIN		zzq
+:	:	y
+You	you	ppy
+really	really	rr
+do	do	vd0
+n't	n't	xx
+get	get	vvi
+a	a	at1
+good	good	jj
+sense	sense	nn1
+of	of	io
+the	the	at
+security	security	nn1
+anywhere	anywhere	rl
+you	you	ppy
+--		zz
+you	you	ppy
+work	work	vv0
+now	now	rt
+,	,	y
+but	but	ccb
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+you	you	ppy
+have	have	vh0
+to	to	to
+learn	learn	vvi
+to	to	to
+live	live	vvi
+with	with	iw
+it	it	pph1
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Excerpt-from-video		np1
+Unidentified	unidentified	jj
+Man	man	nn1
+2	2	mc
+:	:	y
+There	there	ex
+is	be	vbz
+a	a	at1
+guy	guy	nn1
+with	with	iw
+a	a	at1
+shotgun	shotgun	nn1
+killing	kill	vvg_nn1
+people	people	nn
+.	.	y
+I	i	ppis1
+'d	have	vm
+advise	advise	vvi
+you	you	ppy
+to	to	to
+get	get	vvi
+out	out	ii21
+of	of	ii22
+here	here	rl
+.	.	y
+@(End-of-excerpt)		zzc
+@(Footage-of-crime-s)		zzc
+@!SUSAN-SPENCER-repo		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Two	two	mc
+and	and	cc
+a	a	at1
+half	half	db
+years	year	nnt2
+ago	ago	ra
+a	a	at1
+former	former	da
+colleague	colleague	nn1
+came	come	vvd
+back	back	rp
+to	to	ii
+Jess	jess	np1
+Marin	marin	np1
+'s	's	ge
+workplace	workplace	nn1
+in	in	ii
+San	san	np1
+Diego	diego	np1
+and	and	cc
+shot	shoot	vvd_nn1_vvn
+two	two	mc
+people	people	nn
+.	.	y
+@!Mr-MARIN		zzq
+:	:	y
+I	i	ppis1
+saw	see	vvd
+the	the	at
+shots	shot	nn2
+,	,	y
+saw	see	vvd
+some	some	dd
+glass	glass	nn1
+across	across	ii
+the	the	at
+way	way	nn1
+get	get	vv0
+blown	blow	vvn
+out	out	rp
+,	,	y
+saw	see	vvd
+them	them	ppho2
+trying	try	vvg
+to	to	to
+back	back	vvi
+out	out	ii21
+of	of	ii22
+the	the	at
+way	way	nn1
+of	of	io
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+realized	realize	vvd
+something	something	pn1
+was	be	vbdz
+happening	happen	vvg
+.	.	y
+But	but	ccb
+I	i	ppis1
+did	do	vdd
+--		nn1_jj
+still	still	rr
+did	do	vdd
+not	not	xx
+know	know	vvi
+what	what	ddq
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Excerpt-from-video		np1
+Unidentified	unidentified	jj
+Reporter	reporter	nn1
+2	2	mc
+:	:	y
+What	what	ddq
+did	do	vdd
+you	you	ppy
+do	do	vdi
+when	when	cs
+you	you	ppy
+saw	see	vvd
+that	that	cst
+happen	happen	vv0
+?	?	y
+@!Mr-MARIN		zzq
+:	:	y
+Ah	ah	uh
+,	,	y
+at	at	rr21
+first	first	rr22
+I	i	ppis1
+kind	kind	rr21%
+of	of	rr22
+froze	freeze	vvd
+,	,	y
+then	then	rt
+I	i	ppis1
+hit	hit	vvd_vv0@
+the	the	at
+ground	ground	nn1
+.	.	y
+@(End-of-excerpt)		zzc
+@!Mr-MARIN		zzq
+:	:	y
+I	i	ppis1
+dove	dive	vvd
+underneath	underneath	ii
+the	the	at
+desk	desk	nn1
+.	.	y
+That	that	dd1
+seemed	seem	vvd
+to	to	to
+take	take	vvi
+forever	forever	rt
+.	.	y
+And	and	cc
+then	then	rt
+it	it	pph1
+seemed	seem	vvd
+there	there	ex_rl
+was	be	vbdz
+a	a	at1
+moment	moment	nn1
+of	of	io
+silence	silence	nn1
+,	,	y
+and	and	cc
+I	i	ppis1
+watched	watch	vvd
+him	him	ppho1
+and	and	cc
+he	he	pphs1
+proceeded	proceed	vvd
+to	to	to
+look	look	vvi
+around	around	rp
+at	at	ii
+the	the	at
+two	two	mc
+guys	guy	nn2
+that	that	cst
+he	he	pphs1
+had	have	vhd
+just	just	rr
+shot	shoot	vvn
+.	.	y
+@(Excerpt-from-video)		zzc
+@!Mr-MARIN		zzq
+:	:	y
+And	and	cc
+then	then	rt
+he	he	pphs1
+continued	continue	vvd
+to	to	ii
+--		zz
+to	to	to
+stand	stand	vvi
+over	over	ii_rp
+the	the	at
+people	people	nn
+and	and	cc
+he	he	pphs1
+shot	shoot	vvd
+again	again	rt
+.	.	y
+@(End-of-excerpt)		zzc
+@!Mr-MARIN		zzq
+:	:	y
+And	and	cc
+he	he	pphs1
+s	s	zz1
+--		zz
+he	he	pphs1
+--		zz
+he	he	pphs1
+turned	turn	vvd
+,	,	y
+he	he	pphs1
+kind	kind	rr21%
+of	of	rr22
+had	have	vhd
+this	this	dd1
+smile	smile	nn1
+on	on	ii
+his	his	appge
+face	face	nn1
+,	,	y
+he	he	pphs1
+headed	head	vvd@
+back	back	rp
+towards	towards	ii
+my	my	appge
+office	office	nn1
+,	,	y
+coming	come	vvg
+straight	straight	rr_jj
+towards	towards	ii
+me.	me	nnu
+@(Footage-of-Marin-a)		zzc
+@!SPENCER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+It	it	pph1
+is	be	vbz
+painful	painful	jj
+even	even	rr
+today	today	rt
+for	for	if
+this	this	dd1
+former	former	da
+football	football	nn1
+player	player	nn1
+to	to	to
+admit	admit	vvi
+just	just	rr
+how	how	rgq@_rrq
+scared	scared	jj
+and	and	cc
+helpless	helpless	jj
+he	he	pphs1
+felt	feel	vvd
+.	.	y
+@!Mr-MARIN		zzq
+:	:	y
+I	i	ppis1
+was	be	vbdz
+pretty	pretty	rg
+a	a	at1
+--		nn1_jj
+pretty	pretty	rg
+much	much	da1
+--		nn1
+pretty	pretty	rg
+much	much	da1_rr
+afraid	afraid	jj
+of	of	io
+what	what	ddq
+was	be	vbdz
+going	go	vvg
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,	,	y
+'	'	ge
+Please	please	rr
+,	,	y
+God	god	np1
+,	,	y
+do	do	vd0
+n't	n't	xx
+let	let	vvi
+him	him	ppho1
+kill	kill	vvi
+me.	me	nnu
+'	'	ge
+@(Footage-of-beach)		zzc
+@!Mr-MARIN		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Hensal	hensal	nn1_np1
+was	be	vbdz
+standing	stand	vvg
+in	in	ii_rp@
+my	my	appge
+office	office	nn1
+reloading	reload	vvg
+the	the	at
+shotgun	shotgun	nn1
+.	.	y
+The	the	at
+only	only	jj
+thing	thing	nn1
+that	that	cst_dd1
+--		nn1_jj
+my	my	appge
+options	option	nn2
+that	that	cst
+crossed	cross	vvd
+my	my	appge
+mind	mind	nn1
+was	be	vbdz
+to	to	to
+get	get	vvi
+up	up	rp
+and	and	cc
+maybe	maybe	rr
+attack	attack	vvi
+him	him	ppho1
+.	.	y
+@!SPENCER		zzq
+:	:	y
+So	so	rr
+then	then	rt
+what	what	ddq
+happened	happen	vvd
+?	?	y
+@!Mr-MARIN		zzq
+:	:	y
+There	there	ex
+were	be	vbdr
+sounds	sound	nn2
+on	on	ii
+the	the	at
+floor	floor	nn1
+of	of	io
+people	people	nn
+running	run	vvg_nn1_jj
+.	.	y
+He	he	pphs1
+ran	run	vvd
+out	out	ii21
+of	of	ii22
+the	the	at
+office	office	nn1
+to	to	to
+go	go	vvi
+take	take	vv0
+a	a	at1
+look	look	nn1
+,	,	y
+and	and	cc
+then	then	rt
+I	i	ppis1
+ran	run	vvd
+for	for	if
+a	a	at1
+balcony	balcony	nn1
+window	window	nn1
+section	section	nn1
+and	and	cc
+jumped	jump	vvd
+.	.	y
+@!SPENCER		zzq
+:	:	y
+Mm-hmm	mm-hmm	uh
+.	.	y
+What	what	ddq
+floor	floor	nn1
+are	be	vbr
+you	you	ppy
+on	on	rp@_ii
+?	?	y
+@!Mr-MARIN		zzq
+:	:	y
+It	it	pph1
+'s	be	vbz
+the	the	at
+equivalent	equivalent	nn1@_jj
+of	of	io
+about	about	rg
+three	three	mc
+floors	floor	nn2
+up	up	rp
+.	.	y
+@!SPENCER		zzq
+:	:	y
+For	for	if
+people	people	nn
+who	who	pnqs
+have	have	vh0
+lived	live	vvn
+through	through	ii
+workplace	workplace	nn1
+violence	violence	nn1
+,	,	y
+the	the	at
+hardest	hard	jjt
+part	part	nn1
+of	of	io
+recovery	recovery	nn1
+seems	seem	vvz
+to	to	to
+be	be	vbi
+getting	get	vvg
+over	over	rp
+somehow	somehow	rr
+feeling	feel	vvg
+guilty	guilty	jj
+or	or	cc
+even	even	rr
+responsible	responsible	jj
+for	for	if
+what	what	ddq
+happened	happen	vvd
+,	,	y
+although	although	cs
+they	they	pphs2
+know	know	vv0
+rationally	rationally	rr
+that	that	cst
+there	there	ex
+is	be	vbz
+absolutely	absolutely	rr
+nothing	nothing	pn1
+they	they	pphs2
+could	could	vm
+have	have	vhi
+done	do	vdn
+to	to	to
+have	have	vhi
+stopped	stop	vvn
+it	it	pph1
+.	.	y
+@!Mr-MARIN		zzq
+:	:	y
+I	i	ppis1
+did	do	vdd
+n't	n't	xx
+do	do	vdi
+anything	anything	pn1
+.	.	y
+@!Dr-TOM-HARPLEY-@1P		zzq
+:	:	y
+He	he	pphs1
+ducked	duck	vvd
+.	.	y
+He	he	pphs1
+did	do	vdd
+something	something	pn1
+.	.	y
+The	the	at
+fact	fact	nn1
+that	that	cst
+you	you	ppy
+'re	be	vbr
+alive	alive	jj
+means	mean	nn_vvz
+you	you	ppy
+were	be	vbdr
+right	right	jj
+.	.	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Psychologist	psychologist	np1
+Tom	tom	np1
+Harpley	harpley	np1
+was	be	vbdz
+called	call	vvn
+in	in	ii
+the	the	at
+day	day	nnt1
+of	of	io
+the	the	at
+shootings	shooting	nn2
+to	to	to
+help	help	vvi
+Jess	jess	np1
+and	and	cc
+other	other	jj
+survivors	survivor	nn2
+.	.	y
+@(Excerpt-from-video)		zzc
+@!Dr-HARPLEY		zzq
+:	:	y
+Well	well	rr
+,	,	y
+they	they	pphs2
+'re	be	vbr
+pretty	pretty	rg
+much	much	da1_rr
+in	in	ii
+a	a	at1
+state	state	nn1
+of	of	io
+shock	shock	nn1
+and	and	cc
+disbelief	disbelief	nn1
+and	and	cc
+kind	kind	nn1
+of	of	io
+a	a	at1
+general	general	jj_nn1
+feeling	feeling	nn1
+of	of	io
+numbness.	numbness	nnu
+@(End-of-excerpt)		zzc
+@!Dr-HARPLEY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+For	for	if
+the	the	at
+counselors	counselor	nn2
+coming	come	vvg
+in	in	rp@
+after	after	ii_cs
+a	a	at1
+workplace	workplace	nn1
+homicide	homicide	nn1
+,	,	y
+it	it	pph1
+'s	be	vbz
+like	like	ii
+working	work	vvg
+in	in	ii_rp@
+a	a	at1
+mental	mental	jj
+health	health	nn1
+MASH	mash	nn1_vv0
+unit	unit	nn1
+.	.	y
+It	it	pph1
+'s	be	vbz
+an	a	at1
+emotional	emotional	jj
+experience	experience	nn1
+.	.	y
+And	and	cc
+--		zz
+and	and	cc
+for	for	if
+many	many	da2
+people	people	nn
+I	i	ppis1
+think	think	vv0
+it	it	pph1
+'s	be	vbz
+a	a	at1
+theoretical	theoretical	jj
+concept	concept	nn1
+:	:	y
+a	a	at1
+workplace	workplace	nn1
+violence	violence	nn1
+and	and	cc
+,	,	y
+'	'	"@
+Yeah	yeah	uh
+,	,	y
+it	it	pph1
+happens	happen	vvz
+in	in	ii_rp@
+post	post	nn1
+offices	office	nn2
+or	or	cc
+it	it	pph1
+happens	happen	vvz
+in	in	ii
+Texas	texas	np1
+.	.	y
+And	and	cc
+this	this	dd1
+is	be	vbz
+what	what	ddq
+I	i	ppis1
+would	would	vm
+have	have	vhi
+done	do	vdn
+or	or	cc
+I	i	ppis1
+would	would	vm
+n't	n't	xx
+have	have	vhi
+done	do	vdn
+that	that	dd1
+.	.	y
+'	'	"@_ge
+That	that	dd1
+'s	be	vbz
+fertilizer	fertilizer	nn1
+.	.	y
+People	people	nn
+do	do	vd0
+n't	n't	xx
+know	know	vvi
+what	what	ddq
+they	they	pphs2
+'re	be	vbr
+going	go	vvgk
+to	to	to
+do	do	vdi
+.	.	y
+They	they	pphs2
+'re	be	vbr
+going	go	vvgk
+to	to	to
+react	react	vvi
+instinctively	instinctively	rr
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Footage-of-covered		np1
+qwq		xx
+@		ii
+(	(	y
+Excerpt-from-911-c		np1
+911	911	mc
+Operator	operator	nn1
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Escondido	escondido	np1
+911	911	mc
+Emergency	emergency	nn1
+.	.	y
+Unidentified	unidentified	jj
+Man	man	nn1
+2	2	mc
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Yes	yes	uh
+,	,	y
+this	this	dd1
+is	be	vbz
+the	the	at
+post	post	nn1
+office	office	nn1
+.	.	y
+I	i	ppis1
+got	get	vvd
+a	a	at1
+carrier	carrier	nn1
+with	with	iw
+a	a	at1
+gun	gun	nn1
+going	go	vvg
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+:	:	y
+It	it	pph1
+was	be	vbdz
+7:35	7:35	mc
+and	and	cc
+I	i	ppis1
+just	just	rr
+heard	hear	vvn_vvd
+--		nn1_jj
+I	i	ppis1
+heard	hear	vvd
+four	four	mc
+shots	shot	nn2
+,	,	y
+just	just	rr
+one	one	mc1
+right	right	nn1_rr_jj
+after	after	ii_cs
+another	another	dd1
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Footage-of-United-		np1
+qwq		xx
+@		ii
+(	(	y
+Excerpt-from-911-c		np1
+Operator	operator	nn1
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+What	what	ddq
+kind	kind	nn1
+of	of	io
+a	a	at1
+gun	gun	nn1
+is	be	vbz
+it	it	pph1
+?	?	y
+Man	man	nn1
+2	2	mc
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+know	know	vvi
+.	.	y
+I	i	ppis1
+'m	be	vbm
+in	in	ii
+here	here	rl
+with	with	iw
+my	my	appge
+door	door	nn1
+locked	lock	vvd_vvn
+.	.	y
+@(End-of-excerpt)		zzc
+@(Footage-of-Bernard)		zzc
+@!SPENCER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Five	five	mc
+years	year	nnt2
+ago	ago	ra
+Rosina	rosina	np1
+Bernardino	bernardino	np1
+was	be	vbdz
+working	work	vvg
+in	in	ii
+the	the	at
+Escondido	escondido	np1
+Post	post	nn1
+Office	office	nn1
+just	just	rr
+north	north	nd1
+of	of	io
+San	san	np1
+Diego	diego	np1
+when	when	rrq_cs
+a	a	at1
+co-worker	co-worker	nn1
+ran	run	vvd
+amok	amok	rr
+and	and	cc
+started	start	vvd
+killing	kill	vvg_nn1
+people	people	nn
+.	.	y
+@!Ms-BERNARDINO		zzq
+:	:	y
+There	there	ex
+was	be	vbdz
+this	this	dd1
+guy	guy	nn1
+standing	stand	vvg_nn1
+there	there	rl
+with	with	iw
+a	a	at1
+gun	gun	nn1
+in	in	ii
+his	his	appge
+hand	hand	nn1
+.	.	y
+All	all	db
+I	i	ppis1
+did	do	vdd
+was	be	vbdz
+turn	turn	nn1
+around	around	rp
+and	and	cc
+--		zz
+and	and	cc
+ran	run	vvd
+.	.	y
+And	and	cc
+a	a	at1
+few	few	da2
+seconds	second	nnt2
+later	later	rrr
+I	i	ppis1
+heard	hear	vvd
+a	a	at1
+couple	couple	nn1_vv0
+more	more	dar_rrr
+shots	shot	nn2
+.	.	y
+And	and	cc
+by	by	ii
+that	that	dd1
+time	time	nnt1
+I	i	ppis1
+was	be	vbdz
+out	out	ii21
+of	of	ii22
+the	the	at
+building	building	nn1
+,	,	y
+you	you	ppy
+know	know	vv0
+.	.	y
+And	and	cc
+...	...	...
+@!SPENCER		zzq
+:	:	y
+But	but	ccb
+you	you	ppy
+came	come	vvd
+face	face	nn1
+to	to	ii
+face	face	nn1
+with	with	iw
+him	him	ppho1
+.	.	y
+@!Ms-BERNARDINO		zzq
+:	:	y
+Oh	oh	uh
+,	,	y
+yeah	yeah	uh
+.	.	y
+It	it	pph1
+was	be	vbdz
+like	like	ii
+looking	look	vvg
+at	at	ii
+a	a	at1
+scary	scary	jj
+movie	movie	nn1
+--		nn1
+the	the	at
+eyes	eye	nn2
+of	of	io
+somebody	somebody	pn1
+in	in	ii
+a	a	at1
+scary	scary	jj
+movie	movie	nn1
+.	.	y
+The	the	at
+eyes	eye	nn2
+er	er	fu
+--		nn1_jj
+the	the	at
+eyes	eye	nn2
+were	be	vbdr
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+God	god	np1_nn1@
+,	,	y
+it	it	pph1
+'s	be	vbz
+hard	hard	jj
+to	to	to
+explain	explain	vvi
+.	.	y
+They	they	pphs2
+were	be	vbdr
+just	just	rr
+scary	scary	jj
+.	.	y
+@!SPENCER		zzq
+:	:	y
+This	this	dd1
+has	have	vhz
+been	be	vbn
+five	five	mc
+years	year	nnt2
+,	,	y
+and	and	cc
+when	when	cs_rrq
+you	you	ppy
+talk	talk	vv0
+about	about	ii
+this	this	dd1
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+your	your	appge
+hands	hand	nn2
+are	be	vbr
+shaking	shake	vvg
+.	.	y
+@!Ms-BERNARDINO		zzq
+:	:	y
+To	to	ii
+me	me	ppio1
+,	,	y
+it	it	pph1
+'s	be	vbz
+just	just	rr
+like	like	ii_vv0@
+it	it	pph1
+was	be	vbdz
+yesterday	yesterday	rt
+.	.	y
+@(Footage-of-Bernard)		zzc
+@!SPENCER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+For	for	if
+Rosina	rosina	np1
+,	,	y
+another	another	dd1
+of	of	io
+Dr.	dr	nnb
+Harpley	harpley	np1
+'s	's	ge
+patients	patient	nn2
+...	...	...
+@!Ms-BERNARDINO		zzq
+:	:	y
+I	i	ppis1
+'m	be	vbm
+sorry	sorry	jj
+.	.	y
+@!SPENCER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+recovery	recovery	nn1
+is	be	vbz
+a	a	at1
+daily	daily	jj
+proposition	proposition	nn1
+.	.	y
+It	it	pph1
+'s	be	vbz_vhz@
+10:00	10:00	mc
+in	in	ii
+the	the	at
+morning	morning	nnt1
+.	.	y
+Why	why	rrq
+are	be	vbr
+you	you	ppy
+wearing	wear	vvg
+sunglasses	sunglasses	nn2
+?	?	y
+@!Ms-BERNARDINO		zzq
+:	:	y
+I	i	ppis1
+'ve	have	vh0
+been	be	vbn
+wearing	wear	vvg
+my	my	appge
+sunglasses	sunglasses	nn2
+since	since	cs_ii@
+--		zz
+since	since	cs_ii@
+the	the	at
+tragedy	tragedy	nn1
+of	of	io
+Escondido	escondido	np1
+.	.	y
+@!SPENCER		zzq
+:	:	y
+But	but	ccb
+what	what	ddq
+do	do	vd0
+the	the	at
+glasses	glass	nn2
+do	do	vdi
+?	?	y
+@!Ms-BERNARDINO		zzq
+:	:	y
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+know	know	vvi
+why	why	rrq
+.	.	y
+It	it	pph1
+'s	be	vbz
+some	some	dd
+type	type	nn1
+of	of	io
+a	a	at1
+shield	shield	nn1
+.	.	y
+It	it	pph1
+was	be	vbdz
+just	just	rr
+like	like	ii_vv0@
+a	a	at1
+protection	protection	nn1
+shield	shield	nn1_vv0
+for	for	if
+me.	me	nnu
+@!SPENCER		zzq
+:	:	y
+You	you	ppy
+know	know	vv0
+,	,	y
+if	if	cs
+you	you	ppy
+--		zz
+if	if	cs_csw@
+you	you	ppy
+were	be	vbdr
+wearing	wear	vvg
+them	them	ppho2
+that	that	dd1
+morning	morning	nnt1
+and	and	cc
+they	they	pphs2
+did	do	vdd
+n't	n't	xx
+protect	protect	vvi
+you	you	ppy
+...	...	...
+@!Ms-BERNARDINO		zzq
+:	:	y
+But	but	ccb
+they	they	pphs2
+did	do	vdd
+protect	protect	vvi
+me	me	ppio1
+because	because	cs
+I	i	ppis1
+'m	be	vbm
+still	still	rr
+alive	alive	jj
+.	.	y
+@(Footage-of-a-man-e)		zzc
+@!Ms-BERNARDINO		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+I	i	ppis1
+mean	mean	vv0
+,	,	y
+I	i	ppis1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+back	back	rp
+there	there	rl
+.	.	y
+I	i	ppis1
+have	have	vh0
+n't	n't	xx
+been	be	vbn
+in	in	ii
+a	a	at1
+post	post	nn1
+office	office	nn1
+since	since	cs
+I	i	ppis1
+left	leave	vvd
+the	the	at
+post	post	nn1
+office	office	nn1
+.	.	y
+I	i	ppis1
+can	can	vm
+not	not	xx
+walk	walk	vvi
+in	in	ii_rp@
+a	a	at1
+post	post	nn1
+office	office	nn1
+.	.	y
+It	it	pph1
+'s	be	vbz
+just	just	rr_jj@
+--		zz
+it	it	pph1
+'s	be	vbz
+just	just	rr
+like	like	ii_vv0@
+it	it	pph1
+was	be	vbdz
+yesterday	yesterday	rt
+to	to	ii
+me	me	ppio1
+.	.	y
+I	i	ppis1
+still	still	rr
+see	see	vv0
+it	it	pph1
+all	all	db
+the	the	at
+time	time	nnt1
+.	.	y
+I	i	ppis1
+flash	flash	vv0
+back	back	rp
+on	on	ii
+it	it	pph1
+all	all	db
+the	the	at
+time	time	nnt1
+.	.	y
+@!SPENCER		zzq
+:	:	y
+Who	who	pnqs
+'s	be	vbz
+that	that	dd1
+?	?	y
+@(Footage-of-Marin-)		zzc
+@!SPENCER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Looking	look	vvg
+at	at	ii
+news	news	nn1
+coverage	coverage	nn1
+with	with	iw
+us	us	ppio2
+,	,	y
+Jess	jess	np1
+felt	feel	vvd
+little	little	da1_jj
+distance	distance	nn1
+from	from	ii
+the	the	at
+event	event	nn1
+.	.	y
+@!Mr-MARIN		zzq
+:	:	y
+It	it	pph1
+seems	seem	vvz
+just	just	rr
+as	as	rg
+real	real	jj
+as	as	csa
+if	if	cs
+it	it	pph1
+happened	happen	vvd
+just	just	rr
+this	this	dd1
+morning	morning	nnt1
+or	or	cc
+something	something	pn1
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Footage-of-Marin-		np1
+qwq		xx
+@		ii
+(	(	y
+Excerpt-from-video		np1
+Reporter	reporter	nn1
+2	2	mc
+:	:	y
+So	so	rr_rg
+what	what	ddq
+did	do	vdd
+you	you	ppy
+do	do	vdi
+when	when	cs
+you	you	ppy
+saw	see	vvd_vv0%
+it	it	pph1
+happen	happen	vvi
+?	?	y
+@!Mr-MARIN		zzq
+:	:	y
+Ah	ah	uh
+,	,	y
+I	i	ppis1
+suppose	suppose	vv0
+I	i	ppis1
+kind	kind	rr21%
+of	of	rr22
+froze	freeze	vvd
+,	,	y
+then	then	rt
+I	i	ppis1
+hit	hit	vvd_vv0@
+the	the	at
+ground	ground	nn1
+.	.	y
+@(End-of-excerpt)		zzc
+@!SPENCER		zzq
+:	:	y
+How	how	rgq@_rrq
+soon	soon	rr
+after	after	ii_cs
+the	the	at
+event	event	nn1
+did	do	vdd
+that	that	dd1
+interview	interview	vvi
+take	take	vv0_nn1%
+place	place	nn1
+?	?	y
+@!Mr-MARIN		zzq
+:	:	y
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+even	even	rr
+recall	recall	vvi
+it	it	pph1
+.	.	y
+@!SPENCER		zzq
+:	:	y
+You	you	ppy
+do	do	vd0
+n't	n't	xx
+remember	remember	vvi
+being	be	vbg
+interviewed	interview	vvn
+?	?	y
+@!Mr-MARIN		zzq
+:	:	y
+No	no	uh
+,	,	y
+I	i	ppis1
+was	be	vbdz
+--		zz
+I	i	ppis1
+just	just	rr
+still	still	rr
+did	do	vdd
+n't	n't	xx
+really	really	rr
+believe	believe	vvi
+that	that	cst
+it	it	pph1
+happened	happen	vvd
+,	,	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+did	do	vdd
+n't	n't	xx
+know	know	vvi
+exactly	exactly	rr
+what	what	ddq
+--		nn1
+what	what	ddq
+was	be	vbdz
+real	real	jj
+.	.	y
+@(Video-taken-at-Elg)		zzc
+@!Dr-HARPLEY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+People	people	nn
+are	be	vbr
+in	in	ii
+a	a	at1
+state	state	nn1
+of	of	io
+shock	shock	nn1
+immediately	immediately	rr
+after	after	ii_cs
+a	a	at1
+traumatic	traumatic	jj
+in	in	ii
+--		zz
+incident	incident	nn1
+like	like	ii
+that	that	dd1
+.	.	y
+It	it	pph1
+'s	be	vbz
+not	not	xx
+unusual	unusual	jj
+that	that	cst
+they	they	pphs2
+would	would	vm
+have	have	vhi
+little	little	da1_jj
+or	or	cc
+no	no	at
+recollection	recollection	nn1
+of	of	io
+what	what	ddq
+is	be	vbz
+going	go	vvg
+on	on	rp@
+.	.	y
+There	there	ex
+'s	be	vbz
+an	a	at1
+expression	expression	nn1
+for	for	if
+what	what	ddq
+people	people	nn
+--		nn1_jj
+how	how	rrq
+they	they	pphs2
+look	look	vv0
+,	,	y
+and	and	cc
+I	i	ppis1
+think	think	vv0
+it	it	pph1
+'s	be	vbz
+called	call	vvn
+'	'	ge_"@
+the	the	at
+10-	10-	jj
+mile	mile	nnu1
+stare	stare	nn1@
+.	.	y
+'	'	"@_ge
+That	that	cst
+they	they	pphs2
+look	look	vv0
+like	like	cs
+they	they	pphs2
+'re	be	vbr
+staring	stare	vvg
+off	off	rp
+just	just	rr
+into	into	ii
+the	the	at
+distance	distance	nn1
+and	and	cc
+they	they	pphs2
+'re	be	vbr
+looking	look	vvg
+but	but	ccb
+not	not	xx
+really	really	rr
+seeing	see	vvg
+,	,	y
+and	and	cc
+that	that	dd1_cst
+'s	be	vbz
+not	not	xx
+unusual	unusual	jj
+.	.	y
+@!SPENCER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+And	and	cc
+the	the	at
+pictures	picture	nn2
+bring	bring	vv0
+it	it	pph1
+all	all	db
+back	back	rp
+.	.	y
+@(Footage-of-person-)		zzc
+@!SPENCER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Do	do	vd0
+you	you	ppy
+find	find	vvi
+now	now	cs21
+that	that	cs22
+you	you	ppy
+'re	be	vbr
+afraid	afraid	jj
+of	of	io
+things	thing	nn2
+that	that	cst
+you	you	ppy
+previously	previously	rr
+would	would	vm
+n't	n't	xx
+have	have	vhi
+been	be	vbn
+afraid	afraid	jj
+of	of	io
+?	?	y
+@!Mr-MARIN		zzq
+:	:	y
+People	people	nn
+are	be	vbr
+doing	do	vdg
+things	thing	nn2
+that	that	cst
+do	do	vd0
+n't	n't	xx
+seem	seem	vvi
+to	to	to
+be	be	vbi
+what	what	ddq
+I	i	ppis1
+used	use	vmk
+to	to	to
+think	think	vvi
+was	be	vbdz
+normal	normal	jj
+.	.	y
+I	i	zz1@_mc1@
+d	d	zz1
+--		zz
+definitely	definitely	rr
+do	do	vd0
+not	not	xx
+believe	believe	vvi
+that	that	cst_dd1
+someone	someone	pn1
+would	would	vm
+come	come	vvi
+into	into	ii
+the	the	at
+workplace	workplace	nn1
+and	and	cc
+shoot	shoot	vvi
+you	you	ppy
+.	.	y
+@(Footage-of-United-)		zzc
+@!Dr-HARPLEY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Employers	employer	nn2
+seem	seem	vv0
+to	to	to
+think	think	vvi
+that	that	cst
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,	,	y
+I	i	ppis1
+guess	guess	vv0
+,	,	y
+that	that	cst
+I	i	ppis1
+would	would	vm
+like	like	vvi
+to	to	to
+get	get	vvi
+out	out	ii%_rp
+most	most	dat_rgt
+is	be	vbz
+that	that	cst
+it	it	pph1
+can	can	vm
+happen	happen	vvi
+anywhere	anywhere	rl
+.	.	y
+@!Ms-BERNARDINO		zzq
+:	:	y
+I	i	ppis1
+'m	be	vbm
+not	not	xx
+the	the	at
+person	person	nn1
+I	i	ppis1
+was	be	vbdz
+.	.	y
+You	you	ppy
+know	know	vv0
+,	,	y
+I	i	ppis1
+just	just	rr
+--		zz
+you	you	ppy
+--		zz
+I	i	ppis1
+lost	lose	vvd
+a	a	rr21@_at1
+lot	lot	rr22_nn1
+that	that	dd1
+day	day	nnt1
+.	.	y
+I	i	ppis1
+lost	lose	vvd
+a	a	at1_rr21@
+lot	lot	nn1_rr22
+.	.	y
+@(Theme-music)		zzc
+@!RATHER		zzq
+:	:	y
+Rebuilding	rebuild	vvg
+these	these	dd2
+broken	broken	jj
+lives	life	nn2
+will	will	vm
+take	take	vvi
+time	time	nnt1
+and	and	cc
+so	so	rr
+will	will	vvi
+finding	find	vvg
+a	a	at1
+solution	solution	nn1
+to	to	ii
+this	this	dd1
+chilling	chilling	jj
+phenomenon	phenomenon	nn1
+.	.	y
+Experts	expert	nn2
+told	tell	vvd_vvn
+us	us	ppio2
+that	that	cst
+there	there	ex
+may	may	vm
+be	be	vbi
+many	many	da2
+reasons	reason	nn2
+for	for	if
+such	such	da
+violence	violence	nn1
+in	in	ii
+the	the	at
+workplace	workplace	nn1
+,	,	y
+ranging	range	vvg
+from	from	ii
+drug	drug	nn1
+use	use	nn1_vv0
+to	to	to
+stress	stress	vvi
+to	to	ii
+a	a	at1
+breakdown	breakdown	nn1
+in	in	ii
+values	value	nn2
+.	.	y
+But	but	ccb
+they	they	pphs2
+add	add	vv0
+that	that	cst
+the	the	at
+first	first	md
+step	step	nn1_vv0
+to	to	ii
+solving	solve	vvg
+the	the	at
+problem	problem	nn1
+is	be	vbz
+facing	face	vvg
+it	it	pph1
+.	.	y
+##221554		
+@(Theme-music)		zzc
+@!SNAP-DECISION-#		zzq
+@(Footage-of-Cartwri)		zzc
+@!ERIN-MORIARTY-repo		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Tom	tom	np1
+Cartwright	cartwright	np1
+got	get	vvd
+the	the	at
+last	last	md
+word	word	nn1
+in	in	ii
+an	a	at1
+argument	argument	nn1
+he	he	pphs1
+had	have	vhd
+with	with	iw
+a	a	at1
+former	former	da
+boss	boss	nn1
+.	.	y
+@!Mr-TOM-CARTWRIGHT		zzq
+:	:	y
+It	it	pph1
+'s	be	vbz
+like	like	ii
+a	a	at1
+--		zz
+one	one	pn1
+minute	minute	jj@_vv0%
+you	you	ppy
+'re	be	vbr
+calm	calm	jj
+and	and	cc
+the	the	at
+next	next	md
+minute	minute	nnt1
+you	you	ppy
+just	just	rr
+(	(	y
+snaps	snap	vvz
+fingers	finger	nn2
+)		np1
+.	.	y
+You	you	ppy
+know	know	vv0
+,	,	y
+it	it	pph1
+breaks	break	vvz
+.	.	y
+And	and	cc
+you	you	ppy
+just	just	rr
+lose	lose	vv0
+control	control	nn1
+of	of	io
+reality	reality	nn1
+.	.	y
+@(Photo-of-murder-sc)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+On	on	ii
+May	may	npm1
+4th	4th	md
+,	,	y
+1982	1982	mc
+,	,	y
+Cartwright	cartwright	np1
+killed	kill	vvd
+his	his	appge
+boss	boss	nn1
+.	.	y
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+I	i	ppis1
+was	be	vbdz
+very	very	rg
+angry	angry	jj
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+But	but	ccb
+unlike	unlike	jj_ii@
+most	most	rgt_dat
+disgruntled	disgruntled	jj
+workers	worker	nn2
+,	,	y
+Cartwright	cartwright	np1
+did	do	vdd
+n't	n't	xx
+turn	turn	vvi
+the	the	at
+gun	gun	nn1
+on	on	ii
+himself	himself	ppx1
+.	.	y
+Was	be	vbdz
+that	that	dd1
+anything	anything	pn1
+you	you	ppy
+considered	consider	vvd_vvn
+?	?	y
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+No.	no	zz
+@(Footage-of-Cartwri)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Now	now	rt
+in	in	ii
+prison	prison	nn1
+in	in	ii
+Granite	granite	nn1
+,	,	y
+Oklahoma	oklahoma	np1
+,	,	y
+he	he	pphs1
+'s	be	vbz_vhz@
+one	one	mc1
+of	of	io
+the	the	at
+few	few	da2
+who	who	pnqs
+can	can	vm
+explain	explain	vvi
+what	what	ddq
+goes	go	vvz
+on	on	rp@
+in	in	ii
+the	the	at
+mind	mind	nn1
+of	of	io
+such	such	da
+a	a	at1
+killer	killer	nn1
+.	.	y
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+I	i	ppis1
+had	have	vhd
+so	so	rg
+much	much	da1
+hate	hate	nn1
+built	build	vvd_vvn
+up	up	rp
+in	in	ii
+me.	me	nnu
+@!MORIARTY		zzq
+:	:	y
+Tom	tom	np1
+Cartwright	cartwright	np1
+worked	work	vvd
+for	for	if
+Hugh	hugh	np1
+Riddell	riddell	np1
+as	as	ii_csa
+a	a	at1
+foreman	foreman	nn1
+in	in	ii
+his	his	appge
+remodeling	remodeling	jj@_nn1@
+business	business	nn1
+in	in	ii
+Muskogee	muskogee	np1_nn1
+,	,	y
+Oklahoma	oklahoma	np1
+.	.	y
+He	he	pphs1
+was	be	vbdz
+laid	lay	vvn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+came	come	vvd
+back	back	rp
+here	here	rl
+to	to	ii
+the	the	at
+Riddell	riddell	np1
+home	home	nn1_rl
+looking	look	vvg
+for	for	if
+his	his	appge
+former	former	da
+boss	boss	nn1
+.	.	y
+What	what	ddq
+kind	kind	nn1
+of	of	io
+relationship	relationship	nn1
+did	do	vdd
+you	you	ppy
+have	have	vhi
+with	with	iw
+Hugh	hugh	np1
+Riddell	riddell	np1
+?	?	y
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+Well	well	rr
+,	,	y
+for	for	if
+a	a	at1
+long	long	jj
+while	while	nnt1
+there	there	rl
+we	we	ppis2
+--		nn1_jj
+we	we	ppis2
+were	be	vbdr
+pretty	pretty	rg
+good	good	jj
+friends	friend	nn2
+.	.	y
+He	he	pphs1
+and	and	cc
+I	i	ppis1
+had	have	vhd
+went	go	vvn
+out	out	rp
+partying	party	vvg
+together	together	rl
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+So	so	cs@_rr
+you	you	ppy
+did	do	vdd
+n't	n't	xx
+just	just	rr
+work	work	vvi
+for	for	if
+him	him	ppho1
+.	.	y
+You	you	ppy
+were	be	vbdr
+friends	friend	nn2
+with	with	iw
+him	him	ppho1
+.	.	y
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+Yes	yes	uh
+.	.	y
+Yeah	yeah	uh
+.	.	y
+We	we	ppis2
+were	be	vbdr
+friends	friend	nn2
+.	.	y
+@(Footage-of-Cartwri)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Friends	friend	nn2
+until	until	cs_ii@
+the	the	at
+day	day	nnt1
+Cartwright	cartwright	nn1_np1
+says	say	vvz
+he	he	pphs1
+was	be	vbdz
+suddenly	suddenly	rr
+laid	lay	vvn_vvd
+off	off	rp
+without	without	iw
+any	any	dd
+warning	warning	nn1
+.	.	y
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+No	no	at_uh
+warning	warning	nn1
+,	,	y
+none	none	pn
+.	.	y
+Just	just	rr
+went	go	vvd
+in	in	rp@
+to	to	to@_ii
+work	work	vvi_nn1
+one	one	mc1
+morning	morning	nnt1
+and	and	cc
+,	,	y
+boom	boom	nn1
+,	,	y
+there	there	rl
+it	it	pph1
+was	be	vbdz
+.	.	y
+When	when	cs_rrq
+you	you	ppy
+take	take	vv0
+a	a	at1
+man	man	nn1
+'s	's	ge
+pride	pride	nn1
+away	away	rl
+,	,	y
+you	you	ppy
+hurt	hurt	vv0_vvd
+him	him	ppho1
+,	,	y
+you	you	ppy
+insult	insult	vv0
+him	him	ppho1
+,	,	y
+you	you	ppy
+humiliate	humiliate	vv0
+him	him	ppho1
+.	.	y
+And	and	cc
+in	in	ii
+some	some	dd
+cases	case	nn2
+,	,	y
+when	when	cs_rrq
+you	you	ppy
+take	take	vv0
+that	that	dd1
+pride	pride	nn1
+away	away	rl
+and	and	cc
+you	you	ppy
+add	add	vv0
+it	it	pph1
+to	to	ii
+financial	financial	jj
+problems	problem	nn2
+or	or	cc
+family	family	nn1
+problems	problem	nn2
+,	,	y
+that	that	dd1
+'s	be	vbz
+enough	enough	rr_dd
+to	to	to
+drive	drive	vvi
+a	a	at1
+man	man	nn1
+over	over	ii
+the	the	at
+edge	edge	nn1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+I	i	ppis1
+mean	mean	vv0
+,	,	y
+it	it	pph1
+almost	almost	rr
+sounds	sound	vvz
+as	as	cs21
+if	if	cs22
+you	you	ppy
+blame	blame	vv0
+Hugh	hugh	np1
+Riddell	riddell	np1
+for	for	if
+what	what	ddq
+you	you	ppy
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+that	that	dd1
+time	time	nnt1
+,	,	y
+I	i	ppis1
+did	do	vdd
+.	.	y
+I	i	mc1@_zz1@_ppis1
+--		nn1_jj
+I	i	ppis1
+blamed	blame	vvd
+him	him	ppho1
+for	for	if
+everything	everything	pn1
+.	.	y
+@(Photo-of-Cartwrigh)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+He	he	pphs1
+was	be	vbdz
+27	27	mc
+years	year	nnt2
+old	old	jj
+,	,	y
+out	out	ii21
+of	of	ii22
+the	the	at
+best	best	jjt
+job	job	nn1
+he	he	pphs1
+ever	ever	rr
+had	have	vhd_vhn@
+,	,	y
+about	about	rpk
+to	to	to
+get	get	vvi
+remarried	remarried	jj@_vvn
+and	and	cc
+struggling	struggle	vvg_jj
+with	with	iw
+a	a	at1
+drinking	drinking	nn1
+problem	problem	nn1
+.	.	y
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+I	i	ppis1
+felt	feel	vvd
+betrayed	betray	vvn
+by	by	ii
+this	this	dd1
+friend	friend	nn1
+.	.	y
+I	i	ppis1
+felt	feel	vvd
+that	that	dd1_cst
+--		nn1_jj
+that	that	cst
+he	he	pphs1
+owed	owe	vvd
+me	me	ppio1
+some	some	dd
+type	type	nn1
+of	of	io
+explanation	explanation	nn1
+.	.	y
+@(Footage-of-house)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Cartwright	cartwright	np1_nn1
+waited	wait	vvd
+inside	inside	ii
+Hugh	hugh	np1
+Riddell	riddell	np1
+'s	's	ge
+home	home	nn1@_rl
+one	one	mc1
+evening	evening	nnt1
+and	and	cc
+ambushed	ambush	vvd
+him	him	ppho1
+with	with	iw
+Riddell	riddell	np1
+'s	's	ge
+own	own	da
+shotgun	shotgun	nn1
+.	.	y
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+And	and	cc
+I	i	ppis1
+wanted	want	vvd
+to	to	to
+talk	talk	vvi
+to	to	ii
+this	this	dd1
+person	person	nn1
+face	face	nn1
+to	to	ii
+face	face	nn1
+and	and	cc
+find	find	vv0
+out	out	rp
+,	,	y
+'	'	"@
+Why	why	rrq
+did	do	vdd
+you	you	ppy
+fire	fire	vvi
+me	me	ppio1
+without	without	iw
+any	any	dd
+explanation	explanation	nn1
+or	or	cc
+without	without	iw
+any	any	dd
+warning	warning	nn1
+?	?	y
+'	'	ge_"@
+@(Photo-of-murder-sc)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Cartwright	cartwright	np1_nn1
+shot	shoot	vvd
+Hugh	hugh	np1
+Riddell	riddell	np1
+at	at	ii
+close	close	jj
+range	range	nn1
+,	,	y
+killing	kill	vvg
+him	him	ppho1
+instantly	instantly	rr
+.	.	y
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+This	this	dd1
+was	be	vbdz
+someone	someone	pn1
+that	that	cst
+befriended	befriend	vvd
+me	me	ppio1
+for	for	if
+my	my	appge
+abilities	ability	nn2
+in	in	ii
+the	the	at
+workplace	workplace	nn1
+,	,	y
+the	the	at
+abilities	ability	nn2
+that	that	cst
+I	i	ppis1
+had	have	vhd
+to	to	to
+help	help	vvi
+him	him	ppho1
+run	run	vvi
+his	his	appge
+company	company	nn1
+.	.	y
+When	when	cs_rrq
+I	i	ppis1
+was	be	vbdz
+no	no	rr21
+longer	long	rr22
+of	of	io
+a	a	at1
+use	use	nn1
+or	or	cc
+I	i	ppis1
+was	be	vbdz
+a	a	at1
+threat	threat	nn1
+to	to	ii
+that	that	dd1
+,	,	y
+then	then	rt
+I	i	ppis1
+was	be	vbdz
+kicked	kick	vvn
+aside	aside	rl
+.	.	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+)		np1
+But	but	ccb
+Cartwright	cartwright	np1
+did	do	vdd
+n't	n't	xx
+stop	stop	vvi
+with	with	iw
+the	the	at
+man	man	nn1
+who	who	pnqs
+fired	fire	vvd
+him	him	ppho1
+.	.	y
+If	if	cs
+you	you	ppy
+killed	kill	vvd
+Hugh	hugh	np1
+Riddell	riddell	np1
+because	because	ii21
+of	of	ii22
+what	what	ddq
+you	you	ppy
+say	say	vv0
+he	he	pphs1
+did	do	vdd
+to	to	ii
+you	you	ppy
+,	,	y
+how	how	rrq
+do	do	vd0
+you	you	ppy
+explain	explain	vvi
+shooting	shoot	vvg
+his	his	appge
+wife	wife	nn1
+?	?	y
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+,	,	y
+other	other	ii21
+than	than	ii22
+she	she	pphs1
+was	be	vbdz
+there	there	rl
+.	.	y
+@!Mr-DREW-EDMONDSON-		zzq
+:	:	y
+Nothing	nothing	pn1
+reasonably	reasonably	rr
+explains	explain	vvz
+what	what	ddq
+he	he	pphs1
+did	do	vdd
+to	to	ii
+Hume	hume	np
+--		nn1_jj
+Hugh	hugh	np1
+and	and	cc
+Charma	charma	np1
+Riddell	riddell	np1
+.	.	y
+Nothing	nothing	pn1
+can	can	vm
+explain	explain	vvi
+it	it	pph1
+,	,	y
+nothing	nothing	pn1
+can	can	vm
+justify	justify	vvi
+it	it	pph1
+,	,	y
+nothing	nothing	pn1
+can	can	vm
+excuse	excuse	vvi
+it	it	pph1
+.	.	y
+@(Footage-of-Edmonds)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+It	it	pph1
+was	be	vbdz
+the	the	at
+first	first	md
+case	case	nn1
+Drew	drew	np1_vvd@
+Edmondson	edmondson	np1
+handled	handle	vvd
+as	as	rg@_csa_ii@
+assistant	assistant	jj
+prosecutor	prosecutor	nn1
+for	for	if
+Muskogee	muskogee	nn1_np1
+County	county	nn1
+and	and	cc
+the	the	at
+most	most	rgt
+vicious	vicious	jj
+.	.	y
+Tom	tom	np1
+Cartwright	cartwright	np1_nn1
+not	not	xx
+only	only	rr
+shot	shoot	vvd_vvn
+Hugh	hugh	np1
+Riddell	riddell	np1
+.	.	y
+@!Mr-EDMONDSON		zzq
+:	:	y
+He	he	pphs1
+intended	intend	vvd
+for	for	if
+both	both	db2
+of	of	io
+them	them	ppho2
+to	to	to
+be	be	vbi
+dead	dead	jj
+before	before	cs
+he	he	pphs1
+left	leave	vvd
+the	the	at
+house	house	nn1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+he	he	pphs1
+shot	shoot	vvd
+Riddell	riddell	np1
+'s	's	ge
+wife	wife	nn1
+Charma.	charma	np1
+@!Mr-EDMONDSON		zzq
+:	:	y
+Blood	blood	nn1
+pressure	pressure	nn1
+was	be	vbdz
+zero	zero	mc_nn1
+when	when	rrq_cs
+she	she	pphs1
+arrived	arrive	vvd
+at	at	ii
+the	the	at
+emergency	emergency	nn1
+room	room	nn1
+at	at	ii
+Muskogee	muskogee	np1_nn1
+Hospital	hospital	nn1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+Do	do	vd0
+you	you	ppy
+ever	ever	rr
+wonder	wonder	vvi
+how	how	rrq
+she	she	pphs1
+survived	survive	vvd
+this	this	dd1
+?	?	y
+@!Mr-EDMONDSON		zzq
+:	:	y
+I	i	ppis1
+think	think	vv0
+it	it	pph1
+was	be	vbdz
+sheer	sheer	rr@_jj
+willpower	willpower	vv0_nn1
+--		zz
+absolute	absolute	jj
+sheer	sheer	jj
+willpower	willpower	nn1
+.	.	y
+He	he	pphs1
+'d	have	vhd
+done	do	vdn
+a	a	at1
+terrible	terrible	jj
+thing	thing	nn1
+and	and	cc
+she	she	pphs1
+was	be	vbdz
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+away	away	rl
+with	with	iw
+it	it	pph1
+.	.	y
+@!Mrs-RIDDELL		zzq
+:	:	y
+I	i	ppis1
+just	just	rr
+kept	keep	vvd
+thinking	thinking	nn1_vvg
+,	,	y
+'	'	"@
+He	he	pphs1
+ca	can	vm
+n't	n't	xx
+get	get	vvi
+away	away	rl
+with	with	iw
+this	this	dd1
+.	.	y
+He	he	pphs1
+--		zz
+he	he	pphs1
+just	just	rr
+can't.		zz
+'	'	ge
+@(Photo-of-bed-sheet)		zzc
+@!Mrs-RIDDELL		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+I	i	ppis1
+wrote	write	vvd
+his	his	appge
+name	name	nn1
+on	on	ii
+our	our	appge
+bed	bed	nn1
+sheet	sheet	nn1
+in	in	ii
+my	my	appge
+blood	blood	nn1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+It	it	pph1
+sounds	sound	vvz
+like	like	ii_cs@
+you	you	ppy
+did	do	vdd
+n't	n't	xx
+think	think	vvi
+you	you	ppy
+were	be	vbdr
+going	go	vvgk
+to	to	to
+live	live	vvi
+through	through	ii
+it	it	pph1
+.	.	y
+@!Mrs-RIDDELL		zzq
+:	:	y
+At	at	ii
+that	that	dd1
+time	time	nnt1
+,	,	y
+no	no	uh
+.	.	y
+At	at	ii
+that	that	dd1
+time	time	nnt1
+,	,	y
+no	no	uh
+,	,	y
+I	i	ppis1
+did	do	vdd
+n't	n't	xx
+.	.	y
+When	when	cs_rrq
+he	he	pphs1
+did	do	vdd
+this	this	dd1
+,	,	y
+I	i	ppis1
+asked	ask	vvd
+him	him	ppho1
+why	why	rrq
+he	he	pphs1
+did	do	vdd
+it	it	pph1
+.	.	y
+And	and	cc
+he	he	pphs1
+said	say	vvd
+it	it	pph1
+was	be	vbdz
+because	because	cs
+we	we	ppis2
+fired	fire	vvd
+him	him	ppho1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+What	what	ddq
+was	be	vbdz
+your	your	appge
+reaction	reaction	nn1
+to	to	ii
+that	that	dd1
+?	?	y
+@!Mrs-RIDDELL		zzq
+:	:	y
+Disbelief	disbelief	nn1
+.	.	y
+You	you	ppy
+know	know	vv0
+,	,	y
+'	'	ge
+Just	just	rr_jj@
+because	because	cs
+we	we	ppis2
+fired	fire	vvd
+you	you	ppy
+,	,	y
+a	a	at1
+job	job	nn1
+is	be	vbz
+worth	worth	ii
+somebody	somebody	pn1
+'s	's	ge
+life	life	nn1
+?	?	y
+'	'	"@_ge
+You	you	ppy
+know	know	vv0
+,	,	y
+that	that	dd1_cst
+--		nn1_jj
+that	that	cst_dd1
+'s	be	vbz
+not	not	xx
+--		zz
+that	that	cst_dd1
+'s	be	vbz
+not	not	xx
+how	how	rrq
+it	it	pph1
+'s	be	vbz
+supposed	supposed	jj
+to	to	to
+be	be	vbi
+.	.	y
+It	it	pph1
+'s	be	vbz
+just	just	rr_jj@
+--		zz
+it	it	pph1
+'s	be	vbz
+not	not	xx
+right	right	jj
+.	.	y
+@(Footage-of-Riddell)		zzc
+@!MORIARTY		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Charma	charma	np1
+has	have	vhz
+to	to	to
+live	live	vvi
+with	with	iw
+the	the	at
+constant	constant	jj
+reminder	reminder	nn1
+of	of	io
+that	that	dd1
+night	night	nnt1
+.	.	y
+@!Mrs-RIDDELL		zzq
+:	:	y
+How	how	rgq@
+much	much	da1
+do	do	vd0
+you	you	ppy
+want	want	vvi
+to	to	to
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,	,	y
+badly	badly	rr
+damaged	damage	vvn
+by	by	ii
+a	a	at1
+shotgun	shotgun	nn1
+blast	blast	nn1_vv0
+,	,	y
+had	have	vhd
+to	to	to
+be	be	vbi
+amputated	amputate	vvn@
+.	.	y
+She	she	pphs1
+now	now	rt
+walks	walk	vvz
+with	with	iw
+a	a	at1
+prosthesis.	prosthesis	nnu
+@!Mrs-RIDDELL		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+I	i	ppis1
+'ve	have	vh0
+asked	ask	vvn
+myself	myself	ppx1
+over	over	rp
+and	and	cc
+over	over	rp
+and	and	cc
+over	over	rp
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+'	'	"@
+Why	why	rrq
+?	?	y
+'	'	"@_ge
+Mm-hmm	mm-hmm	uh
+.	.	y
+That	that	dd1
+'s	be	vbz
+him	him	ppho1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+That	that	dd1
+'s	be	vbz
+Hugh	hugh	np1
+.	.	y
+@!Mrs-RIDDELL		zzq
+:	:	y
+That	that	dd1
+'s	be	vbz
+Hugh	hugh	np1
+'s	's	ge
+--		nn1
+mm-hmm	mm-hmm	uh
+,	,	y
+that	that	dd1
+'s	be	vbz
+Hugh	hugh	np1
+.	.	y
+@(Photo-of-Hugh-Ridd)		zzc
+@!Mrs-RIDDELL		zzq
+:	:	y
+You	you	ppy
+know	know	vv0
+,	,	y
+'	'	"@_ge
+What	what	ddq
+did	do	vdd
+we	we	ppis2
+ever	ever	rr
+do	do	vdi
+?	?	y
+'	'	ge_"@
+@!MORIARTY		zzq
+:	:	y
+You	you	ppy
+did	do	vdd
+n't	n't	xx
+just	just	rr
+shoot	shoot	vvi
+your	your	appge
+boss	boss	nn1
+and	and	cc
+just	just	rr
+shoot	shoot	vv0
+his	his	appge
+wife	wife	nn1
+.	.	y
+I	i	ppis1
+mean	mean	vv0
+,	,	y
+you	you	ppy
+went	go	vvd
+back	back	rp
+in	in	ii_rp@
+and	and	cc
+you	you	ppy
+cut	cut	vv0
+her	her	appge
+throat	throat	nn1
+and	and	cc
+you	you	ppy
+stabbed	stab	vvd
+her	her	ppho1
+.	.	y
+I	i	ppis1
+mean	mean	vv0
+,	,	y
+how	how	rrq
+do	do	vd0
+you	you	ppy
+explain	explain	vvi
+the	the	at
+viciousness	viciousness	nn1
+of	of	io
+this	this	dd1
+?	?	y
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+I	i	ppis1_mc1%
+--		zz
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+.	.	y
+You	you	ppy
+--		zz
+you	you	ppy
+combine	combine	vv0
+th	th	nnu
+--		nn1_jj
+the	the	at
+hate	hate	nn1
+wi	wi	nn2
+--		nn1_jj
+with	with	iw
+fear	fear	nn1
+and	and	cc
+anything	anything	pn1
+is	be	vbz
+liable	liable	jj
+to	to	to
+happen	happen	vvi
+.	.	y
+@(Footage-of-house)		zzc
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+If	if	cs
+there	there	ex
+had	have	vhd
+been	be	vbn
+anyone	anyone	pn1
+else	else	rr
+in	in	ii
+that	that	dd1
+house	house	nn1
+,	,	y
+they	they	pphs2
+probably	probably	rr
+would	would	vm
+have	have	vhi
+gotten	get	vvn
+hurt	hurt	jj_vv0_vvn
+,	,	y
+too	too	rr@
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+Now	now	rt
+are	be	vbr
+you	you	ppy
+different	different	jj
+--		nn1
+do	do	vd0
+you	you	ppy
+see	see	vvi
+yourself	yourself	ppx1
+different	different	jj
+from	from	ii
+other	other	jj
+people	people	nn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+If	if	cs
+the	the	at
+brutality	brutality	nn1
+of	of	io
+Cartwright	cartwright	np1_nn1
+'s	's	ge
+crime	crime	nn1
+shocks	shock	vvz
+you	you	ppy
+,	,	y
+here	here	rl
+'s	be	vbz
+something	something	pn1
+else	else	rr
+to	to	to
+consider	consider	vvi
+.	.	y
+This	this	dd1
+was	be	vbdz
+a	a	at1
+man	man	nn1
+who	who	pnqs
+had	have	vhd
+no	no	at
+criminal	criminal	jj_nn1
+record	record	nn1
+,	,	y
+a	a	at1
+man	man	nn1
+who	who	pnqs
+did	do	vdd
+n't	n't	xx
+fit	fit	vvi
+the	the	at
+profile	profile	nn1
+of	of	io
+a	a	at1
+violent	violent	jj
+person	person	nn1
+.	.	y
+No	no	rr
+one	one	mc1
+saw	see	vvd_nn1@
+it	it	pph1
+coming	come	vvg_jj@
+.	.	y
+@!Mrs-RIDDELL		zzq
+:	:	y
+He	he	pphs1
+was	be	vbdz
+just	just	rr
+a	a	at1
+regular	regular	jj
+person	person	nn1
+;		np1
+you	you	ppy
+know	know	vv0
+,	,	y
+somebody	somebody	pn1
+you	you	ppy
+just	just	rr
+meet	meet	vv0
+off	off	rp_ii
+the	the	at
+street	street	nn1
+.	.	y
+We	we	ppis2
+had	have	vhd
+no	no	at
+reason	reason	nn1
+to	to	to
+fear	fear	vvi
+him	him	ppho1
+or	or	cc
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+not	not	xx
+trust	trust	vvi
+him	him	ppho1
+or	or	cc
+anything	anything	pn1
+like	like	ii
+this	this	dd1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+There	there	ex
+was	be	vbdz
+no	no	at
+evidence	evidence	nn1
+that	that	cst
+he	he	pphs1
+was	be	vbdz
+angry	angry	jj
+,	,	y
+on	on	ii
+the	the	at
+edge	edge	nn1
+,	,	y
+anything	anything	pn1
+that	that	cst
+you	you	ppy
+saw	see	vvd_vv0%
+?	?	y
+@!Mrs-RIDDELL		zzq
+:	:	y
+No	no	uh
+.	.	y
+But	but	ccb
+I	i	ppis1
+did	do	vdd
+n't	n't	xx
+know	know	vvi
+to	to	to
+look	look	vvi
+for	for	if
+anything	anything	pn1
+.	.	y
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+You	you	ppy
+hit	hit	vv0@_vvd
+that	that	dd1_cst
+breaking	breaking	nn1
+point	point	nn1
+and	and	cc
+everybody	everybody	pn1
+has	have	vhz
+it	it	pph1
+.	.	y
+No	no	rgqv31
+matter	matter	rgqv32
+how	how	rgqv33
+small	small	jj_rr%
+a	a	at1
+problem	problem	nn1
+or	or	cc
+how	how	rgq@_rrq
+large	large	jj
+a	a	at1
+problem	problem	nn1
+--		nn1
+with	with	iw
+some	some	dd
+people	people	nn
+,	,	y
+a	a	at1
+small	small	jj
+problem	problem	nn1
+will	will	vm
+drive	drive	vvi
+them	them	ppho2
+to	to	ii
+a	a	at1
+breaking	breaking	nn1
+point	point	nn1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+Are	be	vbr
+you	you	ppy
+saying	say	vvg
+that	that	cst_dd1
+anybody	anybody	pn1
+...	...	...
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+Anybody	anybody	pn1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+...	...	...
+could	could	vm
+go	go	vvi
+and	and	cc
+shoot	shoot	vvi
+their	their	appge
+boss	boss	nn1
+?	?	y
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+Anybody	anybody	pn1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+believe	believe	vvi
+.	.	y
+I	i	ppis1
+do	do	vd0
+not	not	xx
+believe	believe	vvi
+I	i	ppis1
+could	could	vm
+kill	kill	vvi
+someone	someone	pn1
+and	and	cc
+not	not	xx
+...	...	...
+@!Mr-CARTWRIGHT		zzq
+:	:	y
+It	it	pph1
+is	be	vbz
+in	in	ii
+--		nn1_jj
+it	it	pph1
+is	be	vbz
+--		zz
+it	it	pph1
+is	be	vbz
+in	in	ii
+anyone	anyone	pn1
+.	.	y
+Given	give	vvn
+the	the	at
+circumstances	circumstance	nn2
+,	,	y
+anyone	anyone	pn1
+has	have	vhz
+that	that	dd1
+capability	capability	nn1
+.	.	y
+@(Footage-of-Riddell)		zzc
+@!Mrs-RIDDELL		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+It	it	pph1
+could	could	vm
+be	be	vbi
+anybody	anybody	pn1
+.	.	y
+It	it	pph1
+really	really	rr
+could	could	vm
+.	.	y
+It	it	pph1
+could	could	vm
+be	be	vbi
+anybody	anybody	pn1
+.	.	y
+And	and	cc
+because	because	ii21
+of	of	ii22
+that	that	dd1
+,	,	y
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+trust	trust	vvi
+anybody	anybody	pn1
+anymore	anymore	rr
+.	.	y
+I	i	ppis1
+used	use	vmk
+to	to	to
+trust	trust	vvi
+people	people	nn
+more	more	rrr_dar
+.	.	y
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+trust	trust	vvi
+anybody	anybody	pn1
+anymore	anymore	rr
+.	.	y
+It	it	pph1
+'s	be	vbz
+just	just	rr_jj@
+--		zz
+you	you	ppy
+ca	can	vm
+n't	n't	xx
+anymore	anymore	rr
+.	.	y
+You	you	ppy
+just	just	rr
+--		zz
+you	you	ppy
+just	just	rr
+can't.		zz
+@(Theme-music)		zzc
+##221555		
+TERROR	terror	nn1
+ON	on	ii
+THE	the	at
+JOB	job	nn1
+@!DAN-RATHER		zzq
+:	:	y
+For	for	if
+many	many	da2
+Americans	american	nn2
+the	the	at
+safest	safe	jjt
+place	place	nn1
+outside	outside	ii
+the	the	at
+home	home	nn1
+has	have	vhz
+been	be	vbn
+the	the	at
+workplace	workplace	nn1
+,	,	y
+but	but	ccb
+no	no	at_rr%
+more	more	rrr_dar
+.	.	y
+Increasingly	increasingly	rr
+,	,	y
+workers	worker	nn2
+are	be	vbr
+attacking	attack	vvg
+their	their	appge
+colleagues	colleague	nn2
+on	on	ii
+the	the	at
+job	job	nn1
+.	.	y
+If	if	cs
+you	you	ppy
+think	think	vv0
+it	it	pph1
+could	could	vm
+n't	n't	xx
+happen	happen	vvi
+where	where	rrq_cs
+you	you	ppy
+work	work	vv0
+,	,	y
+consider	consider	vv0
+this	this	dd1
+:	:	y
+Just	just	rr
+last	last	md
+month	month	nnt1
+,	,	y
+during	during	ii
+a	a	at1
+seven-day	seven-day	jj_nnt1
+period	period	nn1
+--		nn1
+three	three	mc
+attacks	attack	nn2
+.	.	y
+@(Footage-of-ambulan)		zzc
+@!RATHER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Near	near	ii_rl
+Memphis	memphis	np1
+,	,	y
+a	a	at1
+Federal	federal	jj
+Express	express	nn1
+pilot	pilot	nn1
+facing	face	vvg
+a	a	at1
+possible	possible	jj
+firing	firing	nn1
+is	be	vbz
+charged	charge	vvn
+with	with	iw
+attacking	attack	vvg
+his	his	appge
+crew	crew	nn1
+with	with	iw
+a	a	at1
+hammer	hammer	nn1
+and	and	cc
+a	a	at1
+spear	spear	nn1
+gun	gun	nn1
+.	.	y
+In	in	ii
+Chicago	chicago	np1
+,	,	y
+police	police	nn2
+say	say	vv0
+an	a	at1
+executive	executive	nn1
+arguing	argue	vvg
+over	over	ii_rp
+paperwork	paperwork	nn1
+stabbed	stab	vvd_vvn
+his	his	appge
+boss	boss	nn1
+.	.	y
+And	and	cc
+at	at	ii
+a	a	at1
+plant	plant	nn1
+in	in	ii
+North	north	nd1
+Carolina	carolina	np1
+,	,	y
+employees	employee	nn2
+arrived	arrive	vvn_vvd
+at	at	ii
+work	work	nn1
+to	to	to
+find	find	vvi
+horror	horror	nn1
+unfolding	unfold	vvg
+before	before	ii
+their	their	appge
+eyes	eye	nn2
+.	.	y
+@(Theme-music)		zzc
+@!BAD-BLOOD-#		zzq
+qwq		xx
+@		ii
+(	(	y
+Footage-of-police-		np1
+Unidentified	unidentified	jj
+Man	man	nn1
+1	1	mc1
+:	:	y
+Well	well	rr
+,	,	y
+we	we	ppis2
+were	be	vbdr
+told	tell	vvn
+there	there	rl_ex
+was	be	vbdz
+a	a	at1
+guy	guy	nn1
+in	in	ii
+the	the	at
+building	building	nn1
+--		nn1
+he	he	pphs1
+was	be	vbdz
+shooting	shoot	vvg
+people	people	nn
+.	.	y
+Unidentified	unidentified	jj
+Man	man	nn1
+2	2	mc
+:	:	y
+We	we	ppis2
+saw	see	vvd
+six	six	mc
+or	or	cc
+seven	seven	mc
+people	people	nn
+running	run	vvg
+in	in	ii_rp@
+all	all	db
+directions	direction	nn2
+,	,	y
+some	some	dd
+hitting	hit	vvg
+the	the	at
+floor	floor	nn1
+.	.	y
+@(Footage-of-employe)		zzc
+@!RICHARD-SCHLESINGE		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+April	april	npm1_np1%
+13th	13th	md
+,	,	y
+outside	outside	ii
+Raleigh	raleigh	np1
+.	.	y
+Unidentified	unidentified	jj
+Woman	woman	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+that	that	cst
+this	this	dd1
+man	man	nn1
+was	be	vbdz
+going	go	vvgk
+to	to	to
+shoot	shoot	vvi
+everybody	everybody	pn1
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Footage-of-police		np1
+;		np1
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+A	a	zz1_at1@
+gunman	gunman	nn1
+showed	show	vvd
+up	up	rp
+at	at	ii
+his	his	appge
+former	former	da
+workplace	workplace	nn1
+hunting	hunt	vvg@_nn1
+his	his	appge
+former	former	da
+co-workers	co-worker	nn2
+.	.	y
+Unidentified	unidentified	jj
+Man	man	nn1
+3	3	mc
+:	:	y
+I	i	ppis1
+heard	hear	vvd
+the	the	at
+first	first	md
+shot	shot	nn1
+and	and	cc
+I	i	ppis1
+never	never	rr
+looked	look	vvn_vvd
+back	back	rp
+.	.	y
+I	i	ppis1
+just	just	rr
+ran	run	vvd
+.	.	y
+@(Footage-of-gun-bei)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+This	this	dd1
+time	time	nnt1
+it	it	pph1
+was	be	vbdz
+38-year-old	38-year-old	jj
+Ladislav	ladislav	np1
+Antalik	antalik	np1_nn1
+.	.	y
+Unidentified	unidentified	jj
+Man	man	nn1
+4	4	mc
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+The	the	at
+way	way	nn1
+he	he	pphs1
+came	come	vvd
+in	in	ii_rp%
+there	there	rl
+shooting	shoot	vvg_nn1
+,	,	y
+it	it	pph1
+was	be	vbdz
+like	like	ii
+a	a	at1
+crazy	crazy	jj
+man	man	nn1
+.	.	y
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+He	he	pphs1
+'d	have	vhd
+resigned	resign	vvn
+from	from	ii
+his	his	appge
+job	job	nn1
+as	as	ii_csa
+a	a	at1
+technician	technician	nn1
+at	at	ii
+the	the	at
+Sumitomo	sumitomo	nn1_np1
+Corporation	corporation	nn1
+'s	's	ge
+plant	plant	nn1
+that	that	cst_dd1
+makes	make	vvz
+fiber	fiber	nn1
+optics	optics	nn1
+cable	cable	nn1
+.	.	y
+Captain	captain	nn1_vv0%
+MIKE	mike	np1
+ANDREWS	andrews	np1
+(	(	y
+Durham	durham	np1
+Sheriff	sheriff	nn1
+'s	's	ge
+Department	department	nn1
+)		np1
+:	:	y
+Basically	basically	rr
+,	,	y
+a	a	at1
+disgruntled	disgruntled	jj
+employee	employee	nn1
+.	.	y
+@(Footage-of-employe)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+But	but	ccb
+he	he	pphs1
+came	come	vvd
+back	back	rp
+and	and	cc
+went	go	vvd
+on	on	ii_rp@
+a	a	at1
+shooting	shooting	nn1
+spree	spree	nn1
+.	.	y
+It	it	pph1
+was	be	vbdz
+a	a	at1
+textbook	textbook	nn1
+case	case	nn1
+of	of	io
+violence	violence	nn1
+in	in	ii
+the	the	at
+workplace	workplace	nn1
+.	.	y
+@!Capt-ANDREWS		zzq
+:	:	y
+If	if	cs
+people	people	nn
+really	really	rr
+want	want	vv0
+to	to	to
+do	do	vdi
+something	something	pn1
+,	,	y
+there	there	ex
+'s	be	vbz
+no	no	at
+way	way	nn1
+to	to	to
+really	really	rr
+stop	stop	vvi
+them	them	ppho2
+.	.	y
+@(Footage-of-Andrews)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Captain	captain	nnb
+Mike	mike	np1
+Andrews	andrews	np1
+of	of	io
+the	the	at
+Durham	durham	np1
+Sheriff	sheriff	nn1
+'s	's	ge
+Department	department	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+is	be	vbz
+that	that	cst
+he	he	pphs1
+entered	enter	vvd
+at	at	ii
+the	the	at
+front	front	jj_nn1
+entrance	entrance	nn1
+of	of	io
+Building	building	nn1_vvg@
+A	a	zz1
+,	,	y
+parked	park	vvn_vvd
+in	in	ii
+the	the	at
+visitor	visitor	nn1
+'s	's	ge
+parking	parking	nn1
+lot	lot	nn1
+and	and	cc
+then	then	rt
+walked	walk	vvd_vvn@
+across	across	ii
+the	the	at
+campus	campus	nn1
+,	,	y
+entering	enter	vvg
+Building	building	nn1
+C.	c	np1
+This	this	dd1
+was	be	vbdz
+the	the	at
+Glot	glot	nn1_np1
+9mm	9mm	nnu
+which	which	ddq
+he	he	pphs1
+used	use	vvd
+in	in	ii
+the	the	at
+incident	incident	nn1
+.	.	y
+@(Footage-outside-th)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+By	by	ii
+the	the	at
+time	time	nnt1
+it	it	pph1
+was	be	vbdz
+over	over	rp
+,	,	y
+Antalik	antalik	np1
+had	have	vhd
+killed	kill	vvn
+two	two	mc
+workers	worker	nn2
+,	,	y
+wounded	wound	vvd_vvn
+two	two	mc
+more	more	dar_rrr
+and	and	cc
+finally	finally	rr
+killed	kill	vvd_vvn
+himself	himself	ppx1
+.	.	y
+@!Capt-ANDREWS		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+The	the	at
+night	night	nnt1
+of	of	io
+the	the	at
+incident	incident	nn1
+we	we	ppis2
+did	do	vdd
+a	a	at1
+search	search	nn1
+warrant	warrant	vvi
+on	on	ii
+Antalik	antalik	np1
+'s	's	ge
+residence	residence	nn1
+.	.	y
+@!SCHLESINGER		zzq
+:	:	y
+The	the	at
+police	police	nn2
+took	take	vvd
+all	all	db
+the	the	at
+evidence	evidence	nn1
+they	they	pphs2
+needed	need	vvd
+out	out	ii21
+of	of	ii22
+Ladislav	ladislav	np1
+Antalik	antalik	np1
+'s	's	ge
+apartment	apartment	nn1
+after	after	ii_cs
+the	the	at
+shooting	shooting	nn1
+.	.	y
+But	but	ccb
+there	there	ex
+are	be	vbr
+still	still	rr
+some	some	dd
+clues	clue	nn2
+here	here	rl
+that	that	dd1_cst
+point	point	nn1
+to	to	ii
+the	the	at
+kind	kind	nn1
+of	of	io
+man	man	nn1
+Antalik	antalik	nn1_np1
+had	have	vhd
+become	become	vvn@
+.	.	y
+Shortly	shortly	rr
+before	before	ii_cs
+the	the	at
+shooting	shooting	nn1
+,	,	y
+Antalik	antalik	np1
+had	have	vhd
+taken	take	vvn
+out	out	ii21
+of	of	ii22
+the	the	at
+local	local	jj
+library	library	nn1
+"	"	y
+A	a	zz1
+Tortured	tortured	jj@
+Work	work	nn1
+"	"	y
+by	by	ii
+Frederick	frederick	np1
+Nietzsche	nietzsche	np1
+.	.	y
+The	the	at
+book	book	nn1
+was	be	vbdz
+stamped	stamp	vvn_jj
+due	due	ii%_jj
+April	april	npm1
+27	27	mc
+,	,	y
+two	two	mc
+weeks	week	nnt2
+after	after	ii_cs
+the	the	at
+shooting	shooting	nn1
+.	.	y
+@(Footage-of-return-)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+And	and	cc
+next	next	ii21
+to	to	ii22
+that	that	dd1
+date	date	nn1
+on	on	ii
+the	the	at
+return	return	nn1_jj@
+card	card	nn1
+,	,	y
+Antalik	antalik	np1
+wrote	write	vvd
+,	,	y
+'	'	"@_ge
+I	i	ppis1
+'ll	will	vm
+be	be	vbi
+dead	dead	jj
+.	.	y
+'	'	"@_ge
+@!Mr-MATT		zzq
+:	:	y
+(	(	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+--		zz
+he	he	pphs1
+was	be	vbdz
+a	a	at1
+friend	friend	nn1
+and	and	cc
+a	a	at1
+helper	helper	nn1
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Footage-of-Matt		np1
+;		np1
+-p	-p	jj
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Jim	jim	np1
+Matt	matt	np1
+met	meet	vvd
+Antalik	antalik	np1_nn1
+in	in	ii
+1988	1988	mc
+,	,	y
+one	one	mc1
+year	year	nnt1
+after	after	ii_cs
+Antalik	antalik	np1
+came	come	vvd
+to	to	ii
+North	north	nd1
+Carolina	carolina	np1
+from	from	ii
+what	what	ddq
+used	use	vmk
+to	to	to
+be	be	vbi
+Czechoslovakia	czechoslovakia	np1
+.	.	y
+@!Mr-MATT		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+He	he	pphs1
+talked	talk	vvd
+a	a	at1_rr21@
+lot	lot	nn1_rr22
+about	about	ii
+his	his	appge
+work	work	nn1
+.	.	y
+He	he	pphs1
+liked	like	vvd
+this	this	dd1
+job	job	nn1
+.	.	y
+He	he	pphs1
+made	make	vvd
+suggestions	suggestion	nn2
+for	for	if
+improvement	improvement	nn1
+in	in	ii
+the	the	at
+quality	quality	nn1
+of	of	io
+the	the	at
+product	product	nn1
+and	and	cc
+he	he	pphs1
+en	en	fw
+--		nn1
+he	he	pphs1
+enjoyed	enjoy	vvd_vvn
+doing	do	vdg
+that	that	dd1
+work	work	nn1
+.	.	y
+He	he	pphs1
+--		zz
+he	he	pphs1
+said	say	vvd
+he	he	pphs1
+enjoyed	enjoy	vvd_vvn
+doing	do	vdg
+the	the	at
+work	work	nn1
+.	.	y
+Unidentified	unidentified	jj
+Woman	woman	nn1
+2	2	mc
+:	:	y
+(	(	y
+In	in	ii
+Silhouette	silhouette	nn1
+)		np1
+He	he	pphs1
+'s	be	vbz
+working	work	vvg
+in	in	ii_rp@
+a	a	at1
+good	good	jj
+company	company	nn1
+,	,	y
+making	make	vvg
+a	a	at1
+decent	decent	jj
+salry	salry	nn1
+--		nn1_jj
+salary	salary	nn1
+.	.	y
+He	he	pphs1
+was	be	vbdz
+making	make	vvg
+...	...	...
+@(Footage-of-Woman-#)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+This	this	dd1
+woman	woman	nn1
+dated	dated	jj_vvn
+Antalik	antalik	nn1
+for	for	if
+more	more	dar
+than	than	csn
+a	a	at1
+year	year	nnt1
+.	.	y
+Woman	woman	nn1
+2	2	mc
+:	:	y
+He	he	pphs1
+was	be	vbdz
+a	a	at1
+fun	fun	jj_nn1
+person	person	nn1
+to	to	to
+be	be	vbi
+with	with	iw
+.	.	y
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+We	we	ppis2
+'ve	have	vh0
+agreed	agree	vvn
+to	to	to
+protect	protect	vvi
+her	her	appge
+identity	identity	nn1
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Photo-of-Antalik		np1
+;		np1
+-	-	-
+Woman	woman	nn1
+2	2	mc
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+It	it	pph1
+seemed	seem	vvd
+like	like	ii
+everything	everything	pn1
+was	be	vbdz
+going	go	vvg
+pretty	pretty	rg
+good	good	jj
+for	for	if
+him	him	ppho1
+.	.	y
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+But	but	ccb
+other	other	jj
+friends	friend	nn2
+,	,	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+He	he	pphs1
+thought	think	vvd
+of	of	io
+--		nn1_jj
+like	like	ii_jj@
+people	people	nn
+in	in	ii
+this	this	dd1
+country	country	nn1
+,	,	y
+they	they	pphs2
+hate	hate	vv0
+foreigner	foreigner	nn1
+.	.	y
+And	and	cc
+he	he	pphs1
+said	say	vvd
+,	,	y
+'	'	"@
+You	you	ppy
+do	do	vd0
+n't	n't	xx
+know	know	vvi
+about	about	ii
+this	this	dd1
+.	.	y
+They	they	pphs2
+hate	hate	vv0
+me.	me	nnu
+'	'	ge
+@(Photo-of-Antalik)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+There	there	ex
+were	be	vbdr
+also	also	rr
+signs	sign	vvz@
+that	that	cst_dd1
+Antalik	antalik	np1_nn1
+was	be	vbdz
+having	have	vhg
+problems	problem	nn2
+with	with	iw
+his	his	appge
+co-workers	co-worker	nn2
+.	.	y
+@!Mr-MATT		zzq
+:	:	y
+He	he	pphs1
+told	tell	vvd
+me	me	ppio1
+he	he	pphs1
+was	be	vbdz
+having	have	vhg
+trouble	trouble	nn1
+.	.	y
+Woman	woman	nn1
+2	2	mc
+:	:	y
+He	he	pphs1
+--		zz
+he	he	pphs1
+mentioned	mention	vvd
+the	the	at
+female	female	jj_nn1
+co-workers	co-worker	nn2
+.	.	y
+Miss	miss	nnb
+Jones	jones	np1
+he	he	pphs1
+would	would	vm
+talk	talk	vvi
+about	about	ii
+.	.	y
+@(Footage-of-Jones-a)		zzc
+@!Mr-ANTHONY-JONES-@		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+They	they	pphs2
+just	just	rr
+could	could	vm
+n't	n't	xx
+get	get	vvi
+along	along	rp
+for	for	if
+some	some	dd
+reason	reason	nn1
+or	or	cc
+another	another	dd1
+.	.	y
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Anthony	anthony	np1
+Jones	jones	np1
+'	'	ge
+wife	wife	nn1
+Flora	flora	np1_nn
+was	be	vbdz
+one	one	mc1
+of	of	io
+the	the	at
+two	two	mc
+people	people	nn
+Antalik	antalik	np1_nn1
+killed	kill	vvd_vvn
+.	.	y
+She	she	pphs1
+was	be	vbdz
+32	32	mc
+.	.	y
+Do	do	vd0
+you	you	ppy
+think	think	vvi
+he	he	pphs1
+went	go	vvd
+there	there	rl
+to	to	to
+shoot	shoot	vvi
+Flora	flora	nn_np1
+--		zz
+to	to	to
+shoot	shoot	vvi
+your	your	appge
+wife	wife	nn1
+?	?	y
+@!Mr-JONES		zzq
+:	:	y
+I	i	ppis1
+'m	be	vbm
+sure	sure	jj
+he	he	pphs1
+went	go	vvd
+there	there	rl
+to	to	to
+shoot	shoot	vvi
+Flora	flora	nn_np1
+and	and	cc
+a	a	at1
+couple	couple	nn1
+more	more	rgr
+other	other	jj
+people	people	nn
+.	.	y
+@(Newspaper-article-)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+But	but	ccb
+almost	almost	rr
+a	a	at1
+year	year	nnt1
+before	before	ii_cs
+the	the	at
+shooting	shooting	nn1
+,	,	y
+Antalik	antalik	np1
+asked	ask	vvd
+the	the	at
+company	company	nn1
+to	to	to
+take	take	vvi
+him	him	ppho1
+off	off	ii_rp
+Flora	flora	np1
+Jones	jones	np1
+'	'	ge
+shift	shift	nn1@
+.	.	y
+@!Mr-PASANT-TARIYAL-		zzq
+:	:	y
+There	there	ex
+are	be	vbr
+certain	certain	jj
+requirements	requirement	nn2
+and	and	cc
+qualification	qualification	nn1
+for	for	if
+you	you	ppy
+to	to	to
+be	be	vbi
+able	able	jk
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+)		np1
+Pasant	pasant	np1_jj
+Tariyal	tariyal	np1
+is	be	vbz
+an	a	at1
+executive	executive	nn1
+at	at	ii
+the	the	at
+plant	plant	nn1
+.	.	y
+@!Mr-TARIYAL		zzq
+:	:	y
+So	so	rg_rr
+normally	normally	rr
+you	you	ppy
+do	do	vd0
+n't	n't	xx
+act	act	vvi
+on	on	ii_rp@
+that	that	dd1_cst
+request	request	nn1_vv0
+that	that	cst
+easily	easily	rr
+.	.	y
+@(Footage-of-Sumitom)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+But	but	ccb
+the	the	at
+management	management	nn1
+would	would	vm
+not	not	xx
+change	change	vvi
+Antalik	antalik	np1_nn1
+'s	's	ge
+shift	shift	nn1@
+.	.	y
+@!Mr-TARIYAL		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+He	he	pphs1
+was	be	vbdz
+unhappy	unhappy	jj
+with	with	iw
+some	some	dd
+of	of	io
+his	his	appge
+co-workers	co-worker	nn2
+.	.	y
+But	but	ccb
+normally	normally	rr
+you	you	ppy
+think	think	vv0
+of	of	io
+that	that	dd1
+as	as	ii_csa
+a	a	at1
+routine	routine	nn1
+,	,	y
+right	right	rr_nn1_jj
+?	?	y
+@(Photo-of-Antalik)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Antalik	antalik	nn1_np1
+apparently	apparently	rr
+did	do	vdd
+not	not	xx
+consider	consider	vvi
+it	it	pph1
+routine	routine	nn1_jj@
+.	.	y
+@!Mr-MATT		zzq
+:	:	y
+I	i	ppis1
+suggested	suggest	vvd
+to	to	ii
+him	him	ppho1
+that	that	cst
+he	he	pphs1
+not	not	xx
+leave	leave	vv0_nn1
+until	until	cs
+he	he	pphs1
+had	have	vhd
+a	a	at1
+new	new	jj
+job	job	nn1
+.	.	y
+But	but	ccb
+he	he	pphs1
+quit	quit	vvd
+anyhow	anyhow	rr
+,	,	y
+and	and	cc
+that	that	dd1
+was	be	vbdz
+that	that	dd1
+.	.	y
+@(Footage-of-two-pol)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+That	that	dd1_cst
+was	be	vbdz
+n't	n't	xx
+that	that	dd1
+.	.	y
+After	after	ii
+quitting	quit	vvg
+,	,	y
+Antalik	antalik	np1
+went	go	vvd
+back	back	rp
+to	to	ii
+the	the	at
+plant	plant	nn1
+the	the	at
+next	next	md
+working	working	jj@_vvg
+day	day	nnt1
+and	and	cc
+wanted	want	vvd
+his	his	appge
+job	job	nn1
+back	back	nn1_rp
+.	.	y
+@!Mr-TARIYAL		zzq
+:	:	y
+He	he	pphs1
+said	say	vvd
+that	that	cst
+he	he	pphs1
+wanted	want	vvd
+to	to	to
+work	work	vvi
+.	.	y
+And	and	cc
+...	...	...
+@!SCHLESINGER		zzq
+:	:	y
+Even	even	rr
+after	after	cs
+he	he	pphs1
+had	have	vhd
+resigned	resign	vvn
+?	?	y
+@!Mr-TARIYAL		zzq
+:	:	y
+Right	right	rr_nn1_jj
+.	.	y
+And	and	cc
+our	our	appge
+people	people	nn
+apparently	apparently	rr
+said	say	vvd
+no	no	uh
+and	and	cc
+...	...	...
+@(Footage-of-guarded)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Antalik	antalik	np1_nn1
+refused	refuse	vvd_vvn
+to	to	to
+leave	leave	vvi
+.	.	y
+So	so	rr
+Sumitomo	sumitomo	np1_nn1
+called	call	vvd
+the	the	at
+police	police	nn2
+and	and	cc
+had	have	vhn@
+him	him	ppho1
+escorted	escort	vvn
+off	off	ii_rp
+the	the	at
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+and	and	cc
+what	what	ddq
+happened	happen	vvd
+really	really	rr
+devastated	devastate	vvd_vvn
+him	him	ppho1
+.	.	y
+@!Mr-MATT		zzq
+:	:	y
+He	he	pphs1
+had	have	vhd
+no	no	at
+other	other	jj
+financial	financial	jj
+resources	resource	nn2
+.	.	y
+He	he	pphs1
+had	have	vhd
+to	to	to
+work	work	vvi
+.	.	y
+@(Photo-of-Antalik)		zzc
+Woman	woman	nn1
+2	2	mc
+:	:	y
+The	the	at
+money	money	nn1
+he	he	pphs1
+--		zz
+he	he	pphs1
+had	have	vhd
+saved	save	vvn
+,	,	y
+it	it	pph1
+was	be	vbdz
+nearly	nearly	rr
+gone	go	vvn
+.	.	y
+There	there	ex
+was	be	vbdz
+no	no	at
+job	job	nn1
+for	for	if
+him	him	ppho1
+.	.	y
+@!Mr-MATT		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+I	i	ppis1
+think	think	vv0
+the	the	at
+frustration	frustration	nn1
+just	just	rr
+kept	keep	vvn_vvd
+building	building	nn1
+and	and	cc
+building	building	nn1
+and	and	cc
+...	...	...
+@(Footage-of-Woman-#)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+On	on	ii
+the	the	at
+night	night	nnt1
+before	before	ii_cs
+the	the	at
+shooting	shooting	nn1
+,	,	y
+Antalik	antalik	np1
+met	meet	vvd
+his	his	appge
+girlfriend	girlfriend	nn1
+at	at	ii
+a	a	at1
+local	local	jj
+mall	mall	nn1
+.	.	y
+Woman	woman	nn1
+2	2	mc
+:	:	y
+And	and	cc
+he	he	pphs1
+took	take	vvd
+me	me	ppio1
+shopping	shop	vvg_nn1
+.	.	y
+He	he	pphs1
+bought	buy	vvd
+some	some	dd
+shoes	shoe	nn2
+for	for	if
+me.	me	nnu
+@!SCHLESINGER		zzq
+:	:	y
+Did	do	vdd
+you	you	ppy
+have	have	vhi
+any	any	dd
+sense	sense	nn1
+that	that	cst
+maybe	maybe	rr
+he	he	pphs1
+'d	have	vhd
+gone	go	vvn
+over	over	ii_rp
+the	the	at
+edge	edge	nn1
+?	?	y
+Woman	woman	nn1
+2	2	mc
+:	:	y
+No	no	uh
+,	,	y
+not	not	xx
+really	really	rr
+.	.	y
+The	the	at
+only	only	jj
+thing	thing	nn1
+before	before	cs
+we	we	ppis2
+departed	depart	vvd
+,	,	y
+I	i	ppis1
+asked	ask	vvd
+him	him	ppho1
+,	,	y
+'	'	"@_ge
+Will	will	vm_nn1@
+you	you	ppy
+please	please	rr
+give	give	vvi
+me	me	ppio1
+a	a	at1
+call	call	nn1
+?	?	y
+'	'	"@_ge
+And	and	cc
+he	he	pphs1
+shook	shake	vvd
+his	his	appge
+head	head	nn1
+with	with	iw
+a	a	at1
+smile	smile	nn1
+and	and	cc
+said	say	vvd
+no	no	uh
+.	.	y
+I	i	ppis1
+just	just	rr
+had	have	vhd
+an	a	at1
+eerie	eerie	jj
+feeling	feeling	nn1
+.	.	y
+@(Footage-of-gun-bei)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+After	after	ii
+leaving	leave	vvg
+his	his	appge
+girlfriend	girlfriend	nn1
+,	,	y
+Antalik	antalik	np1
+came	come	vvd
+to	to	ii
+this	this	dd1
+gun	gun	nn1
+range	range	nn1
+.	.	y
+Police	police	nn2
+found	find	vvd_vvn
+his	his	appge
+targets	target	nn2
+in	in	ii
+his	his	appge
+apartment	apartment	nn1
+.	.	y
+@!Capt-ANDREWS		zzq
+:	:	y
+(	(	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+So	so	cs@_rr
+you	you	ppy
+think	think	vv0
+that	that	cst
+these	these	dd2
+targets	target	nn2
+are	be	vbr
+practice	practice	nn1
+for	for	if
+the	the	at
+big	big	jj
+day	day	nnt1
+?	?	y
+@!Capt-ANDREWS		zzq
+:	:	y
+It	it	pph1
+'s	be	vbz
+the	the	at
+sad	sad	jj
+thing	thing	nn1
+to	to	to
+say	say	vvi
+but	but	ccb
+I	i	ppis1
+would	would	vm
+say	say	vvi
+yes	yes	uh
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+"	"	y
+Final-Exit		np1
+"	"	y
+-shown	-shown	nn1_jj
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+And	and	cc
+there	there	ex
+were	be	vbdr
+other	other	jj
+clues	clue	nn2
+left	leave	vvn_vvd
+around	around	ii_rp
+the	the	at
+apartment	apartment	nn1
+,	,	y
+including	including	ii_vvg@
+a	a	at1
+mysterious	mysterious	jj
+collection	collection	nn1
+of	of	io
+quotes	quote	nn2
+he	he	pphs1
+had	have	vhd
+written	write	vvn
+down	down	rp
+.	.	y
+@!Capt-ANDREWS		zzq
+:	:	y
+He	he	pphs1
+has	have	vhz
+one	one	pn1
+here	here	rl
+with	with	iw
+John	john	np1
+F.	f	np1
+Kennedy	kennedy	np1
+:	:	y
+'	'	"@_ge
+A	a	zz1_at1@
+man	man	nn1
+does	do	vdz
+what	what	ddq
+he	he	pphs1
+must	must	vm
+in	in	ii31
+spite	spite	ii32
+of	of	ii33
+personal	personal	jj
+consequences	consequence	nn2
+.	.	y
+@(Footage-of-paper)		zzc
+@!Capt-ANDREWS		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+'	'	ge
+That	that	dd1
+is	be	vbz
+the	the	at
+basis	basis	nn1
+of	of	io
+all	all	db
+human	human	jj
+morality	morality	nn1
+.	.	y
+'	'	"@_ge
+@!SCHLESINGER		zzq
+:	:	y
+I	i	ppis1
+mean	mean	vv0
+,	,	y
+given	give	vvn
+what	what	ddq
+we	we	ppis2
+'re	be	vbr
+talking	talk	vvg
+about	about	ii
+,	,	y
+this	this	dd1
+is	be	vbz
+insane	insane	jj
+.	.	y
+@!Capt-ANDREWS		zzq
+:	:	y
+That	that	dd1
+'s	be	vbz
+correct	correct	jj
+.	.	y
+@(Footage-of-Lee)		zzc
+@!SCHLESINGER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Some	some	dd
+of	of	io
+Antalik	antalik	np1_nn1
+'s	's	ge
+friends	friend	nn2
+now	now	rt
+wonder	wonder	vv0
+if	if	csw@_cs
+they	they	pphs2
+missed	miss	vvd
+some	some	dd
+warning	warning	nn1
+signs	sign	nn2
+.	.	y
+@!Mr-LEE		zzq
+:	:	y
+I	i	ppis1
+think	think	vv0
+he	he	pphs1
+'s	be	vbz
+going	go	vvgk
+to	to	to
+like	like	vvi
+kill	kill	vv0
+people	people	nn
+.	.	y
+But	but	ccb
+I	i	ppis1
+...	...	...
+@!SCHLESINGER		zzq
+:	:	y
+You	you	ppy
+thought	think	vvd
+that	that	cst_dd1
+at	at	ii
+the	the	at
+time	time	nnt1
+?	?	y
+@!Mr-LEE		zzq
+:	:	y
+Yeah	yeah	uh
+,	,	y
+I	i	ppis1
+thought	think	vvd
+that	that	cst_dd1
+at	at	ii
+that	that	dd1
+time	time	nnt1
+.	.	y
+But	but	ccb
+I	i	ppis1_mc1%
+--		zz
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+think	think	vvi
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+going	go	vvgk
+to	to	to
+talk	talk	vvi
+about	about	ii
+it	it	pph1
+,	,	y
+that	that	dd1_cst
+means	mean	vvz_nn
+he	he	pphs1
+'s	be	vbz
+not	not	xx
+going	go	vvgk
+to	to	to
+do	do	vdi
+it	it	pph1
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Footage-outside-Su		np1
+Unidentified	unidentified	jj
+Woman	woman	nn1
+3	3	mc
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Oh	oh	uh
+,	,	y
+God	god	np1
+.	.	y
+@!Mr-MATT		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Oh	oh	uh
+,	,	y
+no	no	uh
+,	,	y
+no	no	uh
+,	,	y
+no	no	uh
+.	.	y
+I	i	ppis1
+saw	see	vvd
+him	him	ppho1
+a	a	at1
+month	month	nnt1
+or	or	cc
+so	so	rr
+before	before	cs_ii
+this	this	dd1
+happened	happen	vvd
+.	.	y
+He	he	pphs1
+was	be	vbdz
+playing	play	vvg
+the	the	at
+piano	piano	nn1
+in	in	ii
+my	my	appge
+living	living	nn1
+room	room	nn1
+and	and	cc
+no	no	at
+problem	problem	nn1
+at	at	rr21_ii
+all	all	rr22_db
+.	.	y
+@(Footage-of-hearse)		zzc
+@!Mr-MATT		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+I	i	ppis1
+could	could	vm
+n't	n't	xx
+imagine	imagine	vvi
+him	him	ppho1
+doing	do	vdg
+that	that	dd1
+.	.	y
+Could	could	vm
+n't	n't	xx
+imagine	imagine	vvi
+it	it	pph1
+.	.	y
+Woman	woman	nn1
+2	2	mc
+:	:	y
+We	we	ppis2
+were	be	vbdr
+sitting	sit	vvg
+down	down	rp
+in	in	ii
+the	the	at
+shoe	shoe	nn1
+department	department	nn1
+and	and	cc
+he	he	pphs1
+said	say	vvd
+,	,	y
+'	'	"@_ge
+I	i	ppis1
+am	be	vbm
+dying	die	vvg_jj
+.	.	y
+'	'	"@_ge
+And	and	cc
+I	i	ppis1
+asked	ask	vvd
+him	him	ppho1
+,	,	y
+'	'	"@_ge
+A	a	zz1
+terminal	terminal	jj
+illness	illness	nn1
+?	?	y
+'	'	"@_ge
+And	and	cc
+he	he	pphs1
+did	do	vdd
+n't	n't	xx
+say	say	vvi
+.	.	y
+@(Photo-of-Antalik)		zzc
+Woman	woman	nn1
+2	2	mc
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+The	the	at
+conclusion	conclusion	nn1
+that	that	cst
+I	i	ppis1
+came	come	vvd
+to	to	to
+is	be	vbz
+that	that	cst
+he	he	pphs1
+was	be	vbdz
+dying	die	vvg
+from	from	ii
+within	within	rl@
+.	.	y
+@!RATHER		zzq
+:	:	y
+Could	could	vm
+those	those	dd2
+murders	murder	nn2
+in	in	ii
+North	north	nd1
+Carolina	carolina	np1
+have	have	vh0
+been	be	vbn
+prevented	prevent	vvn
+?	?	y
+We	we	ppis2
+'ll	will	vm
+talk	talk	vvi
+to	to	ii
+the	the	at
+experts	expert	nn2
+.	.	y
+But	but	ccb
+next	next	md
+...	...	...
+@(Theme-music)		zzc
+Unidentified	unidentified	jj
+Woman	woman	nn1
+1	1	mc1
+:	:	y
+...	...	...
+(	(	y
+unintelligible	unintelligible	jj
+)		np1
+.	.	y
+@(Footage-of-Martine)		zzc
+@!RATHER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+what	what	ddq
+drove	drive	vvd
+this	this	dd1
+young	young	jj
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+they	they	pphs2
+had	have	vhd
+treated	treat	vvn
+him	him	ppho1
+fairly	fairly	rr
+,	,	y
+this	this	dd1
+whole	whole	jj_nn1
+tragedy	tragedy	nn1
+could	could	vm
+have	have	vhi
+been	be	vbn
+avoided	avoid	vvn
+.	.	y
+@!RATHER		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+when	when	cs_rrq
+we	we	ppis2
+come	come	vv0
+back	back	rp
+.	.	y
+@(Theme-music)		zzc
+##221556		
+@(Theme-music)		zzc
+@!WAKE-UP-CALL-#		zzq
+@(Footage-of-Fish)		zzc
+@!HAROLD-DOW-reporti		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+It	it	pph1
+'s	be	vbz_vhz@
+7:45	7:45	mc
+in	in	ii
+the	the	at
+morning	morning	nnt1
+...	...	...
+@!Ms-MICHELLE-FISH-@		zzq
+:	:	y
+Oh	oh	uh
+,	,	y
+my	my	appge
+God	god	np1
+,	,	y
+I	i	ppis1
+'m	be	vbm
+so	so	rg
+late	late	jj
+.	.	y
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+...	...	...
+and	and	cc
+Michelle	michelle	np1
+Fish	fish	np1@_nn
+is	be	vbz
+already	already	rr
+late	late	jj
+.	.	y
+@!Ms-FISH		zzq
+:	:	y
+I	i	ppis1
+'ll	will	vm
+run	run	vvi
+up	up	rp
+and	and	cc
+brush	brush	vvi
+my	my	appge
+teeth	tooth	nn2
+.	.	y
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Her	her	appge
+life	life	nn1
+at	at	ii
+a	a	at1
+student	student	nn1
+at	at	ii
+La	la	np1
+Salle	salle	np1
+University	university	nn1
+does	do	vdz
+n't	n't	xx
+leave	leave	vvi
+much	much	da1
+time	time	nnt1
+for	for	if
+sleep	sleep	nn1
+.	.	y
+What	what	ddq
+time	time	nnt1
+did	do	vdd
+you	you	ppy
+go	go	vvi
+to	to	ii
+bed	bed	nn1
+last	last	md
+night	night	nnt1
+?	?	y
+@!Ms-FISH		zzq
+:	:	y
+Two-thirty.		nnu_jj
+@(Footage-of-Fish)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+And	and	cc
+what	what	ddq
+sleep	sleep	vv0
+she	she	pphs1
+does	do	vdz
+get	get	vvi
+,	,	y
+she	she	pphs1
+often	often	rr
+gets	get	vvz
+by	by	ii
+accident	accident	nn1
+.	.	y
+@!Ms-FISH		zzq
+:	:	y
+Well	well	rr
+,	,	y
+I	i	ppis1
+was	be	vbdz
+supposed	supposed	jj
+to	to	to
+get	get	vvi
+up	up	rp
+at	at	ii
+quarter	quarter	nn1
+to	to	ii
+6	6	mc
+,	,	y
+but	but	ccb
+I	i	mc1%_zz1%
+overslept.	overslept	nnu
+@(Footage-of-Fish-in)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Today	today	rt
+she	she	pphs1
+'s	be	vbz
+looking	look	vvg
+forward	forward	rl
+to	to	ii
+eight	eight	mc
+hours	hour	nnt2
+of	of	io
+student	student	nn1
+teaching	teaching	nn1_vvg
+and	and	cc
+two	two	mc
+hours	hour	nnt2
+of	of	io
+practice	practice	nn1
+with	with	iw
+the	the	at
+rowing	rowing	nn1
+team	team	nn1
+.	.	y
+@(Photo-of-rowing-te)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Do	do	vd0
+you	you	ppy
+think	think	vvi
+you	you	ppy
+'re	be	vbr
+doing	do	vdg
+too	too	rg
+much	much	da1
+?	?	y
+@!Ms-FISH		zzq
+:	:	y
+My	my	appge
+parents	parent	nn2
+have	have	vh0
+told	tell	vvn
+me	me	ppio1
+to	to	to
+slow	slow	vvi
+down	down	rp
+or	or	cc
+to	to	to
+stop	stop	vvi
+rowing	rowing	nn1
+or	or	cc
+to	to	to
+take	take	vvi
+a	a	at1
+break	break	nn1
+or	or	cc
+go	go	vvi
+to	to	ii
+bed	bed	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+like	like	vv0
+--		nn1_jj
+I	i	ppis1
+like	like	vv0@
+my	my	appge
+schedule	schedule	nn1
+the	the	at
+way	way	nn1
+it	it	pph1
+is.	is	nnu
+@(Footage-of-Fish-dr)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+And	and	cc
+she	she	pphs1
+has	have	vhz
+to	to	to
+start	start	vvi
+it	it	pph1
+all	all	db
+off	off	rp
+with	with	iw
+an	a	at1
+hour	hour	nnt1
+behind	behind	ii
+the	the	at
+wheel	wheel	nn1
+,	,	y
+a	a	at1
+place	place	nn1
+where	where	rrq
+young	young	jj
+people	people	nn
+often	often	rr
+run	run	vvn_vv0
+into	into	ii
+trouble	trouble	nn1
+.	.	y
+@!Ms-FISH		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+I	i	ppis1
+find	find	vv0
+myself	myself	ppx1
+really	really	rr
+getting	get	vvg
+tired	tired	jj
+while	while	cs
+I	i	ppis1
+'m	be	vbm
+driving	drive	vvg_jj
+because	because	cs
+it	it	pph1
+'s	be	vbz
+a	a	at1
+long	long	jj
+drive	drive	nn1
+.	.	y
+It	it	pph1
+'s	be	vbz
+a	a	at1
+long	long	jj_rr
+,	,	y
+tedious	tedious	jj
+drive	drive	nn1
+.	.	y
+And	and	cc
+I	i	ppis1
+find	find	vv0
+myself	myself	ppx1
+fighting	fight	vvg
+my	my	appge
+eyes	eye	nn2
+to	to	to
+stay	stay	vvi
+open	open	jj_rr@
+.	.	y
+@!Mr-ANDREW-PACK		zzq
+:	:	y
+That	that	dd1
+'s	be	vbz
+what	what	ddq
+people	people	nn
+have	have	vh0
+to	to	to
+realize	realize	vvi
+--		nn1
+is	be	vbz
+that	that	cst
+when	when	cs
+the	the	at
+body	body	nn1
+gives	give	vvz
+you	you	ppy
+a	a	at1
+warning	warning	nn1
+,	,	y
+you	you	ppy
+'ve	have	vh0
+got	get	vvn
+to	to	to
+react	react	vvi
+to	to	ii
+it	it	pph1
+and	and	cc
+pull	pull	vvi
+over	over	rp
+or	or	cc
+do	do	vdi
+what	what	ddq
+you	you	ppy
+have	have	vh0
+to	to	to
+do	do	vdi
+just	just	rr
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+to	to	to
+keep	keep	vvi
+yourself	yourself	ppx1
+awake	awake	jj
+.	.	y
+@(Footage-of-Pack-an)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Michelle	michelle	np1
+'s	's	ge
+friend	friend	nn1
+,	,	y
+Andrew	andrew	np1
+Pack	pack	nn1_vv0
+,	,	y
+knows	know	vvz
+that	that	cst
+the	the	at
+long	long	jj
+days	day	nnt2
+and	and	cc
+late	late	jj
+nights	night	nnt2
+can	can	vm
+add	add	vvi
+up	up	ii21
+to	to	ii22
+a	a	at1
+dangerous	dangerous	jj
+lack	lack	nn1
+of	of	io
+sleep	sleep	nn1
+.	.	y
+Last	last	md
+summer	summer	nnt1
+he	he	pphs1
+fell	fall	vvd
+asleep	asleep	jj
+at	at	ii
+the	the	at
+wheel	wheel	nn1
+on	on	ii
+a	a	at1
+New	new	np1
+Jersey	jersey	np1
+highway	highway	nn1
+.	.	y
+@!Mr-PACK		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+And	and	cc
+I	i	ppis1
+woke	wake	vvd
+up	up	rp
+and	and	cc
+it	it	pph1
+was	be	vbdz
+just	just	rr
+the	the	at
+most	most	rgt
+empty	empty	jj
+feeling	feeling	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+sure	sure	jj_rr%
+what	what	ddq
+happened	happen	vvd
+.	.	y
+And	and	cc
+--		zz
+and	and	cc
+my	my	appge
+dad	dad	nn1
+told	tell	vvd
+me	me	ppio1
+that	that	dd1_cst
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+a	a	at1
+woman	woman	nn1
+died	die	vvd
+.	.	y
+And	and	cc
+--		zz
+and	and	cc
+it	it	pph1
+was	be	vbdz
+just	just	rr
+very	very	rg
+tough	tough	jj
+.	.	y
+@(Footage-of-highway)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+What	what	ddq
+did	do	vdd
+it	it	pph1
+do	do	vdi
+to	to	ii
+you	you	ppy
+to	to	to
+know	know	vvi
+that	that	cst
+you	you	ppy
+took	take	vvd
+a	a	at1
+life	life	nn1
+out	out	rp
+there	there	rl
+on	on	ii
+that	that	dd1
+highway	highway	nn1
+?	?	y
+@!Mr-PACK		zzq
+:	:	y
+It	it	pph1
+gave	give	vvd
+me	me	ppio1
+a	a	at1
+very	very	rg
+cold	cold	jj
+feeling	feeling	nn1
+.	.	y
+You	you	ppy
+know	know	vv0
+,	,	y
+it	it	pph1
+'s	be	vbz
+--		zz
+it	it	pph1
+hurt	hurt	vvd
+me	me	ppio1
+and	and	cc
+it	it	pph1
+'s	be	vbz
+going	go	vvgk
+to	to	to
+hurt	hurt	vvi
+me	me	ppio1
+for	for	if
+the	the	at
+rest	rest	nn1
+of	of	io
+my	my	appge
+life	life	nn1
+.	.	y
+@(Footage-of-highway)		zzc
+@!Mr-PACK		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+I	i	ppis1
+know	know	vv0
+these	these	dd2
+families	family	nn2
+are	be	vbr
+never	never	rr
+going	go	vvgk
+to	to	to
+forgive	forgive	vvi
+me	me	ppio1
+.	.	y
+I	i	ppis1
+just	just	rr
+want	want	vv0
+them	them	ppho2
+to	to	to
+know	know	vvi
+that	that	cst
+I	i	ppis1
+'m	be	vbm
+really	really	rr
+sorry	sorry	jj
+for	for	if
+what	what	ddq
+happened	happen	vvd
+and	and	cc
+I	i	mc1%_zz1%_ppis1
+--		nn1_jj
+I	i	ppis1
+will	will	vm
+do	do	vdi
+what	what	ddq
+I	i	ppis1
+can	can	vv0%_vm
+to	to	to
+prevent	prevent	vvi
+somebody	somebody	pn1
+from	from	ii
+falling	fall	vvg
+asleep	asleep	jj
+at	at	ii
+the	the	at
+wheel	wheel	nn1
+.	.	y
+@(Footage-of-a-total)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Since	since	cs_ii@
+the	the	at
+accident	accident	nn1
+,	,	y
+Andrew	andrew	np1
+has	have	vhz
+dedicated	dedicate	vvn
+himself	himself	ppx1
+to	to	ii
+keeping	keep	vvg
+others	others	nn2
+from	from	ii
+making	make	vvg
+the	the	at
+same	same	da
+mistake	mistake	nn1
+.	.	y
+@!Mr-PACK		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+If	if	cs
+you	you	ppy
+see	see	vv0
+a	a	at1
+wrecked	wrecked	jj
+car	car	nn1
+,	,	y
+it	it	pph1
+makes	make	vvz
+you	you	ppy
+think	think	vvi
+twice	twice	rr
+about	about	rp@_ii
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+what	what	ddq
+can	can	vm
+happen	happen	vvi
+.	.	y
+People	people	nn
+can	can	vm
+get	get	vvi
+affected	affect	vvn
+,	,	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+is	be	vbz
+people	people	nn
+to	to	to
+think	think	vvi
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+'	'	"@_ge
+If	if	csw@_cs
+Andrew	andrew	np1
+'s	's	ge
+accident	accident	nn1
+happened	happen	vvd
+,	,	y
+then	then	rt
+maybe	maybe	rr
+it	it	pph1
+could	could	vm
+happen	happen	vvi
+to	to	ii@
+us.	us	nnu
+'	'	ge
+qwq		xx
+@		ii
+(	(	y
+Speaking-to-audien	speaking-to-audien	nn1_jj
+As	as	csa
+you	you	ppy
+'re	be	vbr
+all	all	db_rr@
+probably	probably	rr
+aware	aware	jj
+,	,	y
+this	this	dd1
+is	be	vbz
+Driver	driver	nn1
+Safety	safety	nn1
+Awareness	awareness	nn1
+Week	week	nnt1
+.	.	y
+@(Footage-of-Andrew-)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+And	and	cc
+he	he	pphs1
+'s	be	vbz
+targeting	target	vvg
+a	a	at1
+very	very	rg
+specific	specific	jj
+audience	audience	nn1
+:	:	y
+young	young	jj
+adults	adult	nn2
+,	,	y
+with	with	iw
+the	the	at
+help	help	nn1
+of	of	io
+a	a	at1
+nationally	nationally	rr
+renowned	renowned	jj
+expert	expert	nn1
+on	on	ii
+sleep	sleep	nn1
+.	.	y
+@!Mr-PACK		zzq
+:	:	y
+Dr.	dr	nnb
+Pack	pack	np1
+is	be	vbz
+--		nn1_jj
+is	be	vbz
+who	who	pnqs
+he	he	pphs1
+is	be	vbz
+.	.	y
+Thank	thank	vv0
+you	you	ppy
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Footage-of-Dr.		zz
+-Pac		np1
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Dr.	dr	nnb
+Allan	allan	np1
+Pack	pack	nn1
+is	be	vbz
+the	the	at
+director	director	nn1
+of	of	io
+sleep	sleep	nn1
+research	research	nn1
+at	at	ii
+the	the	at
+University	university	nn1
+of	of	io
+Pennsylvania	pennsylvania	np1
+Medical	medical	jj
+Center	center	nn1
+.	.	y
+He	he	pphs1
+'s	be	vbz
+also	also	rr
+Andrew	andrew	np1
+'s	's	ge
+father	father	nn1
+.	.	y
+@!Dr-ALLAN-PACK-@1Sl		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+It	it	pph1
+was	be	vbdz
+,	,	y
+I	i	ppis1
+think	think	vv0
+,	,	y
+an	a	at1
+enormous	enormous	jj
+irony	irony	nn1
+that	that	cst
+my	my	appge
+son	son	nn1
+would	would	vm
+fall	fall	vvi
+asleep	asleep	jj
+while	while	cs
+driving	drive	vvg_jj
+.	.	y
+I	i	ppis1
+realized	realize	vvd
+how	how	rgq@_rrq
+big	big	jj_rr%
+a	a	at1
+problem	problem	nn1
+it	it	pph1
+was	be	vbdz
+.	.	y
+I	i	ppis1
+talked	talk	vvd
+to	to	ii
+a	a	at1
+number	number	nn1
+of	of	io
+people	people	nn
+about	about	ii
+it	it	pph1
+,	,	y
+and	and	cc
+I	i	ppis1
+could	could	vm
+see	see	vvi
+that	that	cst
+it	it	pph1
+was	be	vbdz
+an	a	at1
+issue	issue	nn1
+that	that	cst_dd1
+,	,	y
+really	really	rr
+,	,	y
+a	a	rr21@
+lot	lot	rr22
+needed	need	vvn_vvd
+to	to	to
+be	be	vbi
+done	do	vdn
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Footage-of-Dr.		zz
+-Pac		np1
+@!Dr-PACK		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+And	and	cc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Well	well	rr
+,	,	y
+let	let	vm21
+'s	be	vm22
+take	take	vvi
+a	a	at1
+look	look	nn1
+at	at	ii
+who	who	pnqs
+--		zz
+who	who	pnqs
+actually	actually	rr
+gets	get	vvz
+these	these	dd2
+--		zz
+in	in	ii
+these	these	dd2
+accidents	accident	nn2
+.	.	y
+This	this	dd1
+is	be	vbz
+--		zz
+this	this	dd1
+is	be	vbz
+a	a	at1
+plot	plot	nn1
+of	of	io
+the	the	at
+number	number	nn1
+of	of	io
+accidents	accident	nn2
+against	against	ii
+the	the	at
+age	age	nn1
+of	of	io
+the	the	at
+driver	driver	nn1
+.	.	y
+And	and	cc
+the	the	at
+answer	answer	nn1
+is	be	vbz
+it	it	pph1
+'s	be	vbz
+you	you	ppy
+.	.	y
+It	it	pph1
+'s	be	vbz
+people	people	nn
+of	of	io
+your	your	appge
+age	age	nn1
+who	who	pnqs
+get	get	vv0
+in	in	ii_rp@
+these	these	dd2
+accidents	accident	nn2
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Footage-of-Dr.		zz
+-Pac		np1
+@!Dr-PACK		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Sixty	sixty	mc
+percent	percent	nnu
+of	of	io
+people	people	nn
+who	who	pnqs
+fall	fall	vv0
+asleep	asleep	jj
+and	and	cc
+have	have	vh0
+accidents	accident	nn2
+are	be	vbr
+under	under	ii
+the	the	at
+age	age	nn1
+of	of	io
+30	30	mc
+,	,	y
+and	and	cc
+the	the	at
+peak	peak	nn1
+age	age	nn1
+of	of	io
+occurrence	occurrence	nn1
+is	be	vbz
+age	age	nn1
+20	20	mc
+.	.	y
+So	so	rr
+the	the	at
+group	group	nn1
+who	who	pnqs
+are	be	vbr
+particularly	particularly	rr
+at	at	ii
+risk	risk	nn1
+is	be	vbz
+young	young	jj
+people	people	nn
+,	,	y
+who	who	pnqs
+are	be	vbr
+sleep	sleep	nn1_vv0
+deprived	deprive	vvd_vvn_jj
+,	,	y
+really	really	rr
+,	,	y
+because	because	ii21
+of	of	ii22
+lifestyle	lifestyle	nn1
+.	.	y
+qwq		xx
+@		ii
+(	(	y
+Addressing-audienc	addressing-audienc	nn1_jj
+So	so	cs@_rr
+there	there	ex
+are	be	vbr
+two	two	mc
+times	time	nnt2
+in	in	ii
+the	the	at
+day	day	nnt1
+where	where	rrq
+you	you	ppy
+will	will	vm
+feel	feel	vvi
+sleepy	sleepy	jj
+:	:	y
+There	there	ex
+'s	be	vbz
+the	the	at
+mid	mid	jj
+afternoon	afternoon	nnt1
+and	and	cc
+there	there	ex
+'s	be	vbz
+the	the	at
+nighttime	nighttime	nnt1
+.	.	y
+Now	now	rt
+in	in	ii
+our	our	appge
+culture	culture	nn1
+...	...	...
+@!Ms-FISH		zzq
+:	:	y
+OK	ok	rr
+,	,	y
+you	you	ppy
+have	have	vh0
+five	five	mc
+minutes	minute	nnt2
+.	.	y
+So	so	rr
+we	we	ppis2
+have	have	vh0
+to	to	to
+hurry	hurry	vvi
+,	,	y
+OK	ok	rr
+?	?	y
+You	you	ppy
+can	can	vm
+draw	draw	vvi
+a	a	at1
+picture	picture	nn1
+of	of	io
+a	a	at1
+mouse	mouse	nn1
+,	,	y
+too	too	rr@
+.	.	y
+Two	two	mc
+pieces	piece	nn2
+,	,	y
+John	john	np1
+.	.	y
+@!JOHN-@1Student@2		zzq
+:	:	y
+Hi	hi	uh
+,	,	y
+Mr.	mr	nnb
+Gepard.	gepard	np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+commas	comma	nn2
+--		nn1_jj
+think	think	vv0_nn1%
+in	in	ii_rp@
+your	your	appge
+head	head	nn1
+.	.	y
+@(Footage-of-Fish-te)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+By	by	ii
+midday	midday	nnt1
+Michelle	michelle	np1
+is	be	vbz
+fighting	fight	vvg
+her	her	appge
+body	body	nn1
+clock	clock	nn1
+and	and	cc
+she	she	pphs1
+knows	know	vvz
+it	it	pph1
+.	.	y
+@!Ms-FISH		zzq
+:	:	y
+I	i	ppis1
+'m	be	vbm
+going	go	vvgk
+to	to	to
+count	count	vvi
+on	on	ii
+you	you	ppy
+now	now	rt
+,	,	y
+all	all	rr21
+right	right	rr22
+?	?	y
+@(Footage-of-Michell)		zzc
+@!Ms-FISH		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+I	i	ppis1
+love	love	vv0
+the	the	at
+kids	kid	nn2
+.	.	y
+And	and	cc
+I	i	ppis1
+love	love	vv0
+being	be	vbg
+with	with	iw
+them	them	ppho2
+.	.	y
+And	and	cc
+once	once	rr_cs@
+I	i	ppis1
+get	get	vv0
+working	work	vvg
+with	with	iw
+them	them	ppho2
+,	,	y
+everything	everything	pn1
+'s	's	ge_vbz
+fine	fine	jj
+.	.	y
+But	but	ccb
+as	as	cs31
+soon	soon	cs32
+as	as	cs33
+I	i	ppis1
+have	have	vh0
+the	the	at
+chance	chance	nn1
+to	to	to
+sit	sit	vvi
+and	and	cc
+think	think	vvi
+about	about	ii
+it	it	pph1
+,	,	y
+that	that	dd1
+'s	be	vbz
+when	when	rrq
+it	it	pph1
+starts	start	vvz
+to	to	to
+hit	hit	vvi
+me.	me	nnu
+@(Footage-of-Michell)		zzc
+@!Ms-FISH		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+That	that	dd1
+'s	be	vbz
+when	when	rrq
+I	i	ppis1
+get	get	vv0
+tired	tired	jj
+and	and	cc
+then	then	rt
+I	i	ppis1
+start	start	vv0
+thinking	thinking	nn1_vvg
+,	,	y
+'	'	"@
+Oh	oh	uh
+,	,	y
+I	i	ppis1
+have	have	vh0
+practice	practice	nn1
+still	still	rr
+this	this	dd1
+afternoon	afternoon	nnt1
+.	.	y
+'	'	"@_ge
+Bye-bye	bye-bye	uh
+,	,	y
+Scott	scott	np1
+.	.	y
+See	see	vv0
+you	you	ppy
+later	later	rrr
+.	.	y
+My	my	appge
+next	next	md
+stop	stop	nn1
+will	will	vm
+be	be	vbi
+the	the	at
+boathouse.	boathouse	nnu
+@!DOW		zzq
+:	:	y
+You	you	ppy
+just	just	rr
+spent	spend	vvn_vvd
+a	a	at1
+full	full	jj
+day	day	nnt1
+with	with	iw
+all	all	db
+these	these	dd2
+youngsters	youngster	nn2
+and	and	cc
+now	now	rt
+you	you	ppy
+'re	be	vbr
+going	go	vvgk
+to	to	to
+go	go	vvi
+rowing	rowing	nn1
+.	.	y
+@!Ms-FISH		zzq
+:	:	y
+Yeah	yeah	uh
+.	.	y
+I	i	ppis1
+have	have	vh0
+to	to	to
+get	get	vvi
+in	in	ii
+the	the	at
+car	car	nn1
+and	and	cc
+...	...	...
+@!DOW		zzq
+:	:	y
+Where	where	rrq_cs
+--		nn1_jj
+where	where	rrq
+do	do	vd0
+you	you	ppy
+find	find	vvi
+all	all	db
+the	the	at
+energy	energy	nn1
+to	to	to
+do	do	vdi
+all	all	db
+this	this	dd1
+?	?	y
+@!Ms-FISH		zzq
+:	:	y
+I	i	ppis1_mc1%
+--		zz
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+know	know	vvi
+.	.	y
+@(Footage-of-Fish-ge)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+But	but	ccb
+some	some	dd
+days	day	nnt2
+she	she	pphs1
+just	just	rr
+does	do	vdz
+n't	n't	xx
+have	have	vhi
+it	it	pph1
+when	when	cs
+she	she	pphs1
+knows	know	vvz
+she	she	pphs1
+needs	need	vvz
+it	it	pph1
+most	most	rrt@
+.	.	y
+Do	do	vd0
+you	you	ppy
+ever	ever	rr
+find	find	vvi
+yourself	yourself	ppx1
+getting	get	vvg
+tired	tired	jj
+in	in	ii
+the	the	at
+afternoon	afternoon	nnt1
+on	on	ii
+this	this	dd1
+run	run	nn1
+?	?	y
+@!Ms-FISH		zzq
+:	:	y
+Oh	oh	uh
+,	,	y
+yes	yes	uh
+.	.	y
+This	this	dd1
+is	be	vbz
+the	the	at
+one	one	mc1
+time	time	nnt1
+where	where	rrq
+I	i	ppis1
+really	really	rr
+have	have	vh0
+to	to	to
+sit	sit	vvi
+there	there	rl
+and	and	cc
+like	like	vvi
+,	,	y
+all	all	rr21
+right	right	rr22
+,	,	y
+say	say	vv0
+,	,	y
+'	'	ge
+Michelle	michelle	np1
+,	,	y
+OK	ok	rr
+,	,	y
+stay	stay	vv0
+awake	awake	jj
+.	.	y
+Stay	stay	vv0
+awake	awake	jj
+.	.	y
+Just	just	rr
+get	get	vv0
+to	to	ii
+practice	practice	nn1
+.	.	y
+'	'	"@_ge
+@(Footage-of-Michell)		zzc
+@!Ms-FISH		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+The	the	at
+only	only	jj
+thing	thing	nn1
+I	i	ppis1
+really	really	rr
+want	want	vv0
+to	to	to
+do	do	vdi
+is	be	vbz
+go	go	nn1%_vv0
+home	home	rl
+and	and	cc
+sit	sit	vv0
+down	down	rp
+and	and	cc
+watch	watch	vv0_nn1
+TV	tv	nn1
+,	,	y
+and	and	cc
+now	now	rt
+I	i	ppis1
+have	have	vh0
+to	to	to
+go	go	vvi
+and	and	cc
+get	get	vvi
+into	into	ii
+a	a	at1
+boat	boat	nn1
+for	for	if
+two	two	mc
+hours	hour	nnt2
+.	.	y
+And	and	cc
+it	it	pph1
+'s	be	vbz
+not	not	xx
+something	something	pn1
+that	that	cst
+I	i	ppis1
+really	really	rr
+look	look	vv0
+forward	forward	rl
+to	to	ii_to
+.	.	y
+@!DOW		zzq
+:	:	y
+Michelle	michelle	np1
+,	,	y
+it	it	pph1
+'s	be	vhz
+just	just	rr
+been	be	vbn
+about	about	rg
+12	12	mc
+hours	hour	nnt2
+now	now	rt
+since	since	cs
+you	you	ppy
+started	start	vvd
+out	out	rp
+this	this	dd1
+morning	morning	nnt1
+.	.	y
+What	what	ddq
+do	do	vd0
+you	you	ppy
+feel	feel	vvi
+like	like	ii_jj@
+?	?	y
+@!Ms-FISH		zzq
+:	:	y
+I	i	ppis1
+'m	be	vbm
+really	really	rr
+tired	tired	jj
+.	.	y
+I	i	ppis1
+'m	be	vbm
+really	really	rr
+tired	tired	jj
+.	.	y
+@!DOW		zzq
+:	:	y
+You	you	ppy
+just	just	rr
+got	get	vvn_vvd
+finished	finished	jj@
+rowing	rowing	nn1
+?	?	y
+@!Ms-FISH		zzq
+:	:	y
+Yes	yes	uh
+.	.	y
+I	i	ppis1
+am	be	vbm
+exhausted	exhausted	jj_vvn
+.	.	y
+@!DOW		zzq
+:	:	y
+The	the	at
+children	child	nn2
+?	?	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@(View-of-road-throu)		zzc
+@!Mr-PACK		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+I	i	ppis1
+had	have	vhd
+a	a	at1
+similar	similar	jj
+experience	experience	nn1
+.	.	y
+It	it	pph1
+was	be	vbdz
+a	a	at1
+rainy	rainy	jj
+day	day	nnt1
+.	.	y
+@(Footage-of-Andrew-)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Andrew	andrew	np1
+remembers	remember	vvz
+feeling	feel	vvg_nn1
+just	just	rr
+as	as	rg
+tired	tired	jj_vvn%
+on	on	ii
+the	the	at
+day	day	nnt1
+of	of	io
+his	his	appge
+accident	accident	nn1
+,	,	y
+and	and	cc
+the	the	at
+memories	memory	nn2
+that	that	cst
+follow	follow	vv0
+are	be	vbr
+painful	painful	jj
+.	.	y
+@!Mr-PACK		zzq
+:	:	y
+...	...	...
+following	follow	vvg
+her	her	ppho1
+.	.	y
+And	and	cc
+I	i	ppis1
+was	be	vbdz
+fighting	fight	vvg
+to	to	to
+stay	stay	vvi
+awake	awake	jj
+.	.	y
+And	and	cc
+it	it	pph1
+'s	be	vbz
+something	something	pn1
+that	that	cst
+has	have	vhz
+happened	happen	vvn
+to	to	ii@
+me	me	ppio1
+before	before	rt
+,	,	y
+but	but	ccb
+I	i	ppis1
+really	really	rr
+never	never	rr
+thought	think	vvd_vvn
+it	it	pph1
+was	be	vbdz
+that	that	dd1_rg%_cst
+big	big	jj_rr%
+a	a	at1
+deal	deal	nn1
+.	.	y
+You	you	ppy
+know	know	vv0
+,	,	y
+I	i	ppis1
+said	say	vvd
+,	,	y
+'	'	"@_ge
+I	i	ppis1
+'m	be	vbm
+going	go	vvgk
+to	to	to
+keep	keep	vvi
+going	go	vvg
+.	.	y
+I	i	ppis1
+'ll	will	vm
+be	be	vbi
+all	all	rr@_db
+right	right	jj
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+'	'	ge
+like	like	jj@_nn1%
+,	,	y
+I	i	ppis1
+'m	be	vbm
+sure	sure	jj
+,	,	y
+a	a	at1
+lot	lot	nn1
+of	of	io
+us	us	ppio2
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+do	do	vd0
+on	on	ii
+the	the	at
+road	road	nn1
+.	.	y
+And	and	cc
+before	before	cs
+I	i	ppis1
+knew	know	vvd
+it	it	pph1
+,	,	y
+I	i	ppis1
+was	be	vbdz
+on	on	ii
+the	the	at
+grass	grass	nn1
+and	and	cc
+going	go	vvg
+to	to	ii
+the	the	at
+complete	complete	jj
+other	other	jj
+side	side	nn1
+of	of	io
+traffic	traffic	nn1
+.	.	y
+And	and	cc
+I	i	ppis1
+hit	hit	vvd
+the	the	at
+car	car	nn1
+and	and	cc
+there	there	ex
+was	be	vbdz
+this	this	dd1_rg%
+big	big	jj
+bang	bang	nn1@
+.	.	y
+It	it	pph1
+'s	be	vbz
+something	something	pn1
+I	i	ppis1
+'ll	will	vm
+never	never	rr
+forget	forget	vvi
+for	for	if
+the	the	at
+rest	rest	nn1
+of	of	io
+my	my	appge
+life	life	nn1
+.	.	y
+And	and	cc
+then	then	rt
+I	i	ppis1
+woke	wake	vvd
+up	up	rp
+in	in	ii
+the	the	at
+hospital	hospital	nn1
+.	.	y
+@!DOW		zzq
+:	:	y
+Does	do	vdz
+the	the	at
+thought	thought	nn1
+cross	cross	vvi
+your	your	appge
+mind	mind	nn1
+that	that	cst_dd1
+what	what	ddq
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Yeah	yeah	uh
+.	.	y
+Yeah	yeah	uh
+,	,	y
+it	it	pph1
+could	could	vm
+happen	happen	vvi
+.	.	y
+And	and	cc
+--		zz
+but	but	ccb
+I	i	ppis1
+'m	be	vbm
+the	the	at
+type	type	nn1
+of	of	io
+person	person	nn1
+where	where	cs_rrq
+--		zz
+where	where	cs_rrq
+it	it	pph1
+has	have	vhz
+to	to	to
+happen	happen	vvi
+to	to	ii
+me	me	ppio1
+first	first	md
+for	for	if
+me	me	ppio1
+to	to	to
+realize	realize	vvi
+that	that	cst
+it	it	pph1
+can	can	vm
+really	really	rr
+happen	happen	vvi
+to	to	ii@
+me.	me	nnu
+@(Footage-of-digital)		zzc
+@!DOW		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+But	but	ccb
+do	do	vd0
+you	you	ppy
+know	know	vvi
+what	what	ddq
+you	you	ppy
+'re	be	vbr
+saying	say	vvg
+?	?	y
+@!Ms-FISH		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Yeah	yeah	uh
+.	.	y
+@!DOW		zzq
+:	:	y
+I	i	ppis1
+guess	guess	vv0
+the	the	at
+question	question	nn1
+is	be	vbz
+:	:	y
+How	how	rgq@
+many	many	da2
+Michelles	michelles	np2
+are	be	vbr
+there	there	rl
+out	out	rp
+there	there	rl
+or	or	cc
+people	people	nn
+who	who	pnqs
+think	think	vv0
+like	like	ii
+Michelle	michelle	np1
+who	who	pnqs
+are	be	vbr
+out	out	rp
+there	there	rl
+who	who	pnqs
+are	be	vbr
+tired	tired	jj
+and	and	cc
+driving	drive	vvg_jj
+?	?	y
+@!Ms-FISH		zzq
+:	:	y
+I	i	ppis1_mc1%
+--		zz
+probably	probably	rr
+a	a	at1_rr21@
+lot	lot	nn1_rr22
+.	.	y
+@!Mr-PACK		zzq
+:	:	y
+If	if	cs
+Michelle	michelle	np1
+'s	's	ge_vbz
+driving	driving	jj_vvg
+tired	tired	jj
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+coming	come	vvg
+home	home	rl
+from	from	ii
+student	student	nn1
+teaching	teaching	nn1_vvg
+and	and	cc
+she	she	pphs1
+ends	end	vvz
+up	up	rp
+killing	kill	vvg
+someone	someone	pn1
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+which	which	ddq
+happened	happen	vvd
+in	in	ii_rp@
+my	my	appge
+accident	accident	nn1
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+she	she	pphs1
+--		zz
+you	you	ppy
+could	could	vm
+end	end	vvi
+up	up	rp
+thinking	think	vvg
+that	that	cst_dd1
+,	,	y
+'	'	"@_ge
+All	all	db
+--		zz
+all	all	db_rr@
+I	i	ppis1
+had	have	vhd
+to	to	to
+do	do	vdi
+was	be	vbdz
+just	just	rr
+pull	pull	vv0
+over	over	rp
+for	for	if
+five	five	mc
+to	to	ii
+10	10	mc
+minutes	minute	nnt2
+.	.	y
+'	'	"@_ge
+@(Footage-of-a-highw)		zzc
+@!Mr-PACK		zzq
+:	:	y
+(	(	y
+Voiceover	voiceover	np1
+)		np1
+Does	do	vdz
+it	it	pph1
+take	take	vvi
+that	that	rg
+much	much	da1_rr
+out	out	ii21
+of	of	ii22
+your	your	appge
+life	life	nn1
+to	to	to
+pull	pull	vvi
+over	over	rp
+to	to	ii
+the	the	at
+side	side	nn1
+of	of	io
+the	the	at
+road	road	nn1
+?	?	y
+Five	five	mc
+to	to	ii
+10	10	mc
+minutes	minute	nnt2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+you	you	ppy
+feel	feel	vv0
+drowsy	drowsy	jj
+too	too	rg
+early	early	jj_rr
+and	and	cc
+too	too	rg
+often	often	rr
+,	,	y
+experts	expert	nn2
+say	say	vv0
+the	the	at
+single	single	jj
+best	best	jjt
+remedy	remedy	nn1
+is	be	vbz
+to	to	to
+take	take	vvi
+a	a	at1
+short	short	jj
+nap	nap	nn1
+in	in	ii
+the	the	at
+late	late	jj
+afternoon	afternoon	nnt1
+;		np1
+20	20	mc
+minutes	minute	nnt2
+should	should	vm
+be	be	vbi
+enough	enough	rr_dd
+.	.	y
+##221557		
+I	i	zz1%_mc1%
+STILL	still	rr
+LOVE	love	vv0
+HIM	him	ppho1
+@!LORIE		zzq
+:	:	y
+Amber	amber	jj_nn1
+,	,	y
+are	be	vbr
+you	you	ppy
+saving	save	vvg
+any	any	dd
+for	for	if
+your	your	appge
+lasagna	lasagna	nn1
+?	?	y
+I	i	ppis1
+always	always	rr
+lied	lie	vvd
+about	about	ii
+him	him	ppho1
+beating	beat	vvg
+me.	me	nnu
+@!HAROLD-DOW-reporti		zzq
+:	:	y
+Lorie	lorie	np1
+has	have	vhz
+been	be	vbn
+married	marry	vvn%_jj
+to	to	ii
+her	her	appge
+husband	husband	nn1
+David	david	np1
+for	for	if
+10	10	mc
+years	year	nnt2
+.	.	y
+@!LORIE		zzq
+:	:	y
+When	when	rrq_cs
+he	he	pphs1
+first	first	md
+started	start	vvd
+,	,	y
+it	it	pph1
+was	be	vbdz
+always	always	rr
+in	in	ii
+the	the	at
+face	face	nn1
+,	,	y
+but	but	ccb
+it	it	pph1
+got	get	vvd
+to	to	ii
+the	the	at
+point	point	nn1
+where	where	rrq
+I	i	ppis1
+could	could	vm
+n't	n't	xx
+hide	hide	vvi
+that	that	cst_dd1
+any	any	rr21
+longer	long	rr22
+.	.	y
+So	so	rr
+he	he	pphs1
+would	would	vm
+get	get	vvi
+better	better	rrr_jjr
+at	at	ii
+it	it	pph1
+,	,	y
+and	and	cc
+he	he	pphs1
+would	would	vm
+not	not	xx
+leave	leave	vvi
+a	a	at1
+bruise	bruise	nn1
+where	where	cs_rrq
+somebody	somebody	pn1
+could	could	vm
+see	see	vvi
+it	it	pph1
+.	.	y
+@!DOW		zzq
+:	:	y
+They	they	pphs2
+live	live	vv0
+in	in	ii_rp@
+a	a	at1
+rural	rural	jj
+area	area	nn1
+of	of	io
+Ohio	ohio	np1
+...	...	...
+@!LORIE		zzq
+:	:	y
+David	david	np1
+,	,	y
+that	that	dd1
+'s	be	vbz
+what	what	ddq
+a	a	at1
+glass	glass	nn1
+is	be	vbz
+for	for	if
+.	.	y
+@!DOW		zzq
+:	:	y
+...	...	...
+with	with	iw
+their	their	appge
+two	two	mc
+children	child	nn2
+.	.	y
+@!LORIE		zzq
+:	:	y
+And	and	cc
+he	he	pphs1
+'d	have	vm
+pull	pull	vvi
+my	my	appge
+hair	hair	nn1
+.	.	y
+He	he	pphs1
+'s	be	vbz_vhz@
+thrown	throw	vvn
+plates	plate	nn2
+at	at	ii
+me	me	ppio1
+.	.	y
+I	i	ppis1
+ended	end	vvd
+up	up	rp
+in	in	ii
+the	the	at
+hospital	hospital	nn1
+with	with	iw
+52	52	mc
+stitches	stitch	nn2_vvz
+in	in	ii
+the	the	at
+back	back	nn1
+of	of	io
+my	my	appge
+head	head	nn1
+.	.	y
+The	the	at
+next	next	md
+day	day	nnt1
+he	he	pphs1
+was	be	vbdz
+always	always	rr
+so	so	rg
+sorry	sorry	jj
+.	.	y
+He	he	pphs1
+'d	have	vm
+say	say	vvi
+,	,	y
+'	'	"@_ge
+I	i	ppis1
+'m	be	vbm
+sorry	sorry	jj
+,	,	y
+that	that	dd1_cst
+will	will	vm
+never	never	rr
+happen	happen	vvi
+again	again	rt
+.	.	y
+I	i	ppis1
+love	love	vv0
+you	you	ppy
+so	so	rg
+much	much	da1_rr
+.	.	y
+I	i	ppis1
+would	would	vm
+never	never	rr
+hurt	hurt	vvi
+you	you	ppy
+.	.	y
+'	'	"@_ge
+And	and	cc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+in	in	ii
+costumes	costume	nn2
+as	as	csa_ii@
+prisoners	prisoner	nn2
+.	.	y
+I	i	ppis1
+said	say	vvd
+,	,	y
+'	'	"@_ge
+I	i	ppis1
+'ll	will	vm
+tell	tell	vvi
+you	you	ppy
+what	what	ddq
+,	,	y
+'	'	"@_ge
+I	i	ppis1
+said	say	vvd
+,	,	y
+'	'	"@
+you	you	ppy
+go	go	vv0
+as	as	csa_ii@
+my	my	appge
+warden	warden	nn1
+and	and	cc
+I	i	ppis1
+'ll	will	vm
+go	go	vvi
+as	as	ii
+the	the	at
+prisoner	prisoner	nn1
+.	.	y
+'	'	"@_ge
+@!DOW		zzq
+:	:	y
+Is	be	vbz
+that	that	dd1
+how	how	rrq
+you	you	ppy
+looked	look	vvd_vvn
+at	at	ii
+him	him	ppho1
+?	?	y
+@!LORIE		zzq
+:	:	y
+That	that	dd1
+'s	be	vbz
+how	how	rrq
+I	i	ppis1
+looked	look	vvd
+at	at	ii
+my	my	appge
+life	life	nn1
+.	.	y
+@!DOW		zzq
+:	:	y
+Most	most	dat
+people	people	nn
+watching	watch	vvg
+this	this	dd1
+broadcast	broadcast	nn1
+would	would	vm
+ask	ask	vvi
+this	this	dd1
+question	question	nn1
+again	again	rt
+and	and	cc
+again	again	rt
+:	:	y
+Why	why	rrq
+did	do	vdd
+n't	n't	xx
+Lorie	lorie	np1
+leave	leave	vvi
+?	?	y
+@!LORIE		zzq
+:	:	y
+I	i	ppis1
+'m	be	vbm
+not	not	xx
+addicted	addict	vvn
+to	to	ii
+drugs	drug	nn2
+or	or	cc
+alcohol	alcohol	nn1
+.	.	y
+Call	call	vv0
+my	my	appge
+addiction	addiction	nn1
+my	my	appge
+husband	husband	nn1
+.	.	y
+If	if	cs
+it	it	pph1
+was	be	vbdz
+n't	n't	xx
+for	for	if
+my	my	appge
+children	child	nn2
+,	,	y
+I	i	ppis1
+'d	have	vm
+probably	probably	rr
+still	still	rr
+be	be	vbi
+in	in	ii
+this	this	dd1
+situation	situation	nn1
+.	.	y
+I	i	ppis1
+never	never	rr
+knew	know	vvd
+just	just	rr
+how	how	rgq@_rrq
+much	much	rr
+it	it	pph1
+affected	affect	vvd@
+my	my	appge
+children	child	nn2
+until	until	cs_ii@
+my	my	appge
+daughter	daughter	nn1
+'s	's	ge
+teacher	teacher	nn1
+called	call	vvn
+and	and	cc
+said	say	vvn
+she	she	pphs1
+had	have	vhd
+threatened	threaten	vvn
+her	her	appge
+own	own	da
+life	life	nn1
+.	.	y
+@!DOW		zzq
+:	:	y
+What	what	ddq
+did	do	vdd
+she	she	pphs1
+do	do	vdi
+?	?	y
+@!LORIE		zzq
+:	:	y
+She	she	pphs1
+told	tell	vvd
+--		nn1_jj
+she	she	pphs1
+put	put	vvd
+scissors	scissors	nn2
+to	to	ii
+her	her	appge
+throat	throat	nn1
+and	and	cc
+told	tell	vvd
+her	her	appge
+teacher	teacher	nn1
+that	that	cst
+she	she	pphs1
+'d	have	vm
+rather	rather	rr
+be	be	vbi
+dead	dead	jj
+than	than	csn
+see	see	vv0
+her	her	appge
+mom	mom	nn1
+hit	hit	vvd_vvn
+again	again	rt
+.	.	y
+@!DOW		zzq
+:	:	y
+And	and	cc
+what	what	ddq
+thoughts	thought	nn2
+went	go	vvd
+through	through	ii_rp@
+your	your	appge
+mind	mind	nn1
+?	?	y
+@!LORIE		zzq
+:	:	y
+I	i	ppis1
+knew	know	vvd
+I	i	ppis1
+had	have	vhd
+to	to	to
+get	get	vvi
+out	out	rp
+,	,	y
+because	because	cs
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+cycle	cycle	nn1
+.	.	y
+They	they	pphs2
+will	will	vm
+not	not	xx
+be	be	vbi
+part	part	nn1
+of	of	io
+the	the	at
+cycle	cycle	nn1
+of	of	io
+violence	violence	nn1
+.	.	y
+My	my	appge
+son	son	nn1
+said	say	vvd
+he	he	pphs1
+'d	have	vm
+go	go	vvi
+to	to	ii
+court	court	nn1
+and	and	cc
+testify	testify	vvi
+for	for	if
+me.	me	nnu
+@!DOW		zzq
+:	:	y
+After	after	cs_ii
+her	her	appge
+daughter	daughter	nn1
+'s	's	ge
+suicide	suicide	nn1
+threat	threat	nn1
+,	,	y
+Lorie	lorie	np1
+left	leave	vvd
+home	home	rl
+with	with	iw
+the	the	at
+children	child	nn2
+and	and	cc
+went	go	vvd
+to	to	ii
+Crossroads	crossroads	nn1
+...	...	...
+@!LORIE		zzq
+:	:	y
+He	he	pphs1
+said	say	vvd
+,	,	y
+'	'	ge
+Mom	mom	nn1
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+I	i	ppis1
+'ll	will	vm
+do	do	vdi
+whatever	whatever	ddqv
+it	it	pph1
+takes	take	vvz
+,	,	y
+because	because	cs
+,	,	y
+'	'	"@
+he	he	pphs1
+said	say	vvd
+,	,	y
+'	'	"@_ge
+I	i	ppis1
+'m	be	vbm
+tired	tired	jj
+of	of	io
+seeing	see	vvg
+people	people	nn
+hurt	hurt	vvi
+you	you	ppy
+.	.	y
+'	'	"@_ge
+@!DOW		zzq
+:	:	y
+...	...	...
+a	a	at1
+shelter	shelter	nn1
+for	for	if
+battered	battered	jj
+women	woman	nn2
+.	.	y
+@!LORIE		zzq
+:	:	y
+He	he	pphs1
+said	say	vvd
+,	,	y
+'	'	"@
+Does	do	vdz
+n't	n't	xx
+it	it	pph1
+feel	feel	vvi
+good	good	jj
+to	to	to
+come	come	vvi
+home	home	rl
+and	and	cc
+know	know	vvi
+we	we	ppis2
+do	do	vd0
+n't	n't	xx
+have	have	vhi
+to	to	to
+go	go	vvi
+directly	directly	rr
+to	to	ii
+our	our	appge
+room	room	nn1
+?	?	y
+'	'	"@_ge
+And	and	cc
+I	i	ppis1
+said	say	vvd
+,	,	y
+'	'	"@
+Yeah	yeah	uh
+.	.	y
+'	'	"@_ge
+@!Ms-BECKY-BELLAMY		zzq
+:	:	y
+You	you	ppy
+'re	be	vbr
+going	go	vvgk
+to	to	to
+be	be	vbi
+OK.	ok	jj
+@!DOW		zzq
+:	:	y
+Today	today	rt
+,	,	y
+with	with	iw
+the	the	at
+support	support	nn1
+of	of	io
+shelter	shelter	nn1
+employee	employee	nn1
+Becky	becky	np1
+Bellamy	bellamy	np1
+...	...	...
+@!Ms-BELLAMY		zzq
+:	:	y
+This	this	dd1
+is	be	vbz
+just	just	rr
+the	the	at
+hard	hard	jj
+part	part	nn1
+you	you	ppy
+'re	be	vbr
+going	go	vvg
+through	through	rp@
+with	with	iw
+everything	everything	pn1
+that	that	cst
+you	you	ppy
+decided	decide	vvd
+on	on	rp@
+.	.	y
+@!DOW		zzq
+:	:	y
+...	...	...
+Lorie	lorie	nn1_np1@
+is	be	vbz
+going	go	vvg
+to	to	ii
+court	court	nn1
+to	to	to
+try	try	vvi
+to	to	to
+get	get	vvi
+a	a	at1
+civil	civil	jj
+protection	protection	nn1
+order	order	nn1
+...	...	...
+@!LORIE		zzq
+:	:	y
+I	i	ppis1
+'m	be	vbm
+having	have	vhg
+an	a	at1
+anxiety	anxiety	nn1
+attack	attack	nn1_vv0
+right	right	rr_nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.	.	y
+@!DOW		zzq
+:	:	y
+...	...	...
+a	a	at1
+piece	piece	nn1
+of	of	io
+paper	paper	nn1
+ordering	order	vvg
+her	her	appge
+husband	husband	nn1
+to	to	to
+stay	stay	vvi
+away	away	rl
+...	...	...
+@!LORIE		zzq
+:	:	y
+Can	can	vm
+I	i	ppis1
+have	have	vhi
+a	a	at1
+huck	huck	nn1
+for	for	if
+goo	goo	nn1
+--		nn1
+a	a	at1
+hug	hug	nn1
+for	for	if
+--		zz
+hug	hug	nn1
+for	for	if
+good	good	jj
+luck	luck	nn1
+?	?	y
+@!Ms-BELLACMY-You'll#		zzq
+@!DOW		zzq
+:	:	y
+...	...	...
+and	and	cc
+giving	give	vvg
+Lorie	lorie	np1_nn1@
+possession	possession	nn1
+of	of	io
+the	the	at
+house	house	nn1
+and	and	cc
+custody	custody	nn1
+of	of	io
+the	the	at
+children	child	nn2
+.	.	y
+@!Ms-BELLAMY		zzq
+:	:	y
+Are	be	vbr
+you	you	ppy
+ready	ready	vv0%_jj_rr@
+?	?	y
+@!LORIE		zzq
+:	:	y
+As	as	rg
+ready	ready	jj_rr@
+as	as	csa
+I	i	ppis1
+'m	be	vbm
+ever	ever	rr
+going	go	vvgk
+to	to	to
+be	be	vbi
+,	,	y
+I	i	ppis1
+guess	guess	vv0
+.	.	y
+@!Ms-BELLAMY		zzq
+:	:	y
+Lorie	lorie	np1
+has	have	vhz
+n't	n't	xx
+seen	see	vvn
+her	her	appge
+husband	husband	nn1
+since	since	cs
+she	she	pphs1
+left	leave	vvd
+the	the	at
+home	home	nn1
+three	three	mc
+weeks	week	nnt2
+ago	ago	ra
+,	,	y
+and	and	cc
+that	that	dd1_cst
+makes	make	vvz
+it	it	pph1
+all	all	db
+the	the	at
+scarier.	scarier	nnu
+@!LORIE		zzq
+:	:	y
+I	i	ppis1
+'m	be	vbm
+looking	look	vvg
+around	around	rp
+for	for	if
+his	his	appge
+truck	truck	nn1
+,	,	y
+and	and	cc
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+see	see	vvi
+it	it	pph1
+.	.	y
+He	he	pphs1
+was	be	vbdz
+my	my	appge
+warden	warden	nn1
+.	.	y
+I	i	ppis1
+was	be	vbdz
+his	his	appge
+prisoner	prisoner	nn1
+.	.	y
+Today	today	rt
+I	i	ppis1
+cut	cut	vv0
+the	the	at
+ball	ball	nn1
+and	and	cc
+chain	chain	nn1
+,	,	y
+and	and	cc
+I	i	ppis1
+will	will	vm
+be	be	vbi
+no	no	at
+man	man	nn1
+'s	's	ge
+prisoner	prisoner	nn1
+.	.	y
+@!DOW		zzq
+:	:	y
+Tell	tell	vv0
+me	me	ppio1
+about	about	ii
+your	your	appge
+mother	mother	nn1
+and	and	cc
+father	father	nn1
+.	.	y
+@!LORIE		zzq
+:	:	y
+My	my	appge
+dad	dad	nn1
+would	would	vm
+take	take	vvi
+my	my	appge
+mom	mom	nn1
+'s	's	ge
+face	face	nn1
+and	and	cc
+smash	smash	vvi
+it	it	pph1
+into	into	ii
+the	the	at
+cabinet	cabinet	nn1
+doors	door	nn2
+and	and	cc
+knock	knock	vv0
+her	her	ppho1
+around	around	rp
+,	,	y
+and	and	cc
+she	she	pphs1
+was	be	vbdz
+pregnant	pregnant	jj
+.	.	y
+@!DOW		zzq
+:	:	y
+Is	be	vbz
+it	it	pph1
+ironic	ironic	jj
+that	that	cst
+you	you	ppy
+grew	grow	vvd
+up	up	rp
+in	in	ii
+a	a	at1
+house	house	nn1
+like	like	ii
+that	that	dd1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+?	?	y
+--		nn1
+coincidence	coincidence	nn1
+?	?	y
+@!LORIE		zzq
+:	:	y
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+think	think	vvi
+it	it	pph1
+is	be	vbz
+coincidence	coincidence	nn1
+,	,	y
+but	but	ccb
+it	it	pph1
+is	be	vbz
+ironic	ironic	jj
+.	.	y
+Lorie	lorie	np1@_nn1
+'s	's	ge
+Attorney	attorney	nn1
+:	:	y
+What	what	ddq
+he	he	pphs1
+'s	be	vbz
+willing	willing	jk
+to	to	to
+do	do	vdi
+is	be	vbz
+agree	agree	vvi
+to	to	ii
+everything	everything	pn1
+...	...	...
+@!LORIE		zzq
+:	:	y
+I	i	ppis1
+just	just	rr
+want	want	vv0
+it	it	pph1
+all	all	rr
+over	over	rp@
+with	with	iw
+.	.	y
+@!Ms-BEMLLAY		zzq
+:	:	y
+I	i	ppis1
+know	know	vv0
+.	.	y
+Lorie	lorie	np1@_nn1
+'s	's	ge
+Attorney	attorney	nn1
+:	:	y
+If	if	cs
+we	we	ppis2
+agree	agree	vv0
+,	,	y
+you	you	ppy
+wo	will	vm
+n't	n't	xx
+have	have	vhi
+to	to	to
+testify	testify	vvi
+.	.	y
+@!LORIE		zzq
+:	:	y
+God	god	np1
+.	.	y
+@!Ms-BELLAMY		zzq
+:	:	y
+It	it	pph1
+'s	be	vbz
+OK	ok	jj
+,	,	y
+Lorie.	lorie	np1
+@!LORIE		zzq
+:	:	y
+I	i	ppis1
+just	just	rr
+want	want	vv0
+this	this	dd1_rg%
+all	all	rr
+over	over	rp@
+with	with	iw
+.	.	y
+I	i	ppis1
+want	want	vv0
+to	to	to
+be	be	vbi
+home	home	rl
+with	with	iw
+my	my	appge
+kids	kid	nn2
+.	.	y
+@!Ms-BELLAMY		zzq
+:	:	y
+You	you	ppy
+will	will	vm
+be	be	vbi
+.	.	y
+You	you	ppy
+will	will	vm
+be	be	vbi
+home	home	rl
+with	with	iw
+them	them	ppho2
+tonight	tonight	rt
+.	.	y
+Lorie	lorie	np1@_nn1
+'s	's	ge
+attorney	attorney	nn1
+just	just	rr
+told	tell	vvd_vvn
+her	her	ppho1
+that	that	cst
+her	her	appge
+husband	husband	nn1
+is	be	vbz
+willing	willing	jj
+to	to	to
+agree	agree	vvi
+to	to	ii
+everything	everything	pn1
+,	,	y
+to	to	to
+sign	sign	vvi
+the	the	at
+papers	paper	nn2
+that	that	cst
+state	state	vv0
+that	that	cst
+he	he	pphs1
+was	be	vbdz
+abusive	abusive	jj
+to	to	ii
+her	her	ppho1
+.	.	y
+He	he	pphs1
+'s	be	vbz
+willing	willing	jk
+to	to	to
+give	give	vvi
+her	her	ppho1
+the	the	at
+custody	custody	nn1
+and	and	cc
+the	the	at
+child	child	nn1
+support	support	vv0_nn1
+that	that	cst
+she	she	pphs1
+'s	be	vbz
+requesting	request	vvg
+,	,	y
+possession	possession	nn1
+of	of	io
+the	the	at
+house	house	nn1
+and	and	cc
+to	to	to
+stay	stay	vvi
+away	away	ii21_rl
+from	from	ii22_ii
+her	her	ppho1
+.	.	y
+The	the	at
+only	only	jj
+glitch	glitch	nn1
+is	be	vbz
+that	that	cst
+he	he	pphs1
+has	have	vhz
+requested	request	vvn
+marital	marital	jj
+counseling	counseling	nn1
+,	,	y
+and	and	cc
+we	we	ppis2
+'re	be	vbr
+not	not	xx
+sure	sure	jj
+that	that	cst
+that	that	dd1
+'s	be	vbz
+a	a	at1
+real	real	jj
+good	good	jj
+idea	idea	nn1
+at	at	ii
+this	this	dd1
+point	point	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+through	through	rp@
+with	with	iw
+the	the	at
+divorce	divorce	nn1
+.	.	y
+@!DOW		zzq
+:	:	y
+Did	do	vdd
+you	you	ppy
+love	love	vvi
+him	him	ppho1
+?	?	y
+@!LORIE		zzq
+:	:	y
+I	i	ppis1
+still	still	rr
+love	love	vv0
+him	him	ppho1
+.	.	y
+@!DOW		zzq
+:	:	y
+After	after	ii
+all	all	db
+you	you	ppy
+'ve	have	vh0
+been	be	vbn
+through	through	rp@_ii
+,	,	y
+you	you	ppy
+still	still	rr
+love	love	vv0
+him	him	ppho1
+?	?	y
+@!LORIE		zzq
+:	:	y
+You	you	ppy
+'re	be	vbr
+not	not	xx
+--		zz
+you	you	ppy
+'re	be	vbr
+not	not	xx
+a	a	at1
+machine	machine	nn1
+;		np1
+you	you	ppy
+ca	can	vm
+n't	n't	xx
+shut	shut	vvi
+your	your	appge
+feelings	feeling	nn2
+off	off	rp
+.	.	y
+Lorie	lorie	np1@_nn1
+'s	's	ge
+Attorney	attorney	nn1
+:	:	y
+The	the	at
+parties	party	nn2
+have	have	vh0
+entered	enter	vvn
+into	into	ii
+an	a	at1
+agreement	agreement	nn1
+whereby	whereby	rrq
+the	the	at
+restraining	restraining	jj@_nn1@
+orders	order	nn2
+will	will	vm
+remain	remain	vvi
+in	in	ii
+effect	effect	nn1
+for	for	if
+one	one	mc1
+year	year	nnt1
+...	...	...
+@!DOW		zzq
+:	:	y
+When	when	rrq_cs
+you	you	ppy
+were	be	vbdr
+in	in	ii
+the	the	at
+courtroom	courtroom	nn1
+this	this	dd1
+morning	morning	nnt1
+and	and	cc
+you	you	ppy
+saw	see	vvd
+David	david	np1
+sitting	sit	vvg
+on	on	ii
+the	the	at
+other	other	jj
+side	side	nn1
+of	of	io
+the	the	at
+defense	defense	nn1
+table	table	nn1
+,	,	y
+what	what	ddq
+thoughts	thought	nn2
+were	be	vbdr
+going	go	vvg
+through	through	ii_rp@
+your	your	appge
+mind	mind	nn1
+?	?	y
+Lorie	lorie	np1@_nn1
+'s	's	ge
+Attorney	attorney	nn1
+:	:	y
+The	the	at
+husband	husband	nn1
+will	will	vm
+also	also	rr
+pay	pay	vvi
+$	$	nn
+100	100	mc
+a	a	at1
+week	week	nnt1
+or	or	cc
+$	$	nn
+50	50	mc
+per	per	ii
+child	child	nn1
+per	per	ii
+week	week	nnt1
+...	...	...
+@!LORIE		zzq
+:	:	y
+I	i	ppis1
+was	be	vbdz
+thinking	think	vvg
+,	,	y
+'	'	ge
+Look	look	nn1
+what	what	ddq
+I	i	ppis1
+'ve	have	vh0
+done	do	vdn
+to	to	ii
+this	this	dd1
+man	man	nn1
+.	.	y
+'	'	"@_ge
+Lorie	lorie	np1@_nn1
+'s	's	ge
+Attorney	attorney	nn1
+:	:	y
+...	...	...
+house	house	nn1_vv0@
+payments	payment	nn2
+,	,	y
+property	property	nn1
+tax	tax	nn1
+,	,	y
+insurance	insurance	nn1
+,	,	y
+car	car	nn1
+payments	payment	nn2
+...	...	...
+@!LORIE		zzq
+:	:	y
+I	i	ppis1
+'ve	have	vh0
+taken	take	vvn
+everything	everything	pn1
+from	from	ii
+him	him	ppho1
+.	.	y
+Lorie	lorie	np1@_nn1
+'s	's	ge
+Attorney	attorney	nn1
+:	:	y
+The	the	at
+wife	wife	nn1
+is	be	vbz
+awarded	award	vvn
+exclusive	exclusive	jj
+possession	possession	nn1
+of	of	io
+the	the	at
+couple	couple	nn1
+'s	's	ge
+residence	residence	nn1
+...	...	...
+@!LORIE		zzq
+:	:	y
+He	he	pphs1
+was	be	vbdz
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@!DOW		zzq
+:	:	y
+But	but	ccb
+that	that	dd1
+does	do	vdz
+n't	n't	xx
+equate	equate	vvi
+with	with	iw
+10	10	mc
+years	year	nnt2
+of	of	io
+being	be	vbg
+battered	batter	vvn
+.	.	y
+@!LORIE		zzq
+:	:	y
+I	i	ppis1
+know	know	vv0
+.	.	y
+Unidentified	unidentified	jj
+Woman	woman	nn1
+1	1	mc1
+:	:	y
+The	the	at
+court	court	nn1
+finds	find	vvz
+the	the	at
+agreement	agreement	nn1
+fair	fair	jj_rr@
+to	to	ii
+both	both	db2
+of	of	io
+you	you	ppy
+,	,	y
+and	and	cc
+,	,	y
+therefore	therefore	rr
+,	,	y
+it	it	pph1
+is	be	vbz
+approved	approve	vvn
+.	.	y
+@!LORIE		zzq
+:	:	y
+I	i	ppis1
+understand	understand	vv0
+that	that	cst_dd1
+,	,	y
+and	and	cc
+people	people	nn
+have	have	vh0
+been	be	vbn
+trying	try	vvg
+to	to	to
+talk	talk	vvi
+to	to	ii
+me	me	ppio1
+about	about	ii
+that	that	dd1
+.	.	y
+Woman	woman	nn1
+1	1	mc1
+:	:	y
+And	and	cc
+I	i	ppis1
+want	want	vv0
+to	to	to
+thank	thank	vvi
+you	you	ppy
+for	for	if
+your	your	appge
+cooperation	cooperation	nn1
+.	.	y
+Good	good	jj
+luck	luck	nn1
+to	to	ii_to
+both	both	rr
+you	you	ppy
+.	.	y
+Court	court	nn1
+is	be	vbz
+adjourned	adjourn	vvn
+.	.	y
+@!DOW		zzq
+:	:	y
+Less	less	dar
+than	than	csn
+24	24	mc
+hours	hour	nnt2
+after	after	ii_cs
+a	a	at1
+civil	civil	jj
+court	court	nn1
+ordered	order	vvd
+Lorie	lorie	np1
+'s	's	ge
+husband	husband	nn1
+to	to	to
+stay	stay	vvi
+away	away	ii21_rl
+from	from	ii22_ii
+her	her	ppho1
+and	and	cc
+the	the	at
+children	child	nn2
+,	,	y
+he	he	pphs1
+showed	show	vvd
+up	up	rp
+at	at	ii
+their	their	appge
+home	home	nn1
+.	.	y
+@!LORIE		zzq
+:	:	y
+He	he	pphs1
+told	tell	vvd
+me	me	ppio1
+--		nn1_jj
+he	he	pphs1
+says	say	vvz
+,	,	y
+'	'	ge
+Well	well	nn1
+,	,	y
+if	if	cs
+you	you	ppy
+do	do	vd0
+n't	n't	xx
+let	let	vvi
+--		zz
+talk	talk	nn1
+to	to	ii
+those	those	dd2
+kids	kid	nn2
+and	and	cc
+ask	ask	vv0
+them	them	ppho2
+if	if	cs
+I	i	ppis1
+can	can	vm
+come	come	vvi
+home	home	rl
+and	and	cc
+stay	stay	vvi
+,	,	y
+'	'	"@
+he	he	pphs1
+says	say	vvz
+,	,	y
+'	'	"@_ge
+I	i	ppis1
+will	will	vm
+kill	kill	vvi
+myself	myself	ppx1
+.	.	y
+'	'	"@_ge
+And	and	cc
+that	that	dd1
+'s	be	vbz
+when	when	rrq_cs
+I	i	ppis1
+told	tell	vvd
+him	him	ppho1
+,	,	y
+I	i	ppis1
+said	say	vvd
+,	,	y
+'	'	"@
+Whatever	whatever	ddqv
+it	it	pph1
+takes	take	vvz
+,	,	y
+'	'	ge
+and	and	cc
+I	i	ppis1
+went	go	vvd
+in	in	rp@
+and	and	cc
+called	call	vvd@_vvn
+the	the	at
+cops	cop	nn2
+.	.	y
+@!DOW		zzq
+:	:	y
+The	the	at
+next	next	md
+day	day	nnt1
+Lorie	lorie	np1_nn1@
+attends	attend	vvz
+a	a	at1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+me	me	ppio1
+that	that	cst
+he	he	pphs1
+would	would	vm
+take	take	vvi
+my	my	appge
+house	house	nn1
+and	and	cc
+those	those	dd2
+kids	kid	nn2
+and	and	cc
+I	i	ppis1
+would	would	vm
+have	have	vhi
+nothing	nothing	pn1
+.	.	y
+He	he	pphs1
+would	would	vm
+put	put	vvi
+me	me	ppio1
+out	out	rp
+in	in	ii
+the	the	at
+street	street	nn1
+.	.	y
+I	i	ppis1
+knew	know	vvd
+he	he	pphs1
+was	be	vbdz
+n't	n't	xx
+going	go	vvgk
+to	to	to
+touch	touch	vvi
+me	me	ppio1
+,	,	y
+but	but	ccb
+it	it	pph1
+was	be	vbdz
+the	the	at
+way	way	nn1
+I	i	ppis1
+was	be	vbdz
+feeling	feel	vvg
+.	.	y
+After	after	ii
+seeing	see	vvg
+him	him	ppho1
+for	for	if
+three	three	mc
+weeks	week	nnt2
+,	,	y
+I	i	ppis1
+was	be	vbdz
+n't	n't	xx
+feeling	feel	vvg
+unsafe	unsafe	jj
+from	from	ii
+him	him	ppho1
+,	,	y
+I	i	ppis1
+was	be	vbdz
+feeling	feel	vvg
+unsafe	unsafe	jj
+from	from	ii
+my	my	appge
+own	own	da
+feelings	feeling	nn2
+.	.	y
+Unidentified	unidentified	jj
+Woman	woman	nn1
+2	2	mc
+:	:	y
+It	it	pph1
+will	will	vm
+be	be	vbi
+OK.	ok	jj
+@!LORIE		zzq
+:	:	y
+Why	why	rrq
+do	do	vd0
+I	i	ppis1
+feel	feel	vvi
+sorry	sorry	jj
+for	for	if
+him	him	ppho1
+?	?	y
+Woman	woman	nn1
+2	2	mc
+:	:	y
+Probably	probably	rr
+because	because	cs
+you	you	ppy
+love	love	vv0
+him	him	ppho1
+and	and	cc
+he	he	pphs1
+'s	be	vbz
+trying	try	vvg
+to	to	to
+make	make	vvi
+you	you	ppy
+feel	feel	vvi
+sorry	sorry	jj
+for	for	if
+him	him	ppho1
+.	.	y
+@!DOW		zzq
+:	:	y
+You	you	ppy
+'ve	have	vh0
+said	say	vvn
+you	you	ppy
+'re	be	vbr
+going	go	vvgk
+to	to	to
+file	file	vvi
+for	for	if
+divorce	divorce	nn1
+.	.	y
+Will	will	vm_vv0%
+you	you	ppy
+really	really	rr
+do	do	vdi
+it	it	pph1
+?	?	y
+@!LORIE		zzq
+:	:	y
+That	that	dd1
+'s	be	vbz
+hard	hard	jj
+to	to	to
+say	say	vvi
+.	.	y
+That	that	dd1
+'s	be	vbz
+going	go	vvgk
+to	to	to
+take	take	vvi
+some	some	dd
+time	time	nnt1
+.	.	y
+That	that	dd1
+'s	be	vbz
+--		zz
+that	that	cst_dd1
+'s	be	vbz
+--		zz
+I	i	ppis1
+mean	mean	vv0
+,	,	y
+when	when	cs_rrq
+I	i	ppis1
+said	say	vvd
+it	it	pph1
+,	,	y
+I	i	ppis1
+meant	mean	vvd
+it	it	pph1
+.	.	y
+@!DOW		zzq
+:	:	y
+But	but	ccb
+one	one	mc1
+thing	thing	nn1
+is	be	vbz
+certain	certain	jj
+.	.	y
+@!LORIE		zzq
+:	:	y
+What	what	ddq
+'s	be	vbz
+that	that	dd1
+?	?	y
+@!DOW		zzq
+:	:	y
+You	you	ppy
+'ll	will	vm
+have	have	vhi
+to	to	to
+be	be	vbi
+the	the	at
+one	one	pn1
+to	to	ii
+...	...	...
+@!LORIE		zzq
+:	:	y
+To	to	to
+make	make	vvi
+that	that	dd1
+decision	decision	nn1
+.	.	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,	,	y
+you	you	ppy
+'re	be	vbr
+the	the	at
+only	only	jj
+one	one	pn1
+that	that	cst
+can	can	vm
+help	help	vvi
+us.	us	nnu
+'	'	ge
+@!RATHER		zzq
+:	:	y
+Since	since	cs
+that	that	dd1
+report	report	nn1
+aired	air	vvd_vvn
+,	,	y
+Lori	lori	np1_nn1
+has	have	vhz
+gotten	get	vvn
+a	a	at1
+divorce	divorce	nn1
+and	and	cc
+we	we	ppis2
+are	be	vbr
+told	tell	vvn
+she	she	pphs1
+'s	be	vbz
+living	live	vvg
+a	a	at1
+very	very	rg
+happy	happy	jj
+life	life	nn1
+.	.	y
+But	but	ccb
+many	many	da2
+battered	battered	jj
+women	woman	nn2
+know	know	vv0
+that	that	dd1_cst
+freedom	freedom	nn1
+often	often	rr
+has	have	vhz
+a	a	at1
+painful	painful	jj
+price	price	nn1
+.	.	y
+##221559		
+I	i	zz1%
+'VE	have	vh0
+SUFFERED	suffer	vvn
+ENOUGH	enough	rr_dd
+@!ERIN-MORIARTY-repo		zzq
+:	:	y
+It	it	pph1
+'s	be	vbz
+morning	morning	nnt1
+at	at	ii
+Ohio	ohio	np1
+'s	's	ge
+maximum	maximum	jj_nn1
+security	security	nn1
+prison	prison	nn1
+for	for	if
+women	woman	nn2
+.	.	y
+Unidentified	unidentified	jj
+Woman	woman	nn1
+1	1	mc1
+:	:	y
+5:30	5:30	mc
+wake	wake	vv0
+up	up	rp
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+This	this	dd1
+is	be	vbz
+the	the	at
+way	way	nn1
+Janet	janet	np1
+Abbott	abbott	np1
+has	have	vhz
+begun	begin	vvn
+every	every	at1
+day	day	nnt1
+for	for	if
+the	the	at
+past	past	jj
+10	10	mc
+years	year	nnt2
+.	.	y
+@!Ms-JANET-ABBOTT		zzq
+:	:	y
+I	i	ppis1
+'m	be	vbm
+charged	charge	vvn
+with	with	iw
+aggravated	aggravated	jj@
+murder	murder	nn1
+.	.	y
+I	i	ppis1
+hired	hire	vvd
+someone	someone	pn1
+to	to	to
+kill	kill	vvi
+my	my	appge
+husband	husband	nn1
+.	.	y
+I	i	ppis1
+could	could	vm
+n't	n't	xx
+do	do	vdi
+it	it	pph1
+.	.	y
+I	i	ppis1
+never	never	rr
+held	hold	vvd
+a	a	at1
+gun	gun	nn1
+in	in	ii
+my	my	appge
+life	life	nn1
+.	.	y
+Unidentified	unidentified	jj
+Man	man	nn1
+:	:	y
+It	it	pph1
+was	be	vbdz
+at	at	ii
+10:00	10:00	mc
+in	in	ii
+the	the	at
+evening	evening	nnt1
+.	.	y
+I	i	ppis1
+was	be	vbdz
+the	the	at
+first	first	md
+one	one	pn1
+on	on	ii
+the	the	at
+scene	scene	nn1
+.	.	y
+Mr.	mr	nnb
+Abbott	abbott	np1
+was	be	vbdz
+laying	lay	vvg
+in	in	ii
+bed	bed	nn1
+.	.	y
+I	i	ppis1
+saw	see	vvd
+a	a	at1
+hole	hole	nn1
+in	in	ii
+the	the	at
+back	back	nn1
+of	of	io
+his	his	appge
+head	head	nn1
+with	with	iw
+a	a	at1
+very	very	rg
+small	small	jj
+amount	amount	nn1
+of	of	io
+blood	blood	nn1
+.	.	y
+@!Ms-ABBOTT		zzq
+:	:	y
+When	when	rrq_cs
+I	i	zz1%
+thi	thi	nn2
+--		nn1_jj
+when	when	cs_rrq
+I	i	ppis1
+talk	talk	vv0
+about	about	ii
+it	it	pph1
+,	,	y
+think	think	vv0
+about	about	ii
+it	it	pph1
+,	,	y
+yeah	yeah	uh
+,	,	y
+it	it	pph1
+was	be	vbdz
+really	really	rr
+cold	cold	jj
+blood	blood	nn1
+,	,	y
+and	and	cc
+at	at	ii
+that	that	dd1
+time	time	nnt1
+it	it	pph1
+just	just	rr
+--		zz
+to	to	to
+get	get	vvi
+it	it	pph1
+over	over	rp
+with	with	iw
+was	be	vbdz
+the	the	at
+most	most	rgt
+important	important	jj
+thing	thing	nn1
+.	.	y
+Unidentified	unidentified	jj
+Man	man	nn1
+:	:	y
+This	this	dd1
+is	be	vbz
+premeditated	premeditated	jj@_vvn@
+murder	murder	nn1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+In	in	ii
+August	august	npm1
+,	,	y
+1981	1981	mc
+,	,	y
+Janet	janet	np1
+Abbott	abbott	np1
+was	be	vbdz
+found	find	vvn
+guilty	guilty	jj
+of	of	io
+hiring	hire	vvg
+someone	someone	pn1
+to	to	to
+kill	kill	vvi
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+you	you	ppy
+think	think	vvi
+you	you	ppy
+should	should	vm
+have	have	vhi
+gone	go	vvn
+to	to	ii
+prison	prison	nn1
+?	?	y
+@!Ms-ABBOTT		zzq
+:	:	y
+Not	not	xx
+for	for	if
+life	life	nn1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+Why	why	rrq
+not	not	xx
+?	?	y
+You	you	ppy
+took	take	vvd
+a	a	at1
+life	life	nn1
+.	.	y
+@!Ms-ABBOTT		zzq
+:	:	y
+And	and	cc
+I	i	ppis1
+saved	save	vvd
+lives	life	nn2
+,	,	y
+too	too	rr@
+.	.	y
+I	i	ppis1
+saved	save	vvd
+four	four	mc
+kids	kid	nn2
+'	'	ge
+lives	life	nn2
+.	.	y
+@!RICK-ABBOTT		zzq
+:	:	y
+Mom	mom	nn1
+wore	wear	vvd
+dark	dark	jj
+glasses	glass	nn2
+a	a	rr21@_at1
+lot	lot	rr22_nn1
+.	.	y
+@!TIM-ABBOTT		zzq
+:	:	y
+You	you	ppy
+can	can	vm
+tell	tell	vvi
+she	she	pphs1
+'s	be	vhz
+got	get	vvn
+a	a	at1
+black	black	jj
+eye	eye	nn1
+here	here	rl
+.	.	y
+@!STEVE-ABBOTT		zzq
+:	:	y
+Black	black	jj
+eyes	eye	nn2
+here	here	rl
+.	.	y
+She	she	pphs1
+had	have	vhd
+a	a	at1
+bruise	bruise	nn1
+over	over	rp_ii
+there	there	rl
+,	,	y
+and	and	cc
+this	this	dd1
+is	be	vbz
+a	a	at1
+black	black	jj
+eye	eye	nn1
+at	at	ii
+a	a	at1
+different	different	jj
+--		nn1_jj
+a	a	at1
+different	different	jj
+time	time	nnt1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+Janet	janet	np1
+'s	's	ge
+four	four	mc
+sons	son	nn2
+:	:	y
+Rick	rick	np1
+,	,	y
+Tim	tim	np1
+,	,	y
+Jamie	jamie	np1
+and	and	cc
+Steve	steve	np1
+.	.	y
+@!STEVE		zzq
+:	:	y
+My	my	appge
+dad	dad	nn1
+was	be	vbdz
+a	a	at1
+big	big	jj
+man	man	nn1
+.	.	y
+He	he	pphs1
+was	be	vbdz
+a	a	at1
+mean	mean	jj
+man	man	nn1
+.	.	y
+It	it	pph1
+was	be	vbdz
+scary	scary	jj
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+What	what	ddq
+'s	be	vbz
+the	the	at
+worst	bad	jjt
+thing	thing	nn1
+you	you	ppy
+remember	remember	vv0
+?	?	y
+@!TIM		zzq
+:	:	y
+The	the	at
+worst	bad	jjt
+thing	thing	nn1
+I	i	ppis1
+can	can	vm
+remember	remember	vvi
+is	be	vbz
+my	my	appge
+dad	dad	nn1
+had	have	vhd
+my	my	appge
+mother	mother	nn1
+down	down	rp
+on	on	ii
+the	the	at
+floor	floor	nn1
+,	,	y
+the	the	at
+back	back	nn1
+of	of	io
+her	her	appge
+head	head	nn1_jj@
+--		nn1
+banging	bang	vvg
+her	her	appge
+head	head	nn1
+on	on	ii
+the	the	at
+floor	floor	nn1
+.	.	y
+And	and	cc
+I	i	ppis1
+went	go	vvd
+over	over	rp
+and	and	cc
+--		zz
+and	and	cc
+tried	try	vvd
+to	to	to
+push	push	vvi
+him	him	ppho1
+off	off	rp
+,	,	y
+and	and	cc
+I	i	ppis1
+was	be	vbdz
+only	only	rr
+about	about	rg
+12	12	mc
+years	year	nnt2
+old	old	jj
+at	at	ii
+the	the	at
+time	time	nnt1
+.	.	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+wall	wall	nn1
+.	.	y
+@!RICK		zzq
+:	:	y
+Mom	mom	nn1
+got	get	vvd_vvn
+a	a	at1
+lot	lot	nn1
+of	of	io
+beatings	beating	nn2
+for	for	if
+us	us	ppio2
+,	,	y
+because	because	cs
+he	he	pphs1
+would	would	vm
+start	start	vvi
+on	on	ii
+us	us	ppio2
+and	and	cc
+she	she	pphs1
+would	would	vm
+stand	stand	vvi
+up	up	rp
+for	for	if
+us	us	ppio2
+,	,	y
+and	and	cc
+he	he	pphs1
+would	would	vm
+just	just	rr
+take	take	vvi
+off	off	rp
+on	on	ii
+her	her	ppho1
+.	.	y
+@!STEVE		zzq
+:	:	y
+Things	thing	nn2
+like	like	ii
+this	this	dd1
+,	,	y
+they	they	pphs2
+did	do	vdd
+n't	n't	xx
+happen	happen	vvi
+just	just	rr
+once	once	rr
+or	or	cc
+twice	twice	rr
+or	or	cc
+three	three	mc
+times	time	nnt2
+.	.	y
+It	it	pph1
+went	go	vvd
+on	on	rp@
+and	and	cc
+on	on	rp@_ii
+and	and	cc
+on	on	rp@_ii
+.	.	y
+It	it	pph1
+was	be	vbdz
+--		zz
+that	that	cst_dd1
+was	be	vbdz
+our	our	appge
+normal	normal	jj
+life	life	nn1
+.	.	y
+@!RICK		zzq
+:	:	y
+Dad	dad	nn1
+was	be	vbdz
+good	good	jj
+.	.	y
+You	you	ppy
+know	know	vv0
+,	,	y
+he	he	pphs1
+would	would	vm
+pick	pick	vvi
+anything	anything	pn1
+he	he	pphs1
+could	could	vm
+grab	grab	vvi
+to	to	to
+hit	hit	vvi
+you	you	ppy
+with	with	iw
+or	or	cc
+throw	throw	vv0_nn1
+at	at	ii
+you	you	ppy
+.	.	y
+I	i	ppis1
+mean	mean	vv0
+,	,	y
+he	he	pphs1
+had	have	vhd
+hammers	hammer	nn2
+,	,	y
+and	and	cc
+screwdrivers	screwdriver	nn2
+,	,	y
+a	a	at1
+blackjack	blackjack	nn1
+that	that	cst
+he	he	pphs1
+had	have	vhd
+bought	buy	vvn
+,	,	y
+2-by-4s.	2-by-4s	nnu_jj
+@!JAMIE		zzq
+:	:	y
+People	people	nn
+just	just	rr
+do	do	vd0
+n't	n't	xx
+know	know	vvi
+.	.	y
+I	i	ppis1
+'m	be	vbm
+sure	sure	jj
+they	they	pphs2
+never	never	rr
+went	go	vvd
+through	through	ii
+hell	hell	nn1
+and	and	cc
+beatings	beating	nn2
+like	like	vv0@_cs%
+we	we	ppis2
+did	do	vdd
+.	.	y
+@!STEVE		zzq
+:	:	y
+That	that	dd1
+was	be	vbdz
+our	our	appge
+life	life	nn1
+.	.	y
+That	that	dd1
+was	be	vbdz
+our	our	appge
+life	life	nn1
+--		nn1_jj
+to	to	to
+live	live	vvi
+in	in	ii
+fear	fear	nn1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+What	what	ddq
+do	do	vd0
+you	you	ppy
+think	think	vvi
+would	would	vm
+have	have	vhi
+happened	happen	vvn@
+if	if	cs
+your	your	appge
+mother	mother	nn1
+had	have	vhd
+not	not	xx
+had	have	vhn
+your	your	appge
+father	father	nn1
+killed	kill	vvn_vvd
+?	?	y
+@!JAMIE		zzq
+:	:	y
+One	one	mc1
+of	of	io
+us	us	ppio2
+would	would	vm
+n't	n't	xx
+be	be	vbi
+standing	stand	vvg
+here	here	rl
+today	today	rt
+.	.	y
+That	that	dd1
+'s	be	vbz
+how	how	rrq
+I	i	ppis1
+feel	feel	vv0
+.	.	y
+@!MORIARTY		zzq
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+He	he	pphs1
+--		zz
+he	he	pphs1
+would	would	vm
+have	have	vhi
+killed	kill	vvn
+one	one	mc1
+of	of	io
+us.	us	nnu
+@!MORIARTY		zzq
+:	:	y
+The	the	at
+jury	jury	nn1
+heard	hear	vvd_vvn
+none	none	pn
+of	of	io
+that	that	dd1
+because	because	cs
+10	10	mc
+years	year	nnt2
+ago	ago	ra
+,	,	y
+when	when	cs_rrq
+Janet	janet	np1
+was	be	vbdz
+on	on	ii
+trial	trial	nn1
+,	,	y
+Ohio	ohio	np1
+justice	justice	nn1
+was	be	vbdz
+blind	blind	jj
+to	to	ii
+the	the	at
+battered	battered	jj
+woman	woman	nn1
+.	.	y
+@!Mr-DAVID-GREEN-@1J		zzq
+:	:	y
+I	i	ppis1
+was	be	vbdz
+prevented	prevent	vvn
+from	from	ii
+introducing	introduce	vvg
+evidence	evidence	nn1
+of	of	io
+the	the	at
+beatings	beating	nn2
+and	and	rr31
+so	so	rr32
+forth	forth	rr33
+from	from	ii
+the	the	at
+four	four	mc
+people	people	nn
+that	that	cst
+were	be	vbdr
+very	very	rg
+close	close	jj
+to	to	ii
+the	the	at
+case	case	nn1
+,	,	y
+the	the	at
+four	four	mc
+kids	kid	nn2
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+The	the	at
+law	law	nn1
+did	do	vdd
+n't	n't	xx
+allow	allow	vvi
+Janet	janet	np1
+'s	's	ge
+attorney	attorney	nn1
+,	,	y
+David	david	np1
+Green	green	np1@_jj
+,	,	y
+to	to	to
+show	show	vvi
+what	what	ddq
+could	could	vm
+lead	lead	vvi
+a	a	at1
+battered	battered	jj
+woman	woman	nn1
+to	to	to
+kill	kill	vvi
+her	her	appge
+husband	husband	nn1
+.	.	y
+@!Mr-GREEN		zzq
+:	:	y
+I	i	ppis1
+was	be	vbdz
+also	also	rr
+prevented	prevent	vvn_vvd
+from	from	ii
+introducing	introduce	vvg
+evidence	evidence	nn1
+that	that	cst
+reflected	reflect	vvd
+four	four	mc
+back	back	jj@_nn1
+operations	operation	nn2
+,	,	y
+broken	broken	jj
+ribs	rib	nn2
+,	,	y
+a	a	at1
+number	number	nn1
+of	of	io
+other	other	jj
+beatings	beating	nn2
+that	that	cst
+were	be	vbdr
+in	in	ii
+the	the	at
+form	form	nn1
+of	of	io
+hospital	hospital	nn1
+records	record	nn2
+.	.	y
+I	i	ppis1
+could	could	vm
+n't	n't	xx
+answer	answer	vvi
+the	the	at
+magic	magic	jj_nn1
+question	question	nn1
+that	that	cst
+every	every	at1
+single	single	jj
+jury	jury	nn1
+wants	want	vvz
+to	to	to
+know	know	vvi
+:	:	y
+Why	why	rrq
+did	do	vdd
+a	a	at1
+gentle	gentle	jj
+,	,	y
+nice	nice	jj_rr@
+,	,	y
+sweet	sweet	jj
+lady	lady	nn1
+contract	contract	nn1
+to	to	to
+kill	kill	vvi
+her	her	appge
+husband	husband	nn1
+?	?	y
+@!MORIARTY		zzq
+:	:	y
+The	the	at
+law	law	nn1
+has	have	vhz
+changed	change	vvn
+here	here	rl
+in	in	ii
+Ohio	ohio	np1
+.	.	y
+The	the	at
+courts	court	nn2
+may	may	vm
+now	now	rt
+even	even	rr
+consider	consider	vvi
+evidence	evidence	nn1
+of	of	io
+abuse	abuse	nn1
+in	in	ii
+battered	battered	jj
+women	woman	nn2
+'s	's	ge
+cases	case	nn2
+,	,	y
+and	and	cc
+during	during	ii
+our	our	appge
+48	48	mc
+hours	hour	nnt2
+,	,	y
+outgoing	outgoing	jj
+governor	governor	nn1
+Richard	richard	np1
+Celeste	celeste	np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+:	:	y
+to	to	to
+reduce	reduce	vvi
+the	the	at
+prison	prison	nn1
+sentences	sentence	nn2
+of	of	io
+some	some	dd
+of	of	io
+these	these	dd2
+women	woman	nn2
+or	or	cc
+even	even	rr
+to	to	to
+set	set	vvi
+them	them	ppho2
+free	free	jj
+.	.	y
+@!Mr-RICHARD-CELESTE		zzq
+:	:	y
+Had	have	vhd
+they	they	pphs2
+been	be	vbn
+given	give	vvn
+the	the	at
+right	right	nn1
+to	to	to
+defend	defend	vvi
+themselves	themselves	ppx2
+with	with	iw
+the	the	at
+facts	fact	nn2
+--		zz
+brutal	brutal	jj
+,	,	y
+shocking	shocking	jj_vvg@
+facts	fact	nn2
+about	about	ii
+their	their	appge
+life	life	nn1
+experience	experience	nn1
+--		nn1_jj
+they	they	pphs2
+almost	almost	rr
+certainly	certainly	rr
+would	would	vm
+have	have	vhi
+not	not	xx
+been	be	vbn
+convicted	convict	vvn
+or	or	cc
+would	would	vm
+have	have	vhi
+been	be	vbn
+charged	charge	vvn
+and	and	cc
+convicted	convicted	jj_vvn
+of	of	io
+much	much	da1_rr
+lesser	lesser	jj
+crimes	crime	nn2
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+That	that	dd1
+'s	be	vbz
+what	what	ddq
+Janet	janet	np1
+Abbott	abbott	np1
+claims	claim	vvz_nn2
+,	,	y
+and	and	cc
+so	so	rr
+do	do	vd0
+one-quarter	one-quarter	mf
+of	of	io
+all	all	db
+women	woman	nn2
+currently	currently	rr
+serving	serve	vvg
+time	time	nnt1
+for	for	if
+violent	violent	jj
+crimes	crime	nn2
+in	in	ii
+Ohio	ohio	np1
+'s	's	ge
+prisons	prison	nn2
+.	.	y
+@!Mr-CELESTE		zzq
+:	:	y
+There	there	ex
+will	will	vm
+be	be	vbi
+some	some	dd
+women	woman	nn2
+who	who	pnqs
+have	have	vh0
+their	their	appge
+sentences	sentence	nn2
+commuted	commute	vvn
+.	.	y
+There	there	ex
+will	will	vm
+be	be	vbi
+a	a	at1
+number	number	nn1
+of	of	io
+women	woman	nn2
+who	who	pnqs
+do	do	vd0
+not	not	xx
+.	.	y
+@!STEVE		zzq
+:	:	y
+What	what	ddq
+mom	mom	nn1
+did	do	vdd
+was	be	vbdz
+--		zz
+it	it	pph1
+was	be	vbdz
+legally	legally	rr
+wrong	wrong	jj_rr@
+,	,	y
+but	but	ccb
+why	why	rrq
+she	she	pphs1
+did	do	vdd
+it	it	pph1
+was	be	vbdz
+never	never	rr
+taken	take	vvn
+into	into	ii
+account	account	nn1
+.	.	y
+The	the	at
+misery	misery	nn1
+that	that	cst
+we	we	ppis2
+were	be	vbdr
+put	put	vvn
+in	in	rp@_ii
+,	,	y
+the	the	at
+hell	hell	nn1
+that	that	cst
+we	we	ppis2
+lived	live	vvd
+was	be	vbdz
+n't	n't	xx
+even	even	rr
+considered	consider	vvn_vvd
+.	.	y
+@!TIM		zzq
+:	:	y
+When	when	rrq_cs
+I	i	ppis1
+think	think	vv0
+of	of	io
+her	her	ppho1
+in	in	ii
+--		nn1_jj
+in	in	ii
+prison	prison	nn1
+,	,	y
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+think	think	vvi
+of	of	io
+her	her	ppho1
+as	as	ii_csa
+a	a	at1
+--		nn1_jj
+as	as	ii_csa
+a	a	at1
+murderer	murderer	nn1
+.	.	y
+She	she	pphs1
+did	do	vdd
+n't	n't	xx
+see	see	vvi
+any	any	dd
+other	other	jj
+way	way	nn1
+out	out	rp
+.	.	y
+She	she	pphs1
+was	be	vbdz
+protecting	protect	vvg
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+battering	batter	vvg
+alone	alone	rr
+an	a	at1
+excuse	excuse	nn1
+for	for	if
+killing	kill	vvg_nn1
+or	or	cc
+a	a	at1
+reason	reason	nn1
+now	now	rt
+from	from	ii
+releasing	release	vvg
+Janet	janet	np1
+Abbott	abbott	np1
+from	from	ii
+prison	prison	nn1
+?	?	y
+@!Mr-MIKE-MOSHER		zzq
+:	:	y
+I	i	ppis1
+believe	believe	vv0
+that	that	cst
+Janet	janet	np1
+Abbott	abbott	np1
+was	be	vbdz
+abu	abu	nn1
+--		nn1
+an	a	at1
+abused	abused	jj@
+,	,	y
+battered	battered	jj_vvd
+wife	wife	nn1
+,	,	y
+and	and	cc
+I	i	ppis1
+believe	believe	vv0
+that	that	cst
+she	she	pphs1
+was	be	vbdz
+also	also	rr
+the	the	at
+mother	mother	nn1
+of	of	io
+abused	abused	jj@
+children	child	nn2
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+Mike	mike	np1
+Mosher	mosher	np1
+was	be	vbdz
+the	the	at
+prosecutor	prosecutor	nn1
+in	in	ii
+Janet	janet	np1
+'s	's	ge
+trial	trial	nn1
+.	.	y
+@!Mr-MOSHER		zzq
+:	:	y
+The	the	at
+battered	battered	jj
+wife	wife	nn1
+syndrome	syndrome	nn1
+is	be	vbz
+n't	n't	xx
+just	just	rr
+a	a	at1
+battered	battered	jj
+wife	wife	nn1
+.	.	y
+What	what	ddq
+that	that	dd1
+means	mean	vvz_nn
+is	be	vbz
+that	that	cst
+she	she	pphs1
+is	be	vbz
+suffering	suffer	vvg_jj
+from	from	ii
+some	some	dd
+type	type	nn1
+of	of	io
+,	,	y
+like	like	rr
+,	,	y
+an	a	at1
+anxiety	anxiety	nn1
+attack	attack	nn1_vv0
+,	,	y
+if	if	cs
+you	you	ppy
+will	will	vm
+,	,	y
+in	in	ii
+which	which	ddq
+all	all	db
+of	of	io
+the	the	at
+past	past	jj_nn1
+aggressions	aggression	nn2
+well	well	rr_vv0%
+up	up	rp_ii@
+inside	inside	rl_nn1@
+of	of	io
+her	her	ppho1
+so	so	cs21
+that	that	cs22
+at	at	ii
+the	the	at
+moment	moment	nn1
+that	that	cst
+she	she	pphs1
+commits	commit	vvz
+the	the	at
+lethal	lethal	jj
+act	act	nn1
+,	,	y
+she	she	pphs1
+has	have	vhz
+had	have	vhn
+this	this	dd1
+syndrome	syndrome	nn1
+,	,	y
+in	in	ii
+a	a	at1
+sense	sense	nn1
+,	,	y
+take	take	vv0
+over	over	rp_ii
+her	her	appge
+good	good	jj
+judgment	judgment	nn1
+and	and	cc
+reason	reason	nn1
+and	and	cc
+she	she	pphs1
+pulls	pull	vvz
+the	the	at
+trigger	trigger	nn1
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+How	how	rrq
+do	do	vd0
+you	you	ppy
+know	know	vvi
+that	that	cst_dd1
+did	do	vdd
+n't	n't	xx
+happen	happen	vvi
+to	to	ii@
+Janet	janet	np1
+Abbott	abbott	np1
+?	?	y
+@!Mr-MOSHER		zzq
+:	:	y
+Because	because	cs
+she	she	pphs1
+did	do	vdd
+n't	n't	xx
+pull	pull	vvi
+the	the	at
+trigger	trigger	nn1
+.	.	y
+She	she	pphs1
+pulled	pull	vvd
+out	out	rp
+the	the	at
+pen	pen	nn1
+and	and	cc
+wrote	write	vvd
+a	a	at1
+check	check	nn1
+.	.	y
+And	and	cc
+that	that	dd1_cst
+is	be	vbz
+much	much	rr_da1
+different	different	jj
+than	than	csn
+pulling	pull	vvg
+the	the	at
+trigger	trigger	nn1
+.	.	y
+@!Mr-GREEN		zzq
+:	:	y
+The	the	at
+reason	reason	nn1
+that	that	cst
+many	many	da2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+is	be	vbz
+because	because	ii21
+of	of	ii22
+fear	fear	nn1
+.	.	y
+It	it	pph1
+'s	be	vbz
+because	because	ii21
+of	of	ii22
+desperation	desperation	nn1
+.	.	y
+It	it	pph1
+'s	be	vbz
+because	because	ii21
+of	of	ii22
+hopelessness	hopelessness	nn1
+.	.	y
+It	it	pph1
+'s	be	vbz
+because	because	cs
+they	they	pphs2
+have	have	vh0
+no	no	at_rr%
+place	place	nn1_vv0
+else	else	rr
+to	to	to
+go	go	vvi
+.	.	y
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+think	think	vvi
+Janet	janet	np1
+Abbott	abbott	np1
+should	should	vm
+have	have	vhi
+been	be	vbn
+acquitted	acquit	vvn
+in	in	ii
+this	this	dd1
+instance	instance	nn1
+,	,	y
+but	but	ccb
+I	i	ppis1
+do	do	vd0
+think	think	vvi
+that	that	cst
+Janet	janet	np1
+Abbott	abbott	np1
+should	should	vm
+have	have	vhi
+been	be	vbn
+found	find	vvn
+guilty	guilty	jj
+of	of	io
+the	the	at
+lesser	lesser	jj
+offense	offense	nn1
+of	of	io
+voluntary	voluntary	jj
+manslaughter	manslaughter	nn1
+--		nn1
+that	that	rex21
+is	is	rex22
+,	,	y
+killing	kill	vvg
+under	under	ii_rg@
+great	great	jj
+emotional	emotional	jj
+stress	stress	nn1
+.	.	y
+In	in	ii
+all	all	db
+probability	probability	nn1
+,	,	y
+she	she	pphs1
+would	would	vm
+have	have	vhi
+been	be	vbn
+out	out	rp
+in	in	ii
+maybe	maybe	rr
+three	three	mc
+years	year	nnt2
+max.	maximum	nn1
+@!Ms-ABBOTT		zzq
+:	:	y
+Ten	ten	mc
+years	year	nnt2
+is	be	vbz
+a	a	at1_rr21@
+lot	lot	nn1_rr22
+.	.	y
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+know	know	vvi
+.	.	y
+I	i	ppis1
+mean	mean	vv0
+,	,	y
+you	you	ppy
+know	know	vv0
+,	,	y
+I	i	ppis1
+took	take	vvd
+a	a	at1
+life	life	nn1
+,	,	y
+and	and	cc
+that	that	dd1
+life	life	nn1
+is	be	vbz
+never	never	rr
+coming	come	vvg
+back	back	rp
+,	,	y
+but	but	ccb
+I	i	ppis1
+think	think	vv0
+I	i	ppis1
+'ve	have	vh0
+suffered	suffer	vvn
+enough	enough	rr_dd
+for	for	if_cs%
+it	it	pph1
+.	.	y
+I	i	ppis1
+missed	miss	vvd
+--		zz
+I	i	ppis1
+just	just	rr
+think	think	vv0
+that	that	cst
+he	he	pphs1
+would	would	vm
+want	want	vvi
+me	me	ppio1
+out	out	rp
+with	with	iw
+the	the	at
+kids	kid	nn2
+.	.	y
+I	i	ppis1
+mean	mean	vv0
+,	,	y
+I	i	ppis1
+hope	hope	vv0
+that	that	cst
+he	he	pphs1
+would	would	vm
+.	.	y
+I	i	ppis1
+'m	be	vbm
+getting	get	vvg
+old	old	jj
+.	.	y
+You	you	ppy
+know	know	vv0
+,	,	y
+that	that	dd1
+'s	be	vbz
+my	my	appge
+worry	worry	nn1@
+,	,	y
+you	you	ppy
+know	know	vv0
+?	?	y
+When	when	cs_rrq
+I	i	ppis1
+get	get	vv0
+out	out	rp
+--		nn1_jj
+too	too	rg
+old	old	jj
+to	to	to
+enjoy	enjoy	vvi
+life	life	nn1
+.	.	y
+@!JAMIE		zzq
+:	:	y
+If	if	cs
+it	it	pph1
+comes	come	vvz
+out	out	rp
+where	where	cs_rrq
+they	they	pphs2
+do	do	vd0
+n't	n't	xx
+let	let	vvi
+her	her	ppho1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.	.	y
+It	it	pph1
+'s	be	vbz
+hard	hard	jj
+.	.	y
+It	it	pph1
+'s	be	vbz
+just	just	rr
+hard	hard	jj
+.	.	y
+@!MORIARTY		zzq
+:	:	y
+You	you	ppy
+really	really	rr
+want	want	vv0
+her	her	ppho1
+out	out	rp
+.	.	y
+@!JAMIE		zzq
+:	:	y
+Yes	yes	uh
+.	.	y
+More	more	dar
+wa	wa	nn1
+--		nn1
+more	more	dar_rrr
+ways	way	nn2
+than	than	csn
+words	word	nn2
+can	can	vm
+say	say	vvi
+.	.	y
+@!Ms-ABBOTT		zzq
+:	:	y
+He	he	pphs1
+'s	be	vhz
+just	just	rr
+got	get	vvn
+his	his	appge_ppge@
+hopes	hope	nn2_vvz
+up	up	rp
+so	so	rg_rr
+high	high	jj_rr@
+.	.	y
+Now	now	rt
+it	it	pph1
+'s	be	vbz
+getting	get	vvg
+close	close	jj
+and	and	cc
+it	it	pph1
+'s	be	vbz
+kind	kind	rr21%_nn1
+of	of	rr22_io
+scary	scary	jj
+.	.	y
+You	you	ppy
+know	know	vv0
+,	,	y
+what	what	ddq
+if	if	cs
+--		nn1_jj
+what	what	ddq
+if	if	cs
+the	the	at
+answer	answer	nn1
+is	be	vbz
+going	go	vvgk
+to	to	to
+be	be	vbi
+no	no	uh
+?	?	y
+And	and	cc
+you	you	ppy
+try	try	vv0
+not	not	xx
+to	to	to
+get	get	vvi
+your	your	appge
+hopes	hope	nn2
+up	up	rp
+.	.	y
+Woman	woman	nn1
+1	1	mc1
+:	:	y
+Downtime	downtime	nnt1
+ladies	lady	nn2
+.	.	y
+@!Ms-ABBOTT		zzq
+:	:	y
+Good	good	jj
+night	night	nnt1
+,	,	y
+Mary	mary	np1
+.	.	y
+You	you	ppy
+know	know	vv0
+,	,	y
+that	that	dd1
+'s	be	vbz
+what	what	ddq
+I	i	ppis1
+pray	pray	vv0
+about	about	rp@_ii
+now	now	rt
+.	.	y
+You	you	ppy
+know	know	vv0
+,	,	y
+God	god	np1
+make	make	vv0
+me	me	ppio1
+be	be	vbi
+strong	strong	jj
+enough	enough	rr
+to	to	to
+handle	handle	vvi
+a	a	at1
+no.	no	nn1
