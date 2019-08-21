@@ -3,15 +3,21 @@ import os
 import time
 import string
 
+import nltk
 import requests as req
+import pickle as pkl
 from bs4 import BeautifulSoup as BS
 from tqdm import tqdm
-import nltk
+
 
 trans = True
 multi_size = 50
 
 trans_url = 'http://www.youdao.com/w/%s/'
+word_filter=set(pkl.load(open('primary_school_words.pkl', 'rb'))+ \
+                pkl.load(open('middle_school_words.pkl', 'rb'))+ \
+                pkl.load(open('high_school_first_words.pkl', 'rb'))+ \
+                [''])
 stopwords=nltk.corpus.stopwords.words('english')
 lemmatizer = nltk.stem.WordNetLemmatizer()
 
@@ -44,6 +50,8 @@ def get_word_list_form_text(text: str, trans: bool, multi: int) -> dict:
                 if check_contain_punctuation(word): continue
 
                 word=lemmatizer.lemmatize(word, pos=get_wordnet_pos(pos))
+                if word in word_filter: continue
+
                 if word not in words:
                     words[word] = [0, 0]
                 words[word][0]+=1
